@@ -1,0 +1,4 @@
+---
+title: "Beach Bazaar"
+url: /gulf-shores/beach-bazaar/
+---

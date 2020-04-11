@@ -1,0 +1,4 @@
+---
+title: "Sofy Copy"
+url: /auburn/sofy-copy/
+---
