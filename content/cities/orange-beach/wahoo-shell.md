@@ -1,4 +1,4 @@
 ---
-title: "WAHOO SHELL"
+title: "Wahoo Shell"
 url: /orange-beach/wahoo-shell/
 ---
