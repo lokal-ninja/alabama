@@ -1,4 +1,4 @@
 ---
-title: "Books-a-Million"
+title: "Books-A-Million"
 url: /gulf-shores/books-a-million/
 ---
