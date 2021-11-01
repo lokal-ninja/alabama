@@ -1,5 +1,5 @@
 ---
 title: "Mia Moda Boutique"
 url: /vestavia-hills/mia-moda-boutique/
-shop: boutique
+shop: clothes
 ---
