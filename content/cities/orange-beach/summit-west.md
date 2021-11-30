@@ -1,5 +1,5 @@
 ---
-title: "SUMMIT WEST"
+title: "Summit West"
 url: /orange-beach/summit-west/
 shop: convenience
 ---

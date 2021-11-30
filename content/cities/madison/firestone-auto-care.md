@@ -1,5 +1,5 @@
 ---
 title: "Firestone Auto Care"
 url: /madison/firestone-auto-care/
-shop: tyres
+shop: car repair
 ---

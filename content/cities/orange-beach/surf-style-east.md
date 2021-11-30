@@ -1,5 +1,5 @@
 ---
-title: "SURF STYLE (EAST)"
+title: "Surf Style (East)"
 url: /orange-beach/surf-style-east/
 shop: shop
 ---

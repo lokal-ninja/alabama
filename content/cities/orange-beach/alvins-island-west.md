@@ -1,5 +1,5 @@
 ---
-title: "ALVINS ISLAND (WEST)"
+title: "Alvins Island (West)"
 url: /orange-beach/alvins-island-west/
 shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
-title: "ALL ISLAND FLOWERS"
+title: "All Island Flowers"
 url: /orange-beach/all-island-flowers/
 shop: florist
 ---

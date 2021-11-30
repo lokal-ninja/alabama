@@ -1,5 +1,5 @@
 ---
-title: "SEASIDE LIQUOR 4"
+title: "Seaside Liquor 4"
 url: /orange-beach/seaside-liquor-4/
 shop: alcohol
 ---

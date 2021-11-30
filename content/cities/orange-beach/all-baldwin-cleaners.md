@@ -1,5 +1,5 @@
 ---
-title: "ALL BALDWIN CLEANERS"
+title: "All Baldwin Cleaners"
 url: /orange-beach/all-baldwin-cleaners/
 shop: laundry
 ---

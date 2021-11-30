@@ -1,5 +1,5 @@
 ---
-title: "ORANGE BEACH BIKES"
+title: "Orange Beach Bikes"
 url: /orange-beach/orange-beach-bikes/
 shop: bicycle
 ---

@@ -1,6 +1,6 @@
 ---
 title: Russellville
 url: /russellville/
-latitude: 34.5067141
-longitude: -87.7294591
+latitude: 34.5068228
+longitude: -87.72902640000001
 ---

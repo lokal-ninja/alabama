@@ -1,5 +1,5 @@
 ---
-title: "SURF STYLE (CENTER)"
+title: "Surf Style (Center)"
 url: /orange-beach/surf-style-center/
 shop: shop
 ---
