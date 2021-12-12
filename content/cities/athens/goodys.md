@@ -1,5 +1,5 @@
 ---
 title: "Goody's"
 url: /athens/goodys/
-shop: clothes
+shop: department store
 ---
