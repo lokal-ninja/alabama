@@ -1,6 +1,6 @@
 ---
 title: Prichard
 url: /prichard/
-latitude: 30.738799800000002
-longitude: -88.07888890000001
+latitude: 30.744
+longitude: -88.079
 ---

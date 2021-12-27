@@ -1,5 +1,5 @@
 ---
 title: "String A Long"
 url: /orange-beach/string-a-long/
-shop: shop
+shop: Allgemein
 ---

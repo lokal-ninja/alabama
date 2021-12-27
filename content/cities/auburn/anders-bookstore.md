@@ -1,5 +1,5 @@
 ---
 title: "Anders Bookstore"
 url: /auburn/anders-bookstore/
-shop: books
+shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Earthside"
 url: /florence/earthside/
-shop: baby goods
+shop: Babysachen
 ---

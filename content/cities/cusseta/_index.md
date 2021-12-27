@@ -1,6 +1,6 @@
 ---
 title: Cusseta
 url: /cusseta/
-latitude: 32.7848521
-longitude: -85.30577790000001
+latitude: 32.745
+longitude: -85.284
 ---

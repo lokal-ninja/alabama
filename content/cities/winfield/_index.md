@@ -1,6 +1,6 @@
 ---
 title: Winfield
 url: /winfield/
-latitude: 33.928993000000006
-longitude: -87.8172457
+latitude: 33.935
+longitude: -87.841
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /tuscaloosa/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dothan
 url: /dothan/
-latitude: 31.223743400000004
-longitude: -85.3933906
+latitude: 31.196
+longitude: -85.444
 ---

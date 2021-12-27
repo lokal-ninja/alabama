@@ -1,6 +1,6 @@
 ---
 title: Hope Hull
 url: /hope-hull/
-latitude: 32.2698632
-longitude: -86.35719160000001
+latitude: 32.196
+longitude: -86.42
 ---

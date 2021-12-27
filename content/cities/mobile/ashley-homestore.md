@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
 url: /mobile/ashley-homestore/
-shop: furniture
+shop: Möbel
 ---

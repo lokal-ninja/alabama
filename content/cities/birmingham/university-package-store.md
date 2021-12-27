@@ -1,5 +1,5 @@
 ---
 title: "University Package Store"
 url: /birmingham/university-package-store/
-shop: alcohol
+shop: Spirituosen
 ---

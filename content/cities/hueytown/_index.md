@@ -1,6 +1,6 @@
 ---
 title: Hueytown
 url: /hueytown/
-latitude: 33.4512197
-longitude: -86.9966606
+latitude: 33.461
+longitude: -86.968
 ---

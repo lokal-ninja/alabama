@@ -1,5 +1,5 @@
 ---
 title: "Lauderdale County Cooperative"
 url: /florence/lauderdale-county-cooperative/
-shop: trade
+shop: Baustoffe
 ---

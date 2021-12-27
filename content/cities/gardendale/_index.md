@@ -1,6 +1,6 @@
 ---
 title: Gardendale
 url: /gardendale/
-latitude: 33.1742863
-longitude: -87.6127857
+latitude: 33.651
+longitude: -86.814
 ---

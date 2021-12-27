@@ -1,6 +1,6 @@
 ---
 title: Headland
 url: /headland/
-latitude: 31.351284000000003
-longitude: -85.34215590000001
+latitude: 31.324
+longitude: -85.344
 ---

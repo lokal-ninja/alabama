@@ -1,6 +1,6 @@
 ---
 title: Monroeville
 url: /monroeville/
-latitude: 31.527939900000003
-longitude: -87.3247077
+latitude: 31.529
+longitude: -87.325
 ---

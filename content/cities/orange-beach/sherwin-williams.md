@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /orange-beach/sherwin-williams/
-shop: paint
+shop: Farben
 ---

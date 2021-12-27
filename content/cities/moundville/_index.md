@@ -1,6 +1,6 @@
 ---
 title: Moundville
 url: /moundville/
-latitude: 32.997624200000004
-longitude: -87.6300075
+latitude: 33.007
+longitude: -87.612
 ---

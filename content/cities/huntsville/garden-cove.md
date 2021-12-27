@@ -1,5 +1,5 @@
 ---
 title: "Garden Cove"
 url: /huntsville/garden-cove/
-shop: supermarket
+shop: Supermarkt
 ---

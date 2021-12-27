@@ -1,5 +1,5 @@
 ---
 title: "Cabinets To Go"
 url: /birmingham/cabinets-to-go/
-shop: furniture
+shop: Möbel
 ---

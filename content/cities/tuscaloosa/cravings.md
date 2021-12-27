@@ -1,5 +1,5 @@
 ---
 title: "Cravings"
 url: /tuscaloosa/cravings/
-shop: convenience
+shop: Lebensmittel
 ---

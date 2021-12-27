@@ -1,5 +1,5 @@
 ---
 title: "Weil's"
 url: /montgomery/weils/
-shop: clothes
+shop: Kleidung
 ---

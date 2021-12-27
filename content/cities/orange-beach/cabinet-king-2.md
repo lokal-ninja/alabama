@@ -1,5 +1,5 @@
 ---
 title: "CABINET KING"
 url: /orange-beach/cabinet-king-2/
-shop: shop
+shop: Allgemein
 ---

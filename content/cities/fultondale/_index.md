@@ -1,6 +1,6 @@
 ---
 title: Fultondale
 url: /fultondale/
-latitude: 33.604826100000004
-longitude: -86.79388
+latitude: 33.602
+longitude: -86.805
 ---

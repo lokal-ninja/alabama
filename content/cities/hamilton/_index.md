@@ -1,6 +1,6 @@
 ---
 title: Hamilton
 url: /hamilton/
-latitude: 34.1423235
-longitude: -87.9886438
+latitude: 34.119
+longitude: -87.992
 ---

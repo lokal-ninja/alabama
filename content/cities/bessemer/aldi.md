@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /bessemer/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

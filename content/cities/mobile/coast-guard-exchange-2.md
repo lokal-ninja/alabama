@@ -1,5 +1,5 @@
 ---
 title: "Coast Guard Exchange"
 url: /mobile/coast-guard-exchange-2/
-shop: department store
+shop: Warenhaus
 ---

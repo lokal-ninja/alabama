@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /calera/publix/
-shop: supermarket
+shop: Supermarkt
 ---

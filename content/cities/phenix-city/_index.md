@@ -1,6 +1,6 @@
 ---
 title: Phenix City
 url: /phenix-city/
-latitude: 32.4709761
-longitude: -85.00076530000001
+latitude: 32.48
+longitude: -85.029
 ---

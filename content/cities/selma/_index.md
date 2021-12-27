@@ -1,6 +1,6 @@
 ---
 title: Selma
 url: /selma/
-latitude: 32.4078632
-longitude: -87.02074730000001
+latitude: 32.356
+longitude: -86.972
 ---

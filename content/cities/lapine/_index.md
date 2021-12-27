@@ -1,6 +1,6 @@
 ---
 title: Lapine
 url: /lapine/
-latitude: 31.965705500000002
-longitude: -86.28440930000001
+latitude: 31.967
+longitude: -86.303
 ---

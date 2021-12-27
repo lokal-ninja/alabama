@@ -1,6 +1,6 @@
 ---
 title: Andalusia
 url: /andalusia/
-latitude: 31.308060700000002
-longitude: -86.48242400000001
+latitude: 31.322
+longitude: -86.445
 ---

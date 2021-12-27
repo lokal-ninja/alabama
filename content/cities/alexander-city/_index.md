@@ -1,6 +1,6 @@
 ---
 title: Alexander City
 url: /alexander-city/
-latitude: 32.944012
-longitude: -85.95385320000001
+latitude: 32.766
+longitude: -85.945
 ---

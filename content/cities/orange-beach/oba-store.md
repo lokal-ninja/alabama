@@ -1,5 +1,5 @@
 ---
 title: "Oba Store"
 url: /orange-beach/oba-store/
-shop: shop
+shop: Allgemein
 ---

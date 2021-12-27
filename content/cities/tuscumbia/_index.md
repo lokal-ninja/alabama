@@ -1,6 +1,6 @@
 ---
 title: Tuscumbia
 url: /tuscumbia/
-latitude: 34.7312005
-longitude: -87.70253000000001
+latitude: 34.736
+longitude: -87.704
 ---

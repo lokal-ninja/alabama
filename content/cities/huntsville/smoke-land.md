@@ -1,5 +1,5 @@
 ---
 title: "SMOKE LAND"
 url: /huntsville/smoke-land/
-shop: tobacco
+shop: Tabak
 ---

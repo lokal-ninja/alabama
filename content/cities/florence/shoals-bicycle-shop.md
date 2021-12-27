@@ -1,5 +1,5 @@
 ---
 title: "Shoals Bicycle Shop"
 url: /florence/shoals-bicycle-shop/
-shop: bicycle
+shop: Fahrrad
 ---

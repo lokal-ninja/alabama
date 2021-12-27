@@ -1,6 +1,6 @@
 ---
 title: Boaz
 url: /boaz/
-latitude: 34.2006503
-longitude: -86.16636550000001
+latitude: 34.215
+longitude: -86.156
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /jasper/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

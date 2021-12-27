@@ -1,5 +1,5 @@
 ---
 title: "Jar and Company"
 url: /florence/jar-and-company/
-shop: clothes
+shop: Kleidung
 ---

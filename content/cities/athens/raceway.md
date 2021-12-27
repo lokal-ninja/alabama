@@ -1,5 +1,5 @@
 ---
 title: "Raceway"
 url: /athens/raceway/
-shop: convenience
+shop: Lebensmittel
 ---

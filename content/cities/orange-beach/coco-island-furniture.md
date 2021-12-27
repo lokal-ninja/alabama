@@ -1,5 +1,5 @@
 ---
 title: "Coco Island Furniture"
 url: /orange-beach/coco-island-furniture/
-shop: furniture
+shop: Möbel
 ---

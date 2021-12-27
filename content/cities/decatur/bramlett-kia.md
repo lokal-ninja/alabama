@@ -1,5 +1,5 @@
 ---
 title: "Bramlett Kia"
 url: /decatur/bramlett-kia/
-shop: car
+shop: Autohaus
 ---

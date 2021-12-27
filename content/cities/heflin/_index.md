@@ -1,6 +1,6 @@
 ---
 title: Heflin
 url: /heflin/
-latitude: 33.648994800000004
-longitude: -85.5874584
+latitude: 33.558
+longitude: -85.659
 ---

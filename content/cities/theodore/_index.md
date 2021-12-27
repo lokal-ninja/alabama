@@ -1,6 +1,6 @@
 ---
 title: Theodore
 url: /theodore/
-latitude: 30.5476941
-longitude: -88.17527960000001
+latitude: 30.564
+longitude: -88.214
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sylacuga
 url: /sylacuga/
-latitude: 
-longitude: 
+latitude: 33.168
+longitude: -86.258
 ---

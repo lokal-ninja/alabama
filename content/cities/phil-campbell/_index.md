@@ -1,6 +1,6 @@
 ---
 title: Phil Campbell
 url: /phil-campbell/
-latitude: 34.3516416
-longitude: -87.7053803
+latitude: 34.333
+longitude: -87.679
 ---

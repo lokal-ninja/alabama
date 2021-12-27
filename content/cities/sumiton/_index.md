@@ -1,6 +1,6 @@
 ---
 title: Sumiton
 url: /sumiton/
-latitude: 33.7556606
-longitude: -87.0499992
+latitude: 33.745
+longitude: -87.042
 ---

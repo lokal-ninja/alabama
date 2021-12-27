@@ -1,5 +1,5 @@
 ---
 title: "Wig's Wheels"
 url: /anniston/wigs-wheels/
-shop: bicycle
+shop: Fahrrad
 ---

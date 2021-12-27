@@ -1,6 +1,6 @@
 ---
 title: Opelika
 url: /opelika/
-latitude: 32.6454116
-longitude: -85.3782795
+latitude: 32.648
+longitude: -85.38
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pratville
 url: /pratville/
-latitude: 
-longitude: 
+latitude: 32.547
+longitude: -86.458
 ---

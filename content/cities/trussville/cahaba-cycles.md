@@ -1,5 +1,5 @@
 ---
 title: "Cahaba Cycles"
 url: /trussville/cahaba-cycles/
-shop: bicycle
+shop: Fahrrad
 ---
