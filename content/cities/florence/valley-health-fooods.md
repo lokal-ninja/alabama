@@ -1,5 +1,5 @@
 ---
 title: "Valley Health Fooods"
 url: /florence/valley-health-fooods/
-shop: Bioladen
+shop: health food
 ---

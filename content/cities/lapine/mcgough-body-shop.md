@@ -1,5 +1,5 @@
 ---
 title: "McGough Body Shop"
 url: /lapine/mcgough-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

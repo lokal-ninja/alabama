@@ -1,5 +1,5 @@
 ---
 title: "Anthony Underwood Automotive"
 url: /bessemer/anthony-underwood-automotive/
-shop: Autohaus
+shop: car
 ---

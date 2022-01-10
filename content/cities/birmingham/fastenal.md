@@ -1,5 +1,5 @@
 ---
 title: "Fastenal"
 url: /birmingham/fastenal/
-shop: Baustoffe
+shop: trade
 ---

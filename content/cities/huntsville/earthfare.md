@@ -1,5 +1,5 @@
 ---
 title: "Earthfare"
 url: /huntsville/earthfare/
-shop: Supermarkt
+shop: supermarket
 ---

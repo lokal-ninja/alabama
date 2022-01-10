@@ -1,5 +1,5 @@
 ---
 title: "Dauphin Market"
 url: /mobile/dauphin-market/
-shop: Spirituosen
+shop: alcohol
 ---

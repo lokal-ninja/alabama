@@ -1,5 +1,5 @@
 ---
 title: "High Cotton"
 url: /orange-beach/high-cotton/
-shop: Allgemein
+shop: shop
 ---

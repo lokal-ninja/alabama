@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /hoover/target/
-shop: Warenhaus
+shop: department store
 ---

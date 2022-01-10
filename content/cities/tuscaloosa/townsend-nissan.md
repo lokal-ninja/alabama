@@ -1,5 +1,5 @@
 ---
 title: "Townsend Nissan"
 url: /tuscaloosa/townsend-nissan/
-shop: Autohaus
+shop: car
 ---

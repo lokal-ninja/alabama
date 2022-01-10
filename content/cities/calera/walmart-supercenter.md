@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /calera/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

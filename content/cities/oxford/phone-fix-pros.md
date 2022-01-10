@@ -1,5 +1,5 @@
 ---
 title: "Phone Fix PROS"
 url: /oxford/phone-fix-pros/
-shop: Handy
+shop: mobile phone
 ---

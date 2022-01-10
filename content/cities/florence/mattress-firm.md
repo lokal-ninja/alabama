@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /florence/mattress-firm/
-shop: Betten
+shop: bed
 ---

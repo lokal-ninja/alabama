@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /tuscaloosa/publix/
-shop: Supermarkt
+shop: supermarket
 ---

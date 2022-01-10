@@ -1,5 +1,5 @@
 ---
 title: "Hobbs Jewelers"
 url: /athens/hobbs-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

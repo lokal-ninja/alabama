@@ -1,5 +1,5 @@
 ---
 title: "Utopia"
 url: /orange-beach/utopia/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ScoBek's"
 url: /florence/scobeks/
-shop: Allgemein
+shop: shop
 ---

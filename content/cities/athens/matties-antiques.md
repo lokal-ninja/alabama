@@ -1,5 +1,5 @@
 ---
 title: "Mattie's Antiques"
 url: /athens/matties-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

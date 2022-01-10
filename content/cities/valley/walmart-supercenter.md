@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /valley/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

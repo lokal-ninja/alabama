@@ -1,5 +1,5 @@
 ---
 title: "CIRCLE K"
 url: /orange-beach/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

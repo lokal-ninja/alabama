@@ -1,5 +1,5 @@
 ---
 title: "ABC Beverages"
 url: /selma/abc-beverages/
-shop: Spirituosen
+shop: alcohol
 ---

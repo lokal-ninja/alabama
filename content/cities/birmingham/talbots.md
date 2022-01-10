@@ -1,5 +1,5 @@
 ---
 title: "Talbots"
 url: /birmingham/talbots/
-shop: Kleidung
+shop: clothes
 ---

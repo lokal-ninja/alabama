@@ -1,5 +1,5 @@
 ---
 title: "Tallman Company"
 url: /florence/tallman-company/
-shop: Baustoffe
+shop: trade
 ---

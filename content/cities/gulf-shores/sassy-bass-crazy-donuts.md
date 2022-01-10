@@ -1,5 +1,5 @@
 ---
 title: "Sassy Bass Crazy Donuts"
 url: /gulf-shores/sassy-bass-crazy-donuts/
-shop: Bäckerei
+shop: bakery
 ---

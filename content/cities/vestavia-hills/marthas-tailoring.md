@@ -1,5 +1,5 @@
 ---
 title: "Martha's Tailoring"
 url: /vestavia-hills/marthas-tailoring/
-shop: Schneiderei
+shop: tailor
 ---

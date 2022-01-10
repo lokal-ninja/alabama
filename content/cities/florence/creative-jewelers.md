@@ -1,5 +1,5 @@
 ---
 title: "Creative Jewelers"
 url: /florence/creative-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jerry Damson Acura"
 url: /huntsville/jerry-damson-acura/
-shop: Autohaus
+shop: car
 ---

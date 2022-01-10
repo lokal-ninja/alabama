@@ -1,5 +1,5 @@
 ---
 title: "Driver's Way"
 url: /pelham/drivers-way/
-shop: Autohaus
+shop: car
 ---

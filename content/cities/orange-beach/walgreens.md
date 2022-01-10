@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /orange-beach/walgreens/
-shop: Drogerie
+shop: chemist
 ---

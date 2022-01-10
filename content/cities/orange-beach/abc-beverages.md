@@ -1,5 +1,5 @@
 ---
 title: "ABC Beverages"
 url: /orange-beach/abc-beverages/
-shop: Spirituosen
+shop: alcohol
 ---

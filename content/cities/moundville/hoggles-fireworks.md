@@ -1,5 +1,5 @@
 ---
 title: "Hoggle's Fireworks"
 url: /moundville/hoggles-fireworks/
-shop: Pyrotechnik
+shop: pyrotechnics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Bead Biz"
 url: /helena/the-bead-biz/
-shop: Schmuck
+shop: jewelry
 ---

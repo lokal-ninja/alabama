@@ -1,5 +1,5 @@
 ---
 title: "Foodliner"
 url: /midland-city/foodliner/
-shop: Supermarkt
+shop: supermarket
 ---

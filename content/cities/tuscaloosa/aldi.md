@@ -1,5 +1,5 @@
 ---
-title: "Aldi"
+title: "ALDI"
 url: /tuscaloosa/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

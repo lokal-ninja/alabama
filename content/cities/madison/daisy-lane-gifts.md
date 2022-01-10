@@ -1,5 +1,5 @@
 ---
 title: "Daisy Lane Gifts"
 url: /madison/daisy-lane-gifts/
-shop: Andenken
+shop: gift
 ---

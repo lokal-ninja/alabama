@@ -1,5 +1,5 @@
 ---
 title: "Gentlemen's Grooming "
 url: /tuscaloosa/gentlemens-grooming/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ranger Batteries"
 url: /florence/ranger-batteries/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hines Tire Center, Inc"
 url: /florence/hines-tire-center-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

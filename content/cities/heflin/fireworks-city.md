@@ -1,5 +1,5 @@
 ---
 title: "Fireworks City"
 url: /heflin/fireworks-city/
-shop: Pyrotechnik
+shop: pyrotechnics
 ---

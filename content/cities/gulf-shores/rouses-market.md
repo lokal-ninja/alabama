@@ -1,5 +1,5 @@
 ---
 title: "Rouse's Market"
 url: /gulf-shores/rouses-market/
-shop: Supermarkt
+shop: supermarket
 ---

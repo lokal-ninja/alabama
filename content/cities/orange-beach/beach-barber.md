@@ -1,5 +1,5 @@
 ---
 title: "BEACH BARBER"
 url: /orange-beach/beach-barber/
-shop: Friseur
+shop: hairdresser
 ---

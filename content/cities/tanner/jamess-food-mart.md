@@ -1,5 +1,5 @@
 ---
 title: "James's Food Mart"
 url: /tanner/jamess-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Cotton Patch"
 url: /talladega/the-cotton-patch/
-shop: Lebensmittel
+shop: convenience
 ---

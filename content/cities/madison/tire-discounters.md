@@ -1,5 +1,5 @@
 ---
 title: "Tire Discounters"
 url: /madison/tire-discounters/
-shop: Reifen
+shop: tyres
 ---

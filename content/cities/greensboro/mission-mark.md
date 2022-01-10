@@ -1,5 +1,5 @@
 ---
 title: "Mission Mark"
 url: /greensboro/mission-mark/
-shop: Kosmetik
+shop: beauty
 ---

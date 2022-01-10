@@ -1,5 +1,5 @@
 ---
 title: "Absco Fireplace and Patio"
 url: /pelham/absco-fireplace-and-patio/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /decatur/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

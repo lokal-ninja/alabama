@@ -1,5 +1,5 @@
 ---
 title: "Trailhead Inc."
 url: /huntsville/trailhead-inc/
-shop: Fahrrad
+shop: bicycle
 ---

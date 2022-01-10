@@ -1,5 +1,5 @@
 ---
 title: "JV Diamond Center"
 url: /huntsville/jv-diamond-center/
-shop: Schmuck
+shop: jewelry
 ---

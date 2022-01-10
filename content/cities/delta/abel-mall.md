@@ -1,5 +1,5 @@
 ---
 title: "Abel Mall"
 url: /delta/abel-mall/
-shop: Lebensmittel
+shop: convenience
 ---

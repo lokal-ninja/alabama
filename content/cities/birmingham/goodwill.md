@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /birmingham/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

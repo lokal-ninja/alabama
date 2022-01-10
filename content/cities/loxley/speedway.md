@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /loxley/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

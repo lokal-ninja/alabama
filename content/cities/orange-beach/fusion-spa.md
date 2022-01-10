@@ -1,5 +1,5 @@
 ---
 title: "Fusion Spa"
 url: /orange-beach/fusion-spa/
-shop: Allgemein
+shop: shop
 ---

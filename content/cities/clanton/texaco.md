@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /clanton/texaco/
-shop: Lebensmittel
+shop: convenience
 ---

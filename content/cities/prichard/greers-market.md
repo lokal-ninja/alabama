@@ -1,5 +1,5 @@
 ---
 title: "Greer's Market"
 url: /prichard/greers-market/
-shop: Supermarkt
+shop: supermarket
 ---

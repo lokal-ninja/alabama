@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /montgomery/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---
