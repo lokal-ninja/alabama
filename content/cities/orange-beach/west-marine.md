@@ -1,5 +1,5 @@
 ---
-title: "WEST MARINE"
+title: "West Marine"
 url: /orange-beach/west-marine/
-shop: shop
+shop: boat
 ---

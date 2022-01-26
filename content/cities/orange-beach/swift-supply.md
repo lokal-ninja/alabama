@@ -1,5 +1,5 @@
 ---
-title: "SWIFT SUPPLY"
+title: "Swift Supply"
 url: /orange-beach/swift-supply/
-shop: shop
+shop: trade
 ---
