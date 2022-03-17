@@ -1,5 +1,5 @@
 ---
 title: "Habitat for Humanity ReStore"
-url: /mobile/habitat-for-humanity-restore/
+url: /irondale/habitat-for-humanity-restore/
 shop: charity
 ---
