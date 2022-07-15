@@ -1,6 +1,6 @@
 ---
 title: Robertsdale
 url: /robertsdale/
-latitude: 30.532
-longitude: -87.711
+latitude: 30.542
+longitude: -87.709
 ---
