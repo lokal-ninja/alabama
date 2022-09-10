@@ -1,5 +1,5 @@
 ---
 title: "Nothing Bundt Cakes"
-url: /huntsville/nothing-bundt-cakes/
+url: /tuscaloosa/nothing-bundt-cakes/
 shop: pastry
 ---
