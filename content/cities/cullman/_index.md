@@ -1,6 +1,6 @@
 ---
 title: Cullman
 url: /cullman/
-latitude: 34.204
-longitude: -86.87
+latitude: 34.158
+longitude: -86.835
 ---

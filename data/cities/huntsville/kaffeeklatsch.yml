@@ -7,5 +7,5 @@ city: Huntsville
 street: "Jefferson Street North"
 housenumber: 103
 phone: "+1-256-539-1636"
-opening_hours: "09:00-16:00, Sa 10:00-15:00, Su-Mo closed"
+opening_hours: "Sa 10:00-15:00; Su,Mo off; Tu-Th 09:00-16:00; Fr 09:00-19:00"
 website: "https://www.kaffeeklatsch.com/"
