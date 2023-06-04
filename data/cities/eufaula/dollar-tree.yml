@@ -1,11 +1,11 @@
-id: 9265012689
-type: node
-latitude: 31.87259
-longitude: -85.15318
+id: 422550662
+type: way
+latitude: 31.87261
+longitude: -85.15289
 postcode: "36027"
 city: Eufaula
 street: "South Eufaula Avenue"
 housenumber: 1571
-phone: "+1 334-232-6030"
-opening_hours: "Mo-Sa 09:00-21:00, Su 0:900-20:00"
+phone: ""
+opening_hours: "Mo-Sa 09:00-21:00;Su 09:00-20:00"
 website: ""
