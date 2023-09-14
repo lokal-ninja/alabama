@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
-url: /birmingham/rainbow/
+url: /birmingham/rainbow-dennison-avenue-southwest/
 shop: clothes
 ---

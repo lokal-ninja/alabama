@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
-url: /birmingham/walgreens/
+url: /birmingham/walgreens-ensley-5-points-w-avenue/
 shop: chemist
 ---

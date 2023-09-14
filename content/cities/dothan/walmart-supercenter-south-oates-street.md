@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /dothan/walmart-supercenter/
+url: /dothan/walmart-supercenter-south-oates-street/
 shop: supermarket
 ---

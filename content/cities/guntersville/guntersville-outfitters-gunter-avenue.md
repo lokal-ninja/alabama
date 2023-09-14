@@ -1,5 +1,5 @@
 ---
 title: "Guntersville Outfitters"
-url: /guntersville/guntersville-outfitters/
+url: /guntersville/guntersville-outfitters-gunter-avenue/
 shop: outdoor
 ---

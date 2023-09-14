@@ -1,5 +1,5 @@
 ---
 title: "Souvenir City"
-url: /orange-beach/souvenir-city/
+url: /orange-beach/souvenir-city-perdido-beach-boulevard/
 shop: gift
 ---
