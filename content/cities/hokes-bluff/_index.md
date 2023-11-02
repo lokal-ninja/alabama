@@ -1,6 +1,6 @@
 ---
 title: Hokes Bluff
 url: /hokes-bluff/
-latitude: 33.987
-longitude: -85.866
+latitude: 33.986
+longitude: -85.865
 ---

@@ -1,6 +1,6 @@
 ---
 title: Centre
 url: /centre/
-latitude: 34.163
-longitude: -85.713
+latitude: 34.168
+longitude: -85.727
 ---

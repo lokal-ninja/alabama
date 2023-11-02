@@ -1,6 +1,6 @@
 ---
 title: Orange Beach
 url: /orange-beach/
-latitude: 30.292
-longitude: -87.628
+latitude: 30.291
+longitude: -87.586
 ---
