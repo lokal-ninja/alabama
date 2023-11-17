@@ -1,6 +1,6 @@
 ---
 title: Fairhope
 url: /fairhope/
-latitude: 30.522
-longitude: -87.849
+latitude: 30.523
+longitude: -87.901
 ---
