@@ -1,6 +1,6 @@
 ---
 title: Hoover
 url: /hoover/
-latitude: 33.379
-longitude: -86.809
+latitude: 33.356
+longitude: -86.843
 ---

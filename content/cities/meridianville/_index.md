@@ -1,6 +1,6 @@
 ---
 title: Meridianville
 url: /meridianville/
-latitude: 34.873
-longitude: -86.571
+latitude: 34.871
+longitude: -86.569
 ---

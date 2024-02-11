@@ -1,6 +1,6 @@
 ---
 title: Warrior
 url: /warrior/
-latitude: 33.801
-longitude: -86.824
+latitude: 33.807
+longitude: -86.81
 ---

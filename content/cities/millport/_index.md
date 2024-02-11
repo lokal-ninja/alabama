@@ -1,6 +1,6 @@
 ---
 title: Millport
 url: /millport/
-latitude: 33.564
-longitude: -88.082
+latitude: 33.561
+longitude: -88.073
 ---
