@@ -1,6 +1,6 @@
 ---
 title: Hartselle
 url: /hartselle/
-latitude: 34.452
-longitude: -86.95
+latitude: 34.44
+longitude: -86.943
 ---
