@@ -1,6 +1,6 @@
 ---
 title: Blountsville
 url: /blountsville/
-latitude: 34.099
-longitude: -86.574
+latitude: 34.081
+longitude: -86.591
 ---
