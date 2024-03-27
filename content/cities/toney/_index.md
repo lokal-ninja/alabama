@@ -1,6 +1,6 @@
 ---
 title: Toney
 url: /toney/
-latitude: 34.933
-longitude: -86.82
+latitude: 34.898
+longitude: -86.75
 ---
