@@ -1,5 +1,5 @@
 ---
-title: "STUDIO VAIL"
+title: "Studio Vail"
 url: /orange-beach/studio-vail/
 shop: hairdresser
 ---

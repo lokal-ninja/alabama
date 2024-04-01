@@ -1,5 +1,5 @@
 ---
-title: "ISLAND DISCOUNT TIRES"
+title: "Island Discount Tires"
 url: /orange-beach/island-discount-tires/
 shop: tyres
 ---
