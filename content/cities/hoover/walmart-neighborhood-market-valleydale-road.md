@@ -1,5 +1,5 @@
 ---
 title: "Walmart Neighborhood Market"
-url: /hoover/walmart-neighborhood-market-lorna-road/
+url: /hoover/walmart-neighborhood-market-valleydale-road/
 shop: supermarket
 ---
