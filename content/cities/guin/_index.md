@@ -1,6 +1,6 @@
 ---
 title: Guin
 url: /guin/
-latitude: 34.011
-longitude: -87.84
+latitude: 33.967
+longitude: -87.91
 ---
