@@ -1,5 +1,5 @@
 ---
-title: "Ocean Eddies"
+title: "Ocean Eddie's"
 url: /orange-beach/ocean-eddies/
-shop: shop
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lucca"
 url: /orange-beach/lucca/
-shop: shop
+shop: clothes
 ---

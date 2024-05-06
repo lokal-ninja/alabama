@@ -1,5 +1,5 @@
 ---
-title: "Melanies"
+title: "Melanie's"
 url: /orange-beach/melanies/
-shop: shop
+shop: interior decoration
 ---
