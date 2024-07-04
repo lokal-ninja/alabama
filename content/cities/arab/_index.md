@@ -1,6 +1,6 @@
 ---
 title: Arab
 url: /arab/
-latitude: 34.329
-longitude: -86.503
+latitude: 34.335
+longitude: -86.505
 ---
