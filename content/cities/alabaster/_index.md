@@ -1,6 +1,6 @@
 ---
 title: Alabaster
 url: /alabaster/
-latitude: 33.245
-longitude: -86.816
+latitude: 33.224
+longitude: -86.804
 ---
