@@ -1,6 +1,6 @@
 ---
 title: Semmes
 url: /semmes/
-latitude: 30.78
-longitude: -88.257
+latitude: 30.762
+longitude: -88.23
 ---
