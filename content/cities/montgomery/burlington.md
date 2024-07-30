@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
-url: /bessemer/burlington/
+url: /montgomery/burlington/
 shop: department store
 ---
