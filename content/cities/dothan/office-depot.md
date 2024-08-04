@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
-url: /homewood/office-depot/
+url: /dothan/office-depot/
 shop: office supplies
 ---
