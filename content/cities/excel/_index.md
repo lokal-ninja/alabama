@@ -1,6 +1,6 @@
 ---
 title: Excel
 url: /excel/
-latitude: 31.427
-longitude: -87.341
+latitude: 31.429
+longitude: -87.342
 ---
