@@ -1,6 +1,6 @@
 ---
 title: Trussville
 url: /trussville/
-latitude: 33.62
-longitude: -86.609
+latitude: 33.615
+longitude: -86.618
 ---
