@@ -1,5 +1,5 @@
 ---
 title: "Ana Belen Salon"
 url: /oneonta/ana-belen-salon/
-shop: hairdresser
+shop: Friseur
 ---

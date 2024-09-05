@@ -1,5 +1,5 @@
 ---
 title: "Trailer World"
 url: /dothan/trailer-world/
-shop: trailer
+shop: Anhänger
 ---

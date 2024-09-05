@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /birmingham/petsmart-trussville-crossings-boulevard/
-shop: pet
+shop: Tiere
 ---

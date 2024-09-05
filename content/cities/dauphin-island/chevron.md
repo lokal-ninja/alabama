@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /dauphin-island/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

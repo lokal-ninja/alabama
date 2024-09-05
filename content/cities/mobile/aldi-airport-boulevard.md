@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /mobile/aldi-airport-boulevard/
-shop: supermarket
+shop: Supermarkt
 ---

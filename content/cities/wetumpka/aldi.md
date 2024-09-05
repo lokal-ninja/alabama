@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /wetumpka/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

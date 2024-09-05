@@ -1,5 +1,5 @@
 ---
 title: "Maple"
 url: /florence/maple/
-shop: gift
+shop: Andenken
 ---

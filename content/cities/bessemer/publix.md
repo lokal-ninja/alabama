@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /bessemer/publix/
-shop: supermarket
+shop: Supermarkt
 ---

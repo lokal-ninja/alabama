@@ -1,5 +1,5 @@
 ---
 title: "Lilys Gift Shop"
 url: /orange-beach/lilys-gift-shop/
-shop: gift
+shop: Andenken
 ---

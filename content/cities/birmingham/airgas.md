@@ -1,5 +1,5 @@
 ---
 title: "Airgas"
 url: /birmingham/airgas/
-shop: gas
+shop: Gasflaschen
 ---

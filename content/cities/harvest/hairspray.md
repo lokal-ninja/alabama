@@ -1,5 +1,5 @@
 ---
 title: "Hairspray"
 url: /harvest/hairspray/
-shop: hairdresser
+shop: Friseur
 ---

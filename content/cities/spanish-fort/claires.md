@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /spanish-fort/claires/
-shop: boutique
+shop: Modehaus
 ---

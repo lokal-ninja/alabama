@@ -1,5 +1,5 @@
 ---
-title: "ALs Liquor Tobacco Wine"
+title: "Al's Liquor Tobacco Wine"
 url: /orange-beach/als-liquor-tobacco-wine/
-shop: alcohol
+shop: Spirituosen
 ---

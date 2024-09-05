@@ -1,5 +1,5 @@
 ---
 title: "A-1 Appliance"
 url: /huntsville/a-1-appliance/
-shop: appliance
+shop: Haushaltsgeräte
 ---

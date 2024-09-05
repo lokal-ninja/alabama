@@ -1,5 +1,5 @@
 ---
 title: "LifeStyle Nail"
 url: /madison/lifestyle-nail/
-shop: beauty
+shop: Kosmetik
 ---

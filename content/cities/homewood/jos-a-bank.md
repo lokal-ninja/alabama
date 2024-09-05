@@ -1,5 +1,5 @@
 ---
 title: "JoS. A. Bank"
 url: /homewood/jos-a-bank/
-shop: clothes
+shop: Kleidung
 ---

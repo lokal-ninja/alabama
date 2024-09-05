@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /decatur/ford/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /opelika/kroger/
-shop: supermarket
+shop: Supermarkt
 ---

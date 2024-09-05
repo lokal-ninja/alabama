@@ -1,5 +1,5 @@
 ---
 title: "popshelf"
 url: /huntsville/popshelf/
-shop: interior decoration
+shop: Raumausstattung
 ---

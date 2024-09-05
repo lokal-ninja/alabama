@@ -1,5 +1,5 @@
 ---
 title: "Watwood Autos LLC"
 url: /cullman/watwood-autos-llc/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RaceWay"
 url: /fultondale/raceway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
 url: /birmingham/rainbow/
-shop: clothes
+shop: Kleidung
 ---

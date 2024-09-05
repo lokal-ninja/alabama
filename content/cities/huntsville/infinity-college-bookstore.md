@@ -1,5 +1,5 @@
 ---
 title: "Infinity College Bookstore"
 url: /huntsville/infinity-college-bookstore/
-shop: books
+shop: Bücher
 ---

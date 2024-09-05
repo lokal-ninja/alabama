@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /eufaula/walmart-supercenter/
-shop: supermarket
+shop: Supermarkt
 ---

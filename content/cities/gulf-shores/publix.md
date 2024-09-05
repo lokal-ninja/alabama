@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /gulf-shores/publix/
-shop: supermarket
+shop: Supermarkt
 ---

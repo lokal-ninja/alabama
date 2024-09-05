@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /hueytown/publix/
-shop: supermarket
+shop: Supermarkt
 ---

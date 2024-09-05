@@ -1,5 +1,5 @@
 ---
 title: "James Bros Bikes"
 url: /auburn/james-bros-bikes/
-shop: bicycle
+shop: Fahrrad
 ---

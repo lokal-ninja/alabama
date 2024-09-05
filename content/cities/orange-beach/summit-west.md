@@ -1,5 +1,5 @@
 ---
 title: "Summit West"
 url: /orange-beach/summit-west/
-shop: convenience
+shop: Lebensmittel
 ---

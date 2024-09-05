@@ -1,5 +1,5 @@
 ---
 title: "Toomer's Drugs"
 url: /auburn/toomers-drugs/
-shop: general
+shop: Dorfladen
 ---

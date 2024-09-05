@@ -1,5 +1,5 @@
 ---
 title: "CGX"
 url: /mobile/cgx/
-shop: department store
+shop: Warenhaus
 ---

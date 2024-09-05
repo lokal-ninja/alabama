@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /hoover/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

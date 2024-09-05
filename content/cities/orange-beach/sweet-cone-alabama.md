@@ -1,5 +1,5 @@
 ---
 title: "Sweet Cone Alabama"
 url: /orange-beach/sweet-cone-alabama/
-shop: confectionery
+shop: Süßwaren
 ---

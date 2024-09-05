@@ -1,5 +1,5 @@
 ---
 title: "Xtreme Marine"
 url: /orange-beach/xtreme-marine/
-shop: electronics
+shop: Elektronik
 ---

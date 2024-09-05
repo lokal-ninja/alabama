@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /madison/kroger-wall-triana-highway/
-shop: supermarket
+shop: Supermarkt
 ---

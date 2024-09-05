@@ -1,5 +1,5 @@
 ---
 title: "Pro Cycle"
 url: /fairhope/pro-cycle/
-shop: bicycle
+shop: Fahrrad
 ---

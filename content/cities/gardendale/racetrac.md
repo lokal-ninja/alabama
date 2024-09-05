@@ -1,5 +1,5 @@
 ---
 title: "RaceTrac"
 url: /gardendale/racetrac/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maurices"
 url: /fultondale/maurices/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "pOpshelf"
 url: /hoover/popshelf/
-shop: variety store
+shop: Kramladen
 ---

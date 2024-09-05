@@ -1,5 +1,5 @@
 ---
 title: "Trendy Consignments"
 url: /oneonta/trendy-consignments/
-shop: furniture
+shop: Möbel
 ---

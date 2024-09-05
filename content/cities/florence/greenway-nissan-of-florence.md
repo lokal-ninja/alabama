@@ -1,5 +1,5 @@
 ---
 title: "Greenway Nissan of Florence"
 url: /florence/greenway-nissan-of-florence/
-shop: car
+shop: Autohaus
 ---

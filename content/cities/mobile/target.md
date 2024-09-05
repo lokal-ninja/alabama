@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /mobile/target/
-shop: department store
+shop: Warenhaus
 ---

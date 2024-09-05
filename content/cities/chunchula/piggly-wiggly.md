@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /chunchula/piggly-wiggly/
-shop: supermarket
+shop: Supermarkt
 ---

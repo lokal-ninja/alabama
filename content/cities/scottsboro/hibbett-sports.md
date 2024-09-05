@@ -1,5 +1,5 @@
 ---
 title: "Hibbett Sports"
 url: /scottsboro/hibbett-sports/
-shop: sports
+shop: Sport
 ---

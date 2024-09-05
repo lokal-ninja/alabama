@@ -1,5 +1,5 @@
 ---
 title: "Winn-Dixie"
 url: /tuscaloosa/winn-dixie-university-boulevard-east/
-shop: supermarket
+shop: Supermarkt
 ---

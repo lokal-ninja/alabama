@@ -1,5 +1,5 @@
 ---
 title: "All American"
 url: /oneonta/all-american/
-shop: car
+shop: Autohaus
 ---

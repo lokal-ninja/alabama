@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /mountain-brook/publix/
-shop: supermarket
+shop: Supermarkt
 ---

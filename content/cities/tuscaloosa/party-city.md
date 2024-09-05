@@ -1,5 +1,5 @@
 ---
 title: "Party City"
 url: /tuscaloosa/party-city/
-shop: party
+shop: Partyzubehör
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SportsMania"
 url: /huntsville/sportsmania/
-shop: sports
+shop: Sport
 ---

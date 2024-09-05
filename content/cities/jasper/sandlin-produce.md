@@ -1,5 +1,5 @@
 ---
 title: "Sandlin Produce"
 url: /jasper/sandlin-produce/
-shop: greengrocer
+shop: Gemüse & Obst
 ---
