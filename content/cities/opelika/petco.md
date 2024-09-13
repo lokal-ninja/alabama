@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /opelika/petco/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Havertys"
 url: /huntsville/havertys/
-shop: Möbel
+shop: furniture
 ---

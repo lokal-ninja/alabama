@@ -1,5 +1,5 @@
 ---
 title: "Hardin"
 url: /hurtsboro/hardin/
-shop: Autoteile
+shop: car parts
 ---

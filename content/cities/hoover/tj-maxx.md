@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /hoover/tj-maxx/
-shop: Warenhaus
+shop: department store
 ---

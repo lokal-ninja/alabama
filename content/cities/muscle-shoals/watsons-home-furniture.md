@@ -1,5 +1,5 @@
 ---
 title: "Watson's Home Furniture"
 url: /muscle-shoals/watsons-home-furniture/
-shop: Möbel
+shop: furniture
 ---

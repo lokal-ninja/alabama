@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /mobile/walgreens/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Katherine Tayor's Salon"
 url: /florence/katherine-tayors-salon/
-shop: Friseur
+shop: hairdresser
 ---

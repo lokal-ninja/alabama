@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /birmingham/gamestop-riverview-parkway/
-shop: Videospiele
+shop: video games
 ---

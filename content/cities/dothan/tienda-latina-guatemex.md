@@ -1,5 +1,5 @@
 ---
 title: "Tienda Latina Guatemex"
 url: /dothan/tienda-latina-guatemex/
-shop: Supermarkt
+shop: supermarket
 ---

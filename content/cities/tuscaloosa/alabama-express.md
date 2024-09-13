@@ -1,5 +1,5 @@
 ---
 title: "Alabama Express"
 url: /tuscaloosa/alabama-express/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /huntsville/dollar-general-old-madison-pike-northwest/
-shop: Kramladen
+shop: variety store
 ---

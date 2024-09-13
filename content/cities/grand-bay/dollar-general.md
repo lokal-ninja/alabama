@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /grand-bay/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

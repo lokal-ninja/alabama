@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /clay/piggly-wiggly/
-shop: Supermarkt
+shop: supermarket
 ---

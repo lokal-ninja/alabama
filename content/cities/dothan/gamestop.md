@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /dothan/gamestop/
-shop: Videospiele
+shop: video games
 ---

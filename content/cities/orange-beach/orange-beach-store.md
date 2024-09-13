@@ -1,5 +1,5 @@
 ---
 title: "Orange Beach Store"
 url: /orange-beach/orange-beach-store/
-shop: Andenken
+shop: gift
 ---

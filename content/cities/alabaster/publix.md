@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /alabaster/publix/
-shop: Supermarkt
+shop: supermarket
 ---

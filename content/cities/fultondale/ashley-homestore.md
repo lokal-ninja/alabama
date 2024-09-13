@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
 url: /fultondale/ashley-homestore/
-shop: Möbel
+shop: furniture
 ---

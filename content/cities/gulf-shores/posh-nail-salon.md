@@ -1,5 +1,5 @@
 ---
 title: "Posh Nail Salon"
 url: /gulf-shores/posh-nail-salon/
-shop: Kosmetik
+shop: beauty
 ---

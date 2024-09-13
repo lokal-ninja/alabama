@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /mobile/ross/
-shop: Warenhaus
+shop: department store
 ---

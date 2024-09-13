@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /bessemer/burlington/
-shop: Warenhaus
+shop: department store
 ---

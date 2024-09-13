@@ -1,5 +1,5 @@
 ---
 title: "South Y Mini Storage"
 url: /fort-payne/south-y-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

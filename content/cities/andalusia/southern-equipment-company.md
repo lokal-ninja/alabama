@@ -1,5 +1,5 @@
 ---
 title: "Southern Equipment Company"
 url: /andalusia/southern-equipment-company/
-shop: Allgemein
+shop: shop
 ---

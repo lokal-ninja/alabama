@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /tarrant/autozone/
-shop: Autoteile
+shop: car parts
 ---

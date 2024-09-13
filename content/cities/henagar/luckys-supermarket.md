@@ -1,5 +1,5 @@
 ---
 title: "Lucky's Supermarket"
 url: /henagar/luckys-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

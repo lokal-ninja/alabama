@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /huntsville/marshalls/
-shop: Warenhaus
+shop: department store
 ---

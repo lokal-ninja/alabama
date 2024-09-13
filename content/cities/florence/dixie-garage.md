@@ -1,5 +1,5 @@
 ---
 title: "Dixie Garage"
 url: /florence/dixie-garage/
-shop: Allgemein
+shop: shop
 ---

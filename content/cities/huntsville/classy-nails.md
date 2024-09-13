@@ -1,5 +1,5 @@
 ---
 title: "Classy Nails"
 url: /huntsville/classy-nails/
-shop: Kosmetik
+shop: beauty
 ---

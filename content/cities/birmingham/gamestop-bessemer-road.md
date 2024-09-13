@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /birmingham/gamestop-bessemer-road/
-shop: Videospiele
+shop: video games
 ---

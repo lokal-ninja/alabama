@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /tuscaloosa/verizon/
-shop: Handy
+shop: mobile phone
 ---

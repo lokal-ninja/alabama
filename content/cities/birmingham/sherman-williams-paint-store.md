@@ -1,5 +1,5 @@
 ---
 title: "Sherman Williams Paint Store"
 url: /birmingham/sherman-williams-paint-store/
-shop: Farben
+shop: paint
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nilipour Oriental Rugs"
 url: /birmingham/nilipour-oriental-rugs/
-shop: Teppiche
+shop: carpet
 ---

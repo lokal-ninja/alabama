@@ -1,5 +1,5 @@
 ---
 title: "Pilot"
 url: /lincoln/pilot/
-shop: Lebensmittel
+shop: convenience
 ---

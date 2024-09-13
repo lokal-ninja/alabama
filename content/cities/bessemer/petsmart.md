@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /bessemer/petsmart/
-shop: Tiere
+shop: pet
 ---

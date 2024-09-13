@@ -1,5 +1,5 @@
 ---
 title: "Corner"
 url: /leesburg/corner/
-shop: Lebensmittel
+shop: convenience
 ---

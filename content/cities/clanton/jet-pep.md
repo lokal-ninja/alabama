@@ -1,5 +1,5 @@
 ---
 title: "Jet-Pep"
 url: /clanton/jet-pep/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /huntsville/aldi-winchester-road-northeast/
-shop: Supermarkt
+shop: supermarket
 ---

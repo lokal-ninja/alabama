@@ -1,5 +1,5 @@
 ---
 title: "Precision Ink Tattoos"
 url: /gulf-shores/precision-ink-tattoos/
-shop: Tattoo
+shop: tattoo
 ---

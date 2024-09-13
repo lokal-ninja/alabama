@@ -1,5 +1,5 @@
 ---
 title: "McDaniel Automotive"
 url: /flomaton/mcdaniel-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

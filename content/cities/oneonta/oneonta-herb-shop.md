@@ -1,5 +1,5 @@
 ---
 title: "Oneonta Herb Shop"
 url: /oneonta/oneonta-herb-shop/
-shop: Kräuter
+shop: herbalist
 ---

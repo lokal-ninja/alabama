@@ -1,5 +1,5 @@
 ---
 title: "Far East Market"
 url: /huntsville/far-east-market/
-shop: Supermarkt
+shop: supermarket
 ---

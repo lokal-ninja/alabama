@@ -1,5 +1,5 @@
 ---
 title: "Dodge"
 url: /bessemer/dodge/
-shop: Autohaus
+shop: car
 ---

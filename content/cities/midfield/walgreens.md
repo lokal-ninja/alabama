@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /midfield/walgreens/
-shop: Drogerie
+shop: chemist
 ---

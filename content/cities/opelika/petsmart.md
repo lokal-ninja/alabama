@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /opelika/petsmart/
-shop: Tiere
+shop: pet
 ---

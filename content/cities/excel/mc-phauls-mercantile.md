@@ -1,5 +1,5 @@
 ---
 title: "Mc Phaul's Mercantile"
 url: /excel/mc-phauls-mercantile/
-shop: Eisenwaren
+shop: hardware
 ---

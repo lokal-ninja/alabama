@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /bessemer/gamestop/
-shop: Videospiele
+shop: video games
 ---

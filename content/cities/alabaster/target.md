@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /alabaster/target/
-shop: Warenhaus
+shop: department store
 ---

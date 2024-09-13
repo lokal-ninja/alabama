@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /alabaster/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

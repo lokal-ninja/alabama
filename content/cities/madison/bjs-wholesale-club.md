@@ -1,5 +1,5 @@
 ---
 title: "BJ's Wholesale Club"
 url: /madison/bjs-wholesale-club/
-shop: Großhandel
+shop: wholesale
 ---

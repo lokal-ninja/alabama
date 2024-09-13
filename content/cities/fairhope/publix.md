@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /fairhope/publix/
-shop: Supermarkt
+shop: supermarket
 ---

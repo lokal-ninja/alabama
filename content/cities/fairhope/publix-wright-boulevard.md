@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /fairhope/publix-wright-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

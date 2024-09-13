@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /daphne/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

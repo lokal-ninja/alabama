@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /jemison/piggly-wiggly/
-shop: Supermarkt
+shop: supermarket
 ---

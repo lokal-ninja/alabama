@@ -1,5 +1,5 @@
 ---
 title: "Hometown Foods"
 url: /louisville/hometown-foods/
-shop: Supermarkt
+shop: supermarket
 ---

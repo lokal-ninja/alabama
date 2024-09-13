@@ -1,5 +1,5 @@
 ---
 title: "Black Tie CBD"
 url: /hoover/black-tie-cbd/
-shop: Kräuter
+shop: herbalist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Martin Flowers"
 url: /birmingham/martin-flowers/
-shop: Blumen
+shop: florist
 ---

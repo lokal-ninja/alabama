@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /dothan/publix/
-shop: Supermarkt
+shop: supermarket
 ---

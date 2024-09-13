@@ -1,5 +1,5 @@
 ---
 title: "Stamp"
 url: /auburn/stamp/
-shop: Kleidung
+shop: clothes
 ---

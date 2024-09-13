@@ -1,5 +1,5 @@
 ---
 title: "Winn-Dixie"
 url: /mobile/winn-dixie/
-shop: Supermarkt
+shop: supermarket
 ---

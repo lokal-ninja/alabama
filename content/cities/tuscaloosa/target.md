@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /tuscaloosa/target/
-shop: Warenhaus
+shop: department store
 ---

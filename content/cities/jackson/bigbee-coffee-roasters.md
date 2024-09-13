@@ -1,5 +1,5 @@
 ---
 title: "Bigbee Coffee Roasters"
 url: /jackson/bigbee-coffee-roasters/
-shop: Kaffee
+shop: coffee
 ---

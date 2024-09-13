@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /birmingham/cvs-pharmacy-1st-avenue-north/
-shop: Drogerie
+shop: chemist
 ---

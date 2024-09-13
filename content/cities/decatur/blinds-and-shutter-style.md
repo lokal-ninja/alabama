@@ -1,5 +1,5 @@
 ---
 title: "Blinds And Shutter Style"
 url: /decatur/blinds-and-shutter-style/
-shop: Jalousien
+shop: window blind
 ---

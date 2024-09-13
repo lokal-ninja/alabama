@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /vestavia-hills/publix/
-shop: Supermarkt
+shop: supermarket
 ---

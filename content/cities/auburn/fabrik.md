@@ -1,5 +1,5 @@
 ---
 title: "fab'rik"
 url: /auburn/fabrik/
-shop: Kleidung
+shop: clothes
 ---

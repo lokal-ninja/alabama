@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /homewood/u-haul/
-shop: Mieten
+shop: storage rental
 ---

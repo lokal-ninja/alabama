@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
 url: /mobile/ashley-homestore-tingle-circle-east/
-shop: Möbel
+shop: furniture
 ---

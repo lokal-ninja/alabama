@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /mobile/walmart-supercenter-dawes-road/
-shop: Supermarkt
+shop: supermarket
 ---

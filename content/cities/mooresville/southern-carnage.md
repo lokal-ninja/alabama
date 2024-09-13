@@ -1,5 +1,5 @@
 ---
 title: "Southern Carnage"
 url: /mooresville/southern-carnage/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jennaration Boutique"
 url: /northport/jennaration-boutique/
-shop: Modehaus
+shop: boutique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /daphne/target/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Iron Mule"
 url: /louisville/iron-mule/
-shop: Eisenwaren
+shop: hardware
 ---

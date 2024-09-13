@@ -1,5 +1,5 @@
 ---
 title: "Coffey Body Shop"
 url: /hokes-bluff/coffey-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

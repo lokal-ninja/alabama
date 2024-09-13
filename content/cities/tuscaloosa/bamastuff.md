@@ -1,5 +1,5 @@
 ---
 title: "BAMASTUFF"
 url: /tuscaloosa/bamastuff/
-shop: Andenken
+shop: gift
 ---

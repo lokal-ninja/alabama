@@ -1,5 +1,5 @@
 ---
 title: "ABC Liquor Store"
 url: /florence/abc-liquor-store/
-shop: Spirituosen
+shop: alcohol
 ---

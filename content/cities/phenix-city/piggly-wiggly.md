@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /phenix-city/piggly-wiggly/
-shop: Supermarkt
+shop: supermarket
 ---

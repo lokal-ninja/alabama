@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /hoover/costco/
-shop: Großhandel
+shop: wholesale
 ---

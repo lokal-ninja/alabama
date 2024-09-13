@@ -1,5 +1,5 @@
 ---
 title: "Spry Funeral Home"
 url: /athens/spry-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

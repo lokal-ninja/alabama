@@ -1,5 +1,5 @@
 ---
 title: "Kaffeeklatsch"
 url: /huntsville/kaffeeklatsch/
-shop: Kaffee
+shop: coffee
 ---

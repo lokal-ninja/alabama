@@ -1,5 +1,5 @@
 ---
 title: "Conoco"
 url: /cullman/conoco/
-shop: Lebensmittel
+shop: convenience
 ---

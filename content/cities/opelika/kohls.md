@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /opelika/kohls/
-shop: Warenhaus
+shop: department store
 ---

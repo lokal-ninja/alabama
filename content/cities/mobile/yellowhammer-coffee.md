@@ -1,5 +1,5 @@
 ---
 title: "Yellowhammer Coffee"
 url: /mobile/yellowhammer-coffee/
-shop: Kaffee
+shop: coffee
 ---

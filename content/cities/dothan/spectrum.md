@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /dothan/spectrum/
-shop: Handy
+shop: mobile phone
 ---

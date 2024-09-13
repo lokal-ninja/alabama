@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /mobile/piggly-wiggly-saint-stephens-road/
-shop: Supermarkt
+shop: supermarket
 ---

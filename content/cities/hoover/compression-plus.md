@@ -1,5 +1,5 @@
 ---
 title: "Compression Plus"
 url: /hoover/compression-plus/
-shop: Sanitätshaus
+shop: medical supply
 ---

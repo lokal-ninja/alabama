@@ -1,5 +1,5 @@
 ---
 title: "Seville at Hilltop"
 url: /montgomery/seville-at-hilltop/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Office"
 url: /athens/office/
-shop: Tickets
+shop: ticket
 ---

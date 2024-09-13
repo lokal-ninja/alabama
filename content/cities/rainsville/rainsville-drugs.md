@@ -1,5 +1,5 @@
 ---
 title: "Rainsville Drugs"
 url: /rainsville/rainsville-drugs/
-shop: Drogerie
+shop: chemist
 ---

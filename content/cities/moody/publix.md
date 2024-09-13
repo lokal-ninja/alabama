@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /moody/publix/
-shop: Supermarkt
+shop: supermarket
 ---

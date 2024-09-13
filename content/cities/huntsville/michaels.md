@@ -1,5 +1,5 @@
 ---
 title: "Michael's"
 url: /huntsville/michaels/
-shop: Kunst
+shop: art
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /abbeville/autozone/
-shop: Autoteile
+shop: car parts
 ---

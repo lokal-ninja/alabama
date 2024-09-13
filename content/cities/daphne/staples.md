@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /daphne/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

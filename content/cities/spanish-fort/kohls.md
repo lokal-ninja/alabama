@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /spanish-fort/kohls/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dothan Nurseries"
 url: /dothan/dothan-nurseries/
-shop: Garten-Center
+shop: garden centre
 ---

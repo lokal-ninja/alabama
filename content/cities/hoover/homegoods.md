@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /hoover/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

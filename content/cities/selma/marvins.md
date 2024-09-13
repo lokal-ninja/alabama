@@ -1,5 +1,5 @@
 ---
 title: "Marvin's"
 url: /selma/marvins/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sweet Gaga's"
 url: /alexander-city/sweet-gagas/
-shop: Konditorei
+shop: pastry
 ---

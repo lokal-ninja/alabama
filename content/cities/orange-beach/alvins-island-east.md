@@ -1,5 +1,5 @@
 ---
 title: "Alvins Island (East)"
 url: /orange-beach/alvins-island-east/
-shop: Allgemein
+shop: shop
 ---

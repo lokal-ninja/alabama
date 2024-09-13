@@ -1,5 +1,5 @@
 ---
 title: "Wharf Marina Outfitters Store"
 url: /orange-beach/wharf-marina-outfitters-store/
-shop: Allgemein
+shop: shop
 ---

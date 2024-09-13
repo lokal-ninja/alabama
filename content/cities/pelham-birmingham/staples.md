@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /pelham-birmingham/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /pell-city/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /cullman/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

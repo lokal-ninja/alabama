@@ -1,5 +1,5 @@
 ---
-title: "popshelf"
+title: "pOpshelf"
 url: /huntsville/popshelf/
-shop: Raumausstattung
+shop: variety store
 ---

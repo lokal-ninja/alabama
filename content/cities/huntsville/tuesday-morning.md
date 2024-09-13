@@ -1,5 +1,5 @@
 ---
 title: "Tuesday Morning"
 url: /huntsville/tuesday-morning/
-shop: Haushaltsartikel
+shop: houseware
 ---

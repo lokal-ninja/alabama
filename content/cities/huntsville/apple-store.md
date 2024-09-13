@@ -1,5 +1,5 @@
 ---
 title: "Apple Store"
 url: /huntsville/apple-store/
-shop: Elektronik
+shop: electronics
 ---

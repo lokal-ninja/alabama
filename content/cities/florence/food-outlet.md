@@ -1,5 +1,5 @@
 ---
 title: "Food Outlet"
 url: /florence/food-outlet/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cycle Gear"
 url: /hoover/cycle-gear/
-shop: Kleidung
+shop: clothes
 ---

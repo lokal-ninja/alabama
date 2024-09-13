@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /midland-city/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

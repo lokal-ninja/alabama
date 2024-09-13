@@ -1,5 +1,5 @@
 ---
 title: "Ye Ole General Store"
 url: /florence/ye-ole-general-store/
-shop: Kleidung
+shop: clothes
 ---

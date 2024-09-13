@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /moulton/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

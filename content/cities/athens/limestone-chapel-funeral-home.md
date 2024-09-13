@@ -1,5 +1,5 @@
 ---
 title: "Limestone Chapel Funeral Home"
 url: /athens/limestone-chapel-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

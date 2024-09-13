@@ -1,5 +1,5 @@
 ---
 title: "Hickman Imports Car Repair"
 url: /fort-payne/hickman-imports-car-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

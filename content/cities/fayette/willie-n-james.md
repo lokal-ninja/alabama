@@ -1,5 +1,5 @@
 ---
 title: "Willie n James"
 url: /fayette/willie-n-james/
-shop: Modehaus
+shop: boutique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /mobile/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

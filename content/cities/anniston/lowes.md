@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /anniston/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

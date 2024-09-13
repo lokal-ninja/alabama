@@ -1,5 +1,5 @@
 ---
 title: "Elberta Grocery"
 url: /elberta/elberta-grocery/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Publix"
 url: /harvest/publix/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Outdoor Omnibus"
 url: /huntsville/outdoor-omnibus/
-shop: Fahrrad
+shop: bicycle
 ---

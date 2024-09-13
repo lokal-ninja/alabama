@@ -1,5 +1,5 @@
 ---
 title: "JJ's Smoke Shop"
 url: /tarrant/jjs-smoke-shop/
-shop: Tabak
+shop: tobacco
 ---

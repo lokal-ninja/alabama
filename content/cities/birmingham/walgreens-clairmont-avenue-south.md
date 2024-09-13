@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /birmingham/walgreens-clairmont-avenue-south/
-shop: Drogerie
+shop: chemist
 ---

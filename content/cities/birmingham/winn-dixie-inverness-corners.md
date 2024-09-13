@@ -1,5 +1,5 @@
 ---
 title: "Winn-Dixie"
 url: /birmingham/winn-dixie-inverness-corners/
-shop: Supermarkt
+shop: supermarket
 ---

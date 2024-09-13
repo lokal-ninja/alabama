@@ -1,5 +1,5 @@
 ---
 title: "Kroger"
 url: /lanett/kroger/
-shop: Supermarkt
+shop: supermarket
 ---

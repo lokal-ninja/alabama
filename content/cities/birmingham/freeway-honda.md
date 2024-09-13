@@ -1,5 +1,5 @@
 ---
 title: "Freeway Honda"
 url: /birmingham/freeway-honda/
-shop: Autohaus
+shop: car
 ---

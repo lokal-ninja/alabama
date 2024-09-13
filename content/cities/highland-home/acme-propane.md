@@ -1,5 +1,5 @@
 ---
 title: "Acme Propane"
 url: /highland-home/acme-propane/
-shop: Gasflaschen
+shop: gas
 ---

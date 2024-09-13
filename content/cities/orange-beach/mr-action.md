@@ -1,5 +1,5 @@
 ---
 title: "Mr. Action"
 url: /orange-beach/mr-action/
-shop: Spielzeug
+shop: toys
 ---

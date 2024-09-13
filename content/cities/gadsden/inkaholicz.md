@@ -1,5 +1,5 @@
 ---
 title: "Inkaholicz"
 url: /gadsden/inkaholicz/
-shop: Tattoo
+shop: tattoo
 ---

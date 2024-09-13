@@ -1,5 +1,5 @@
 ---
 title: "Clothing Care Cleaners"
 url: /oneonta/clothing-care-cleaners/
-shop: Wäscherei
+shop: laundry
 ---
