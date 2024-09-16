@@ -1,11 +1,11 @@
 id: 946910645
-type: way
+type: node
 latitude: 31.19888
 longitude: -85.36896
 postcode: "36301"
 city: Dothan
-street: "Ross Clark Circle"
-housenumber: 1475
+street: Ross Clark Circle
+housenumber: "1475"
 phone: ""
 opening_hours: ""
 website: ""

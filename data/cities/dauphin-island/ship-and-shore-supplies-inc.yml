@@ -1,11 +1,11 @@
 id: 834824295
-type: way
+type: node
 latitude: 30.25677
 longitude: -88.11347
 postcode: "36528"
 city: Dauphin Island
-street: "Le Moyne Drive"
-housenumber: 401
+street: Le Moyne Drive
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

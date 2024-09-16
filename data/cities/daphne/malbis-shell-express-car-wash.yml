@@ -1,11 +1,11 @@
 id: 615411561
-type: way
+type: node
 latitude: 30.65656
 longitude: -87.85136
 postcode: "36526"
 city: Daphne
-street: "AL-181"
-housenumber: 29640
+street: AL-181
+housenumber: "29640"
 phone: "+12512329261"
 opening_hours: ""
 website: ""

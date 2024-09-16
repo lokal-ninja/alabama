@@ -1,11 +1,11 @@
 id: 610218717
-type: way
+type: node
 latitude: 30.30426
 longitude: -87.68362
 postcode: "36542"
 city: Gulf Shores
-street: "Gulf Shores Parkway"
-housenumber: 3839
-phone: "+1 251-943-0192"
+street: Gulf Shores Parkway
+housenumber: "3839"
+phone: +1 251-943-0192
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/al/gulf-shores/081007/"
+website: https://www.mattressfirm.com/en-us/stores/al/gulf-shores/081007/

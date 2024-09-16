@@ -1,11 +1,11 @@
 id: 807671039
-type: way
+type: node
 latitude: 33.14696
 longitude: -86.75247
 postcode: "35040"
 city: Calera
-street: "U.S. 31"
-housenumber: 5100
-phone: "+1 205-668-0831"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3271/calera-al/whats-new"
+street: U.S. 31
+housenumber: "5100"
+phone: +1 205-668-0831
+opening_hours: 24/7
+website: https://www.walmart.com/store/3271/calera-al/whats-new

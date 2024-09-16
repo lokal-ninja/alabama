@@ -1,11 +1,11 @@
 id: 605013150
-type: way
+type: node
 latitude: 30.24777
 longitude: -87.69589
 postcode: "36542"
 city: Gulf Shores
-street: "West Beach Boulevard"
-housenumber: 412
+street: West Beach Boulevard
+housenumber: "412"
 phone: ""
 opening_hours: ""
 website: ""

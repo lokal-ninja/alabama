@@ -4,8 +4,8 @@ latitude: 32.62544
 longitude: -85.44985
 postcode: ""
 city: Auburn
-street: "East University Drive"
-housenumber: 2069
-phone: "+1-334-501-1364"
-opening_hours: "Mo-Fr 07:00-20:00, Sa 07:00-19:00, Su 09:00-18:00"
-website: "https://www.ntb.com/store/al/auburn/2069-e-university-dr-36830/4205"
+street: East University Drive
+housenumber: "2069"
+phone: +1-334-501-1364
+opening_hours: Mo-Fr 07:00-20:00, Sa 07:00-19:00, Su 09:00-18:00
+website: https://www.ntb.com/store/al/auburn/2069-e-university-dr-36830/4205

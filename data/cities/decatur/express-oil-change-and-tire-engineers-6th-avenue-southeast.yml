@@ -1,11 +1,11 @@
 id: 1010069329
-type: way
+type: node
 latitude: 34.59252
 longitude: -86.98061
 postcode: "35601"
 city: Decatur
-street: "6th Avenue Southeast"
-housenumber: 1011
-phone: "+1-256-351-9291"
-opening_hours: "Mo-Fr 08:00-18:00;Sa 08:00-17:00"
-website: "https://www.expressoil.com/stores/decatur/al/0027/"
+street: 6th Avenue Southeast
+housenumber: "1011"
+phone: +1-256-351-9291
+opening_hours: Mo-Fr 08:00-18:00;Sa 08:00-17:00
+website: https://www.expressoil.com/stores/decatur/al/0027/

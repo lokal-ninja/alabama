@@ -1,11 +1,11 @@
 id: 760861741
-type: way
+type: node
 latitude: 34.74711
 longitude: -86.7846
 postcode: "35758"
 city: Madison
-street: "Hwy 72 W"
-housenumber: 8873
-phone: "+1-256-963-9555"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
-website: "https://www.tirediscounters.com"
+street: Hwy 72 W
+housenumber: "8873"
+phone: +1-256-963-9555
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
+website: https://www.tirediscounters.com

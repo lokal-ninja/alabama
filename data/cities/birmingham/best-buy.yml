@@ -4,8 +4,8 @@ latitude: 33.41923
 longitude: -86.68566
 postcode: "35242"
 city: Birmingham
-street: "US Highway 280"
-housenumber: 5201
-phone: "+1 205-437-8966"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://stores.bestbuy.com/al/birmingham/5201-highway-280-383.html"
+street: US Highway 280
+housenumber: "5201"
+phone: +1 205-437-8966
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
+website: https://stores.bestbuy.com/al/birmingham/5201-highway-280-383.html

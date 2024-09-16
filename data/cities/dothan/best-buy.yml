@@ -1,11 +1,11 @@
 id: 544051932
-type: way
+type: node
 latitude: 31.26937
 longitude: -85.44827
 postcode: "36303"
 city: Dothan
-street: "Montgomery Highway"
-housenumber: 4863
-phone: "+1 334-671-1070"
+street: Montgomery Highway
+housenumber: "4863"
+phone: +1 334-671-1070
 opening_hours: ""
-website: "https://stores.bestbuy.com/al/dothan/4863-montgomery-hwy-793.html"
+website: https://stores.bestbuy.com/al/dothan/4863-montgomery-hwy-793.html

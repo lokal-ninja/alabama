@@ -1,11 +1,11 @@
 id: 475943035
-type: way
+type: node
 latitude: 30.26393
 longitude: -87.68955
 postcode: "36542"
 city: Gulf Shores
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1421+gulf+shores+pkwy-gulf+shores-al-36542/id=1230"
+website: https://www.walgreens.com/locator/walgreens-1421+gulf+shores+pkwy-gulf+shores-al-36542/id=1230

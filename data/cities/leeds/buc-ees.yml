@@ -1,11 +1,11 @@
 id: 1074628131
-type: way
+type: node
 latitude: 33.54467
 longitude: -86.58717
 postcode: "35094"
 city: Leeds
-street: "Buc-ee's Boulevard"
-housenumber: 6900
+street: Buc-ee's Boulevard
+housenumber: "6900"
 phone: ""
 opening_hours: ""
 website: ""

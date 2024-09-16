@@ -1,11 +1,11 @@
 id: 1220029191
-type: way
+type: node
 latitude: 34.75202
 longitude: -86.75476
 postcode: "35758"
 city: Madison
-street: "Hwy 72 W"
-housenumber: 8126
+street: Hwy 72 W
+housenumber: "8126"
 phone: "+12568905999"
 opening_hours: ""
-website: "https://www.sandjproducefarms.com/"
+website: https://www.sandjproducefarms.com/

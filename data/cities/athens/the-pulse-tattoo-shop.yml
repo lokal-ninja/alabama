@@ -1,11 +1,11 @@
 id: 378661060
-type: way
+type: node
 latitude: 34.76614
 longitude: -86.8837
 postcode: "35613"
 city: Athens
-street: "US Highway 72"
-housenumber: 24912
+street: US Highway 72
+housenumber: "24912"
 phone: ""
 opening_hours: ""
-website: "https://www.thepulsetattoos.com/"
+website: https://www.thepulsetattoos.com/

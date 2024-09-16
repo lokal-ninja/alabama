@@ -1,11 +1,11 @@
 id: 443201923
-type: way
+type: node
 latitude: 34.78249
 longitude: -86.93489
 postcode: "35611"
 city: Athens
-street: "US Highway 72 East"
-housenumber: 1699
-phone: "+1-256-771-0023"
-opening_hours: "10:00-19:00, Su 11:00-18:00"
-website: "https://www.russellstover.com/store-384"
+street: US Highway 72 East
+housenumber: "1699"
+phone: +1-256-771-0023
+opening_hours: 10:00-19:00, Su 11:00-18:00
+website: https://www.russellstover.com/store-384

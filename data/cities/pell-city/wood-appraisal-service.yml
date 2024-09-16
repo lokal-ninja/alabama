@@ -1,11 +1,11 @@
 id: 289465202
-type: way
+type: node
 latitude: 33.58551
 longitude: -86.28771
 postcode: "35125"
 city: Pell City
-street: "Cogswell Avenue"
-housenumber: 1704
-phone: "+1 205 884 1608"
+street: Cogswell Avenue
+housenumber: "1704"
+phone: +1 205 884 1608
 opening_hours: ""
-website: "http://www.dotwoodappraisal.com"
+website: http://www.dotwoodappraisal.com

@@ -1,11 +1,11 @@
 id: 583613986
-type: way
+type: node
 latitude: 32.78654
 longitude: -85.19338
 postcode: "36854"
 city: Valley
-street: "Fairfax Bypass"
-housenumber: 4515
+street: Fairfax Bypass
+housenumber: "4515"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

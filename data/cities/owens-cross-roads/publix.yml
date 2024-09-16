@@ -1,11 +1,11 @@
 id: 97253035
-type: way
+type: node
 latitude: 34.65862
 longitude: -86.48141
-postcode: "35763-9204"
+postcode: 35763-9204
 city: Owens Cross Roads
-street: "U.S. 431"
-housenumber: 6707
-phone: "+1 256-512-0990"
-opening_hours: "Mo-Su 06:45-22:00"
-website: "https://www.publix.com/locations/573"
+street: U.S. 431
+housenumber: "6707"
+phone: +1 256-512-0990
+opening_hours: Mo-Su 06:45-22:00
+website: https://www.publix.com/locations/573

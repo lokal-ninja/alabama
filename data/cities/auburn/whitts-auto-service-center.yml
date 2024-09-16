@@ -1,11 +1,11 @@
 id: 896805538
-type: way
+type: node
 latitude: 32.61405
 longitude: -85.47281
 postcode: "36830"
 city: Auburn
-street: "Opelika Road"
-housenumber: 461
+street: Opelika Road
+housenumber: "461"
 phone: ""
 opening_hours: ""
 website: ""

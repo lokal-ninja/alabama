@@ -1,11 +1,11 @@
 id: 454354768
-type: way
+type: node
 latitude: 34.81287
 longitude: -87.66451
 postcode: "35630"
 city: Florence
-street: "Florence Boulevard"
-housenumber: 924
+street: Florence Boulevard
+housenumber: "924"
 phone: ""
 opening_hours: ""
 website: ""

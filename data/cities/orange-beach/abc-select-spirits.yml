@@ -1,11 +1,11 @@
 id: 567648403
-type: way
+type: node
 latitude: 30.27075
 longitude: -87.58481
 postcode: "36561"
 city: Orange Beach
-street: "Perdido Beach Boulevard"
-housenumber: 25803
+street: Perdido Beach Boulevard
+housenumber: "25803"
 phone: ""
 opening_hours: ""
 website: ""

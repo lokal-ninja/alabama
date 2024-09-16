@@ -1,11 +1,11 @@
 id: 456804776
-type: way
+type: node
 latitude: 34.84254
 longitude: -87.63588
 postcode: "35630"
 city: Florence
-street: "Cox Creek Parkway"
-housenumber: 378
+street: Cox Creek Parkway
+housenumber: "378"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 10:00-20:00"
-website: "https://www.dollartree.com/locations/al/florence/88/"
+opening_hours: Mo-Sa 08:00-22:00; Su 10:00-20:00
+website: https://www.dollartree.com/locations/al/florence/88/

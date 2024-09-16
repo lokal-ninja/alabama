@@ -1,11 +1,11 @@
 id: 304318362
-type: way
+type: node
 latitude: 30.65782
 longitude: -87.85562
 postcode: "36526"
 city: Daphne
-street: "Frederick Boulevard"
-housenumber: 29645
-phone: "+1 251-621-7620"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/al-daphne/2251"
+street: Frederick Boulevard
+housenumber: "29645"
+phone: +1 251-621-7620
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/al-daphne/2251

@@ -1,11 +1,11 @@
 id: 510841754
-type: way
+type: node
 latitude: 31.09995
 longitude: -87.08048
 postcode: "36426"
 city: Brewton
-street: "South Boulevard"
-housenumber: 518
-phone: "1-251-867-6212"
+street: South Boulevard
+housenumber: "518"
+phone: 1-251-867-6212
 opening_hours: ""
-website: "https://www.jimpeachmotors.net/"
+website: https://www.jimpeachmotors.net/

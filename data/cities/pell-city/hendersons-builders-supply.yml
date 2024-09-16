@@ -1,11 +1,11 @@
 id: 289481219
-type: way
+type: node
 latitude: 33.58485
 longitude: -86.28918
 postcode: "35125"
 city: Pell City
-street: "16th Street South"
-housenumber: 7
-phone: "+1 205 338 2261"
-opening_hours: "Mo-Fr 06:00-16:00;Sa 07:00-12:00"
-website: "https://www.hendersonsbuilderssupply.com/index.htm"
+street: 16th Street South
+housenumber: "7"
+phone: +1 205 338 2261
+opening_hours: Mo-Fr 06:00-16:00;Sa 07:00-12:00
+website: https://www.hendersonsbuilderssupply.com/index.htm

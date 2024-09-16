@@ -1,11 +1,11 @@
 id: 946895789
-type: way
+type: node
 latitude: 31.19235
 longitude: -85.40938
 postcode: "36301"
 city: Dothan
-street: "Ross Clark Circle"
-housenumber: 2855
+street: Ross Clark Circle
+housenumber: "2855"
 phone: ""
 opening_hours: ""
-website: "https://www.toyotaofdothan.com/"
+website: https://www.toyotaofdothan.com/

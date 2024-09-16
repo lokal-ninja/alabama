@@ -1,11 +1,11 @@
 id: 324060440
-type: way
+type: node
 latitude: 30.65879
 longitude: -87.85686
 postcode: "36526"
 city: Daphne
-street: "Frederick Boulevard"
-housenumber: 29683
-phone: "+1 251-626-6909"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/daphne-al-sams-club/4990"
+street: Frederick Boulevard
+housenumber: "29683"
+phone: +1 251-626-6909
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/daphne-al-sams-club/4990

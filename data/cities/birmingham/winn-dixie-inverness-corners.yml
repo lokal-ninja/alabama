@@ -1,11 +1,11 @@
 id: 364002423
-type: way
+type: node
 latitude: 33.41774
 longitude: -86.69459
 postcode: "35242"
 city: Birmingham
-street: "Inverness Corners"
-housenumber: 500
-phone: "+1 205-991-0230"
+street: Inverness Corners
+housenumber: "500"
+phone: +1 205-991-0230
 opening_hours: ""
-website: "https://www.winndixie.com/storedetails/birmingham/al?search=445"
+website: https://www.winndixie.com/storedetails/birmingham/al?search=445

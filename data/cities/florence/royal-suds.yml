@@ -1,11 +1,11 @@
 id: 454060314
-type: way
+type: node
 latitude: 34.80659
 longitude: -87.6631
 postcode: "35630"
 city: Florence
-street: "North Royal Avenue"
-housenumber: 104
+street: North Royal Avenue
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

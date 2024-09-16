@@ -1,11 +1,11 @@
 id: 77887413
-type: way
+type: node
 latitude: 34.56873
 longitude: -87.0142
 postcode: "35601"
 city: Decatur
-street: "Beltline Road Southwest"
-housenumber: 1641
-phone: "+1 256-301-0652"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/AL-Decatur/1176"
+street: Beltline Road Southwest
+housenumber: "1641"
+phone: +1 256-301-0652
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/AL-Decatur/1176

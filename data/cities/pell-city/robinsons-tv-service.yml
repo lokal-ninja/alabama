@@ -1,11 +1,11 @@
 id: 289464535
-type: way
+type: node
 latitude: 33.58554
 longitude: -86.28761
 postcode: "35125"
 city: Pell City
-street: "Cogswell Avenue"
-housenumber: 1706
-phone: "+1 205 338 9651"
-opening_hours: "Mo-Tu,Th-Fr 09:00-17:00"
-website: "http://robinsonstv.com"
+street: Cogswell Avenue
+housenumber: "1706"
+phone: +1 205 338 9651
+opening_hours: Mo-Tu,Th-Fr 09:00-17:00
+website: http://robinsonstv.com

@@ -1,11 +1,11 @@
 id: 678510946
-type: way
+type: node
 latitude: 33.36921
 longitude: -86.81352
 postcode: "35244"
 city: Birmingham
-street: "Galleria Boulevard"
-housenumber: 4535
-phone: "+1 205-560-2222"
+street: Galleria Boulevard
+housenumber: "4535"
+phone: +1 205-560-2222
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/alabama/birmingham/7710000004/"
+website: https://stores.ashleyfurniture.com/store/us/alabama/birmingham/7710000004/

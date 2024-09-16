@@ -1,11 +1,11 @@
 id: 1164778109
-type: way
+type: node
 latitude: 32.9355
 longitude: -85.97092
 postcode: "35010"
 city: Alexander City
-street: "Mill Square"
-housenumber: 1556
-phone: "+1 256-329-9536"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Mill Square
+housenumber: "1556"
+phone: +1 256-329-9536
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 885665703
-type: way
+type: node
 latitude: 33.60653
 longitude: -86.80604
-postcode: "35068-1677"
+postcode: 35068-1677
 city: Fultondale
-street: "Lowery Parkway"
-housenumber: 3489
-phone: "+1 205-453-6032"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/fultondale/2355"
+street: Lowery Parkway
+housenumber: "3489"
+phone: +1 205-453-6032
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/fultondale/2355

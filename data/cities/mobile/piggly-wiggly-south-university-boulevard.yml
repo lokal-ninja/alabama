@@ -1,11 +1,11 @@
 id: 342127439
-type: way
+type: node
 latitude: 30.6739
 longitude: -88.1721
 postcode: "36609"
 city: Mobile
-street: "South University Boulevard"
-housenumber: 306
+street: South University Boulevard
+housenumber: "306"
 phone: ""
 opening_hours: ""
 website: ""

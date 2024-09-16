@@ -1,11 +1,11 @@
 id: 236743150
-type: way
+type: node
 latitude: 33.17305
 longitude: -87.47874
 postcode: "35405"
 city: Tuscaloosa
-street: "Skyland Boulevard East"
-housenumber: 4416
-phone: "+1 (205) 553-9710"
-opening_hours: "24/7"
-website: "https://www.pilotflyingj.com/"
+street: Skyland Boulevard East
+housenumber: "4416"
+phone: +1 (205) 553-9710
+opening_hours: 24/7
+website: https://www.pilotflyingj.com/

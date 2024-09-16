@@ -1,11 +1,11 @@
 id: 1017014625
-type: way
+type: node
 latitude: 33.1651
 longitude: -85.36516
 postcode: "36274"
 city: Roanoke
-street: "US Highway 431"
-housenumber: 4180
-phone: "+1 334-863-2147"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/863/roanoke-al/whats-new"
+street: US Highway 431
+housenumber: "4180"
+phone: +1 334-863-2147
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/863/roanoke-al/whats-new

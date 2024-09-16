@@ -1,11 +1,11 @@
 id: 663519977
-type: way
+type: node
 latitude: 31.2321
 longitude: -85.44848
 postcode: "36305"
 city: Dothan
-street: "West Main Street"
-housenumber: 3693
-phone: "+1-334-794-6736"
-opening_hours: "Mo-Fr 08:15-19:00, Sa 08:15-18:00"
-website: "https://www.bondysnissan.com/"
+street: West Main Street
+housenumber: "3693"
+phone: +1-334-794-6736
+opening_hours: Mo-Fr 08:15-19:00, Sa 08:15-18:00
+website: https://www.bondysnissan.com/

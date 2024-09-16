@@ -1,11 +1,11 @@
 id: 424994192
-type: way
+type: node
 latitude: 33.37377
 longitude: -86.80954
 postcode: "35244"
 city: Hoover
-street: "John Hawkins Parkway"
-housenumber: 3053
-phone: "+1 205-982-0596"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/hoover-al-sams-club/4724"
+street: John Hawkins Parkway
+housenumber: "3053"
+phone: +1 205-982-0596
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/hoover-al-sams-club/4724

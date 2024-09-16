@@ -1,11 +1,11 @@
 id: 1017695816
-type: way
+type: node
 latitude: 31.42956
 longitude: -86.96223
 postcode: "36401"
 city: Evergreen
-street: "West Front Street"
-housenumber: 516
+street: West Front Street
+housenumber: "516"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/al/evergreen/3991"
+website: https://www.dollargeneral.com/store-directory/al/evergreen/3991

@@ -1,11 +1,11 @@
 id: 234147325
-type: way
+type: node
 latitude: 33.44828
 longitude: -86.73006
 postcode: "35243"
 city: Birmingham
-street: "Summit Boulevard"
-housenumber: 243
+street: Summit Boulevard
+housenumber: "243"
 phone: ""
 opening_hours: ""
-website: "https://www.talbots.com/online/m/storelocator/m_storelocator_details_page.jsp?R=store-428"
+website: https://www.talbots.com/online/m/storelocator/m_storelocator_details_page.jsp?R=store-428

@@ -1,11 +1,11 @@
 id: 1222776495
-type: way
+type: node
 latitude: 30.52314
 longitude: -87.84946
 postcode: "36532"
 city: Fairhope
-street: "County Road 48"
-housenumber: 10040
-phone: "+1 251-990-9006"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/4333/fairhope-al/whats-new"
+street: County Road 48
+housenumber: "10040"
+phone: +1 251-990-9006
+opening_hours: 24/7
+website: https://www.walmart.com/store/4333/fairhope-al/whats-new

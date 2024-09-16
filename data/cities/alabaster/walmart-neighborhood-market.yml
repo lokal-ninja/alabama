@@ -1,11 +1,11 @@
 id: 870061882
-type: way
+type: node
 latitude: 33.21259
 longitude: -86.82989
 postcode: "35007"
 city: Alabaster
-street: "Highway 119"
-housenumber: 9085
-phone: "+1 205-624-6229"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/4756/alabaster-al/whats-new"
+street: Highway 119
+housenumber: "9085"
+phone: +1 205-624-6229
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/4756/alabaster-al/whats-new

@@ -1,11 +1,11 @@
 id: 121150021
-type: way
+type: node
 latitude: 33.24164
 longitude: -87.57755
-postcode: "35476-2927"
+postcode: 35476-2927
 city: Northport
-street: "McFarland Boulevard"
-housenumber: 2300
-phone: "+1 205-339-4232"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1075"
+street: McFarland Boulevard
+housenumber: "2300"
+phone: +1 205-339-4232
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1075

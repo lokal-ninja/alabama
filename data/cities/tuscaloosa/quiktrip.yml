@@ -1,11 +1,11 @@
 id: 1117870114
-type: way
+type: node
 latitude: 33.17113
 longitude: -87.44636
 postcode: "35453"
 city: Tuscaloosa
-street: "Buttermilk Road"
-housenumber: 4001
-phone: "+1 (659) 734-6470"
-opening_hours: "24/7"
-website: "https://locations.quiktrip.com/al/cottondale/4001-buttermilk-rd"
+street: Buttermilk Road
+housenumber: "4001"
+phone: +1 (659) 734-6470
+opening_hours: 24/7
+website: https://locations.quiktrip.com/al/cottondale/4001-buttermilk-rd

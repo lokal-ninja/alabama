@@ -1,11 +1,11 @@
 id: 328410381
-type: way
+type: node
 latitude: 32.5715
 longitude: -85.49703
 postcode: "36832"
 city: Auburn
-street: "South College Street"
-housenumber: 1717
-phone: "+1 334-821-2493"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/356/auburn-al/whats-new"
+street: South College Street
+housenumber: "1717"
+phone: +1 334-821-2493
+opening_hours: 24/7
+website: https://www.walmart.com/store/356/auburn-al/whats-new

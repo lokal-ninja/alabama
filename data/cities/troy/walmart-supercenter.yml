@@ -1,11 +1,11 @@
 id: 1020582626
-type: way
+type: node
 latitude: 31.78105
 longitude: -85.94013
 postcode: "36081"
 city: Troy
-street: "Highway 231 South"
-housenumber: 1420
-phone: "+1 334-566-8012"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/723-troy-al"
+street: Highway 231 South
+housenumber: "1420"
+phone: +1 334-566-8012
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/723-troy-al

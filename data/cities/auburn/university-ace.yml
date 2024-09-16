@@ -1,11 +1,11 @@
 id: 469164821
-type: way
+type: node
 latitude: 32.62657
 longitude: -85.45138
-postcode: "36830-3334"
+postcode: 36830-3334
 city: Auburn
-street: "East University Drive"
-housenumber: 2101
-phone: "+1 334-329-7100"
-opening_hours: "Mo-Sa 08:00-19:00; Su 11:00-17:00"
+street: East University Drive
+housenumber: "2101"
+phone: +1 334-329-7100
+opening_hours: Mo-Sa 08:00-19:00; Su 11:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 426038042
-type: way
+type: node
 latitude: 33.37813
 longitude: -86.80047
 postcode: "35244"
 city: Hoover
-street: "Riverchase Village"
-housenumber: 3780
-phone: "+1 205-682-9822"
+street: Riverchase Village
+housenumber: "3780"
+phone: +1 205-682-9822
 opening_hours: ""
-website: "https://stores.bestbuy.com/al/hoover/3780-riverchase-village-807.html"
+website: https://stores.bestbuy.com/al/hoover/3780-riverchase-village-807.html

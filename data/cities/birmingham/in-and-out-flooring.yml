@@ -4,8 +4,8 @@ latitude: 33.51415
 longitude: -86.8081
 postcode: "35203"
 city: Birmingham
-street: "19th St N, Suite 2041"
-housenumber: 120
-phone: "+1-205-530-6143"
-opening_hours: "Mo-Fr 08:00-18:00; Sa,Su closed"
-website: "https://inandoutflooring.com/"
+street: 19th St N, Suite 2041
+housenumber: "120"
+phone: +1-205-530-6143
+opening_hours: Mo-Fr 08:00-18:00; Sa,Su closed
+website: https://inandoutflooring.com/

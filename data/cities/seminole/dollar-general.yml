@@ -1,11 +1,11 @@
 id: 825545776
-type: way
+type: node
 latitude: 30.51684
 longitude: -87.47689
 postcode: "36574"
 city: Seminole
-street: "US-90"
-housenumber: 32225
+street: US-90
+housenumber: "32225"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/al/seminole/14243"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/al/seminole/14243

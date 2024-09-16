@@ -1,11 +1,11 @@
 id: 607144144
-type: way
+type: node
 latitude: 32.6107
 longitude: -85.49883
 postcode: "36832"
 city: Auburn
-street: "Martin Luther King Drive"
-housenumber: 850
+street: Martin Luther King Drive
+housenumber: "850"
 phone: ""
-opening_hours: "Mo-Su 07:00-9:00"
+opening_hours: Mo-Su 07:00-9:00
 website: ""

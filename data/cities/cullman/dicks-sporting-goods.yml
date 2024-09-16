@@ -1,11 +1,11 @@
 id: 718229806
-type: way
+type: node
 latitude: 34.18185
 longitude: -86.84928
 postcode: "35055"
 city: Cullman
-street: "Cullman Shopping Center Northwest"
-housenumber: 1106
-phone: "+1 256-841-3534"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 08:00-21:00; Su 10:00-20:00"
-website: "https://stores.dickssportinggoods.com/al/cullman/1161/"
+street: Cullman Shopping Center Northwest
+housenumber: "1106"
+phone: +1 256-841-3534
+opening_hours: Mo-Fr 09:00-21:00; Sa 08:00-21:00; Su 10:00-20:00
+website: https://stores.dickssportinggoods.com/al/cullman/1161/

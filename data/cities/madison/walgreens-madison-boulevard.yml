@@ -1,11 +1,11 @@
 id: 384543030
-type: way
+type: node
 latitude: 34.69179
 longitude: -86.71735
 postcode: "35824"
 city: Madison
-street: "Madison Boulevard"
-housenumber: 8000
+street: Madison Boulevard
+housenumber: "8000"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-8000+madison+blvd-madison-al-35758/id=17363"
+website: https://www.walgreens.com/locator/walgreens-8000+madison+blvd-madison-al-35758/id=17363

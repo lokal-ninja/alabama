@@ -1,11 +1,11 @@
 id: 453823994
-type: way
+type: node
 latitude: 34.79685
 longitude: -87.66522
 postcode: "35630"
 city: Florence
-street: "South Cherry Street"
-housenumber: 625
+street: South Cherry Street
+housenumber: "625"
 phone: ""
 opening_hours: ""
-website: "https://www.sbselectric.com/"
+website: https://www.sbselectric.com/

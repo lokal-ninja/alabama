@@ -1,11 +1,11 @@
 id: 830468288
-type: way
+type: node
 latitude: 32.40673
 longitude: -87.02141
 postcode: "36701"
 city: Selma
-street: "Church Street"
-housenumber: 24
-phone: "334-430-4101"
-opening_hours: "8:00am - 4:30"
+street: Church Street
+housenumber: "24"
+phone: 334-430-4101
+opening_hours: 8:00am - 4:30
 website: ""

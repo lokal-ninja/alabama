@@ -1,11 +1,11 @@
 id: 1161544402
-type: way
+type: node
 latitude: 32.77338
 longitude: -86.8763
 postcode: "36750"
 city: Maplesville
-street: "Alabama Highway 22"
-housenumber: 8331
+street: Alabama Highway 22
+housenumber: "8331"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/al/maplesville/1000"
+website: https://www.dollargeneral.com/store-directory/al/maplesville/1000

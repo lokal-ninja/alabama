@@ -4,8 +4,8 @@ latitude: 33.51175
 longitude: -86.7957
 postcode: "35233"
 city: Birmingham
-street: "4th Avenue South"
-housenumber: 2415
-phone: "+1-205-828-0000"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su off"
-website: "https://preferredimports.com/"
+street: 4th Avenue South
+housenumber: "2415"
+phone: +1-205-828-0000
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su off
+website: https://preferredimports.com/

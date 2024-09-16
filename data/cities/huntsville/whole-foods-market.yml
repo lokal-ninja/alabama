@@ -1,11 +1,11 @@
 id: 377624398
-type: way
+type: node
 latitude: 34.71245
 longitude: -86.59031
 postcode: "35801"
 city: Huntsville
-street: "Memorial Parkway Southwest"
-housenumber: 2501
-phone: "+1 256-801-3741"
-opening_hours: "08:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/huntsville"
+street: Memorial Parkway Southwest
+housenumber: "2501"
+phone: +1 256-801-3741
+opening_hours: 08:00-21:00
+website: https://www.wholefoodsmarket.com/stores/huntsville

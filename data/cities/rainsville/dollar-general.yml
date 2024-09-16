@@ -1,11 +1,11 @@
 id: 1245471840
-type: way
+type: node
 latitude: 34.48453
 longitude: -85.82236
 postcode: "35986"
 city: Rainsville
-street: "Main Street East"
-housenumber: 1569
-phone: "+1 251 263 5921"
-opening_hours: "08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/al/rainsville/23703.html"
+street: Main Street East
+housenumber: "1569"
+phone: +1 251 263 5921
+opening_hours: 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/al/rainsville/23703.html

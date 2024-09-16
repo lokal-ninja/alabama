@@ -1,11 +1,11 @@
 id: 106509793
-type: way
+type: node
 latitude: 33.35397
 longitude: -86.8434
 postcode: "35244"
 city: Hoover
-street: "Mars Hill Road"
-housenumber: 124
+street: Mars Hill Road
+housenumber: "124"
 phone: ""
 opening_hours: ""
 website: ""

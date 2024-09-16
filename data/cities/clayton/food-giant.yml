@@ -1,11 +1,11 @@
 id: 511442357
-type: way
+type: node
 latitude: 31.87882
 longitude: -85.43958
 postcode: "36016"
 city: Clayton
-street: "Eufaula Avenue"
-housenumber: 247
+street: Eufaula Avenue
+housenumber: "247"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 457056639
-type: way
+type: node
 latitude: 34.8319
 longitude: -87.63836
 postcode: "35630"
 city: Florence
-street: "Mall Road"
-housenumber: 2450
-phone: "+1-256-764-3932"
+street: Mall Road
+housenumber: "2450"
+phone: +1-256-764-3932
 opening_hours: ""
 website: ""

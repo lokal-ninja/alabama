@@ -1,11 +1,11 @@
 id: 446864209
-type: way
+type: node
 latitude: 34.84424
 longitude: -87.66049
 postcode: "35630"
 city: Florence
-street: "Cox Creek Parkway"
-housenumber: 698
-phone: "+1-256-764-4088"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 9:00-16:00"
-website: "http://mhbook.com/"
+street: Cox Creek Parkway
+housenumber: "698"
+phone: +1-256-764-4088
+opening_hours: Mo-Fr 08:00-17:00; Sa 9:00-16:00
+website: http://mhbook.com/

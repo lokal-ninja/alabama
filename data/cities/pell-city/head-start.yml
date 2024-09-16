@@ -1,11 +1,11 @@
 id: 289572334
-type: way
+type: node
 latitude: 33.61078
 longitude: -86.27772
 postcode: "35125"
 city: Pell City
-street: "Vaughan Lane"
-housenumber: 73
-phone: "+1 205 338 3820"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "http://www.headstartsalons.com"
+street: Vaughan Lane
+housenumber: "73"
+phone: +1 205 338 3820
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: http://www.headstartsalons.com

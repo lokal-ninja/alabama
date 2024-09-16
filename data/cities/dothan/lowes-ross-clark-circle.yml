@@ -1,11 +1,11 @@
 id: 751977487
-type: way
+type: node
 latitude: 31.20605
 longitude: -85.42529
 postcode: "36301"
 city: Dothan
-street: "Ross Clark Circle"
-housenumber: 2671
-phone: "+1 334-673-9157"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/al-dothan/0606"
+street: Ross Clark Circle
+housenumber: "2671"
+phone: +1 334-673-9157
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/al-dothan/0606

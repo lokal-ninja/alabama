@@ -1,11 +1,11 @@
 id: 825918824
-type: way
+type: node
 latitude: 33.4056
 longitude: -86.80791
 postcode: ""
 city: Hoover
-street: "Montgomery Highway"
-housenumber: 1732
+street: Montgomery Highway
+housenumber: "1732"
 phone: ""
 opening_hours: ""
 website: ""

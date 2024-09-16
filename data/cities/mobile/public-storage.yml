@@ -1,11 +1,11 @@
 id: 1099198840
-type: way
+type: node
 latitude: 30.65504
 longitude: -88.14197
 postcode: "36609"
 city: Mobile
-street: "Azalea Road"
-housenumber: 664
+street: Azalea Road
+housenumber: "664"
 phone: ""
 opening_hours: ""
 website: ""

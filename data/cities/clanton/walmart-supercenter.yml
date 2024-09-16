@@ -1,11 +1,11 @@
 id: 1311909801
-type: way
+type: node
 latitude: 32.81678
 longitude: -86.61026
 postcode: "35045"
 city: Clanton
-street: "7th Street South"
-housenumber: 1415
-phone: "+1 205-755-7574"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/424/clanton-al/whats-new"
+street: 7th Street South
+housenumber: "1415"
+phone: +1 205-755-7574
+opening_hours: 24/7
+website: https://www.walmart.com/store/424/clanton-al/whats-new

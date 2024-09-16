@@ -1,11 +1,11 @@
 id: 444750951
-type: way
+type: node
 latitude: 34.78134
 longitude: -86.93644
 postcode: "35611"
 city: Athens
-street: "US Highway 72 East"
-housenumber: 1523
+street: US Highway 72 East
+housenumber: "1523"
 phone: ""
 opening_hours: ""
 website: ""

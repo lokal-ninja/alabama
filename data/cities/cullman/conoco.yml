@@ -1,11 +1,11 @@
 id: 469799323
-type: way
+type: node
 latitude: 34.20761
 longitude: -86.87477
 postcode: "35058"
 city: Cullman
-street: "Highway 157"
-housenumber: 5982
+street: Highway 157
+housenumber: "5982"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 728262122
-type: way
+type: node
 latitude: 34.74664
 longitude: -86.67505
 postcode: "35806"
 city: Huntsville
-street: "University Drive Northwest"
-housenumber: 6140
-phone: "+1 256-837-7272"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/332/huntsville-al/whats-new"
+street: University Drive Northwest
+housenumber: "6140"
+phone: +1 256-837-7272
+opening_hours: 24/7
+website: https://www.walmart.com/store/332/huntsville-al/whats-new

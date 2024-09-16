@@ -1,11 +1,11 @@
 id: 458749068
-type: way
+type: node
 latitude: 34.83686
 longitude: -87.62975
 postcode: "35630"
 city: Florence
-street: "Cox Creek Parkway"
-housenumber: 318
+street: Cox Creek Parkway
+housenumber: "318"
 phone: ""
 opening_hours: ""
 website: ""

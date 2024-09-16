@@ -1,11 +1,11 @@
 id: 655162255
-type: way
+type: node
 latitude: 34.97016
 longitude: -87.37151
 postcode: "35648"
 city: Lexington
-street: "Old Mill Road"
-housenumber: 134
+street: Old Mill Road
+housenumber: "134"
 phone: ""
 opening_hours: ""
 website: ""

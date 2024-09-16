@@ -1,11 +1,11 @@
 id: 823329582
-type: way
+type: node
 latitude: 31.26259
 longitude: -85.38439
 postcode: "36303"
 city: Dothan
-street: "Reeves Street"
-housenumber: 2821
-phone: "+1-334-671-1620"
-opening_hours: "Su 09:00-17:00; Mo-Sa 08:00-19:00"
-website: "https://shop.harborfreight.com"
+street: Reeves Street
+housenumber: "2821"
+phone: +1-334-671-1620
+opening_hours: Su 09:00-17:00; Mo-Sa 08:00-19:00
+website: https://shop.harborfreight.com

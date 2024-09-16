@@ -1,11 +1,11 @@
 id: 1267835972
-type: way
+type: node
 latitude: 33.58142
 longitude: -86.77722
 postcode: "35217"
 city: Tarrant
-street: "Pinson Valley Parkway"
-housenumber: 1200
-phone: "+1-205-558-6790"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://www.dollargeneral.com/store-directory/al/birmingham/4301"
+street: Pinson Valley Parkway
+housenumber: "1200"
+phone: +1-205-558-6790
+opening_hours: Mo-Su 09:00-21:00
+website: https://www.dollargeneral.com/store-directory/al/birmingham/4301

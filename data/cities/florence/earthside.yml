@@ -1,11 +1,11 @@
 id: 451952605
-type: way
+type: node
 latitude: 34.80185
 longitude: -87.67677
 postcode: "35630"
 city: Florence
-street: "North Court Street"
-housenumber: 228
+street: North Court Street
+housenumber: "228"
 phone: ""
 opening_hours: ""
 website: ""

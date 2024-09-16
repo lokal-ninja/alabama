@@ -1,11 +1,11 @@
 id: 1082444936
-type: way
+type: node
 latitude: 34.75205
 longitude: -86.76318
 postcode: "35757"
 city: Madison
-street: "John Henry Way"
-housenumber: 417
-phone: "+1 256-325-0540"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1726"
+street: John Henry Way
+housenumber: "417"
+phone: +1 256-325-0540
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1726

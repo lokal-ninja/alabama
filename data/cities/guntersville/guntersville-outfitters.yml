@@ -4,8 +4,8 @@ latitude: 34.35719
 longitude: -86.29563
 postcode: "35976"
 city: Guntersville
-street: "Gunter Avenue"
-housenumber: 534
+street: Gunter Avenue
+housenumber: "534"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-17:00"
-website: "http://www.guntersvilleoutfitters.com"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-17:00
+website: http://www.guntersvilleoutfitters.com

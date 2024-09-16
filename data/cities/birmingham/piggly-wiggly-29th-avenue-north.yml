@@ -4,8 +4,8 @@ latitude: 33.55041
 longitude: -86.82014
 postcode: "35207"
 city: Birmingham
-street: "29th Avenue North"
-housenumber: 2500
-phone: "+1 205-323-5453"
+street: 29th Avenue North
+housenumber: "2500"
+phone: +1 205-323-5453
 opening_hours: ""
-website: "https://www.thepigbham.com/north-birmingham/"
+website: https://www.thepigbham.com/north-birmingham/

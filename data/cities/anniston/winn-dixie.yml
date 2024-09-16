@@ -1,11 +1,11 @@
 id: 255533136
-type: way
+type: node
 latitude: 33.62823
 longitude: -85.78725
 postcode: "36207"
 city: Anniston
-street: "Golden Springs Road"
-housenumber: 1408
-phone: "+1 256-831-8801"
+street: Golden Springs Road
+housenumber: "1408"
+phone: +1 256-831-8801
 opening_hours: ""
-website: "https://www.winndixie.com/storedetails/anniston/al?search=447"
+website: https://www.winndixie.com/storedetails/anniston/al?search=447

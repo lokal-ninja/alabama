@@ -1,11 +1,11 @@
 id: 789943904
-type: way
+type: node
 latitude: 34.70435
 longitude: -86.68393
 postcode: "35806"
 city: Huntsville
-street: "Governors Drive West"
-housenumber: 7204
+street: Governors Drive West
+housenumber: "7204"
 phone: ""
 opening_hours: ""
 website: ""

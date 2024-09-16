@@ -1,11 +1,11 @@
 id: 604663573
-type: way
+type: node
 latitude: 34.65295
 longitude: -86.5661
 postcode: "35802"
 city: Huntsville
-street: "Whitesburg Drive South"
-housenumber: 8501
+street: Whitesburg Drive South
+housenumber: "8501"
 phone: ""
 opening_hours: ""
 website: ""

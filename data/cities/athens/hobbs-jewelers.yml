@@ -1,11 +1,11 @@
 id: 444933386
-type: way
+type: node
 latitude: 34.78969
 longitude: -86.97444
 postcode: "35611"
 city: Athens
-street: "US Highway 72 West"
-housenumber: 571
-phone: "+1-256-233-4653"
-opening_hours: "09:00-17:30, Su closed"
-website: "https://www.hobbsjewelers.com/"
+street: US Highway 72 West
+housenumber: "571"
+phone: +1-256-233-4653
+opening_hours: 09:00-17:30, Su closed
+website: https://www.hobbsjewelers.com/

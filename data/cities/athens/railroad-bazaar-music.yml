@@ -4,8 +4,8 @@ latitude: 34.78403
 longitude: -86.94899
 postcode: "35611"
 city: Athens
-street: "Edison Drive"
-housenumber: 1207
-phone: "+1-256-232-5800"
-opening_hours: "09:00-18:00, Su closed"
-website: "http://railroadbazaar.com/"
+street: Edison Drive
+housenumber: "1207"
+phone: +1-256-232-5800
+opening_hours: 09:00-18:00, Su closed
+website: http://railroadbazaar.com/

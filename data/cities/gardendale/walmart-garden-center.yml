@@ -1,11 +1,11 @@
 id: 749254287
-type: way
+type: node
 latitude: 33.64644
 longitude: -86.8233
 postcode: "35071"
 city: Gardendale
-street: "Odum Road"
-housenumber: 890
+street: Odum Road
+housenumber: "890"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

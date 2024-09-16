@@ -1,11 +1,11 @@
 id: 223678519
-type: way
+type: node
 latitude: 32.35498
 longitude: -86.13611
 postcode: "36117"
 city: Montgomery
-street: "Chantilly Parkway"
-housenumber: 10710
-phone: "+1 334-272-7377"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/4407/montgomery-al/whats-new"
+street: Chantilly Parkway
+housenumber: "10710"
+phone: +1 334-272-7377
+opening_hours: 24/7
+website: https://www.walmart.com/store/4407/montgomery-al/whats-new

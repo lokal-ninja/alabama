@@ -1,11 +1,11 @@
 id: 468408349
-type: way
+type: node
 latitude: 34.80262
 longitude: -86.96868
 postcode: "35611"
 city: Athens
-street: "Clinton Street South"
-housenumber: 105
+street: Clinton Street South
+housenumber: "105"
 phone: ""
-opening_hours: "08:00-17:00; Sa 08:00-12:00; Su closed"
-website: "http://www.athensfloristandflowers.com/"
+opening_hours: 08:00-17:00; Sa 08:00-12:00; Su closed
+website: http://www.athensfloristandflowers.com/

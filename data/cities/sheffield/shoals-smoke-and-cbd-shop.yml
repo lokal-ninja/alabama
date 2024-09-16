@@ -1,11 +1,11 @@
 id: 971585008
-type: way
+type: node
 latitude: 34.77499
 longitude: -87.6688
 postcode: "35660"
 city: Sheffield
-street: "North Jackson Highway"
-housenumber: 4232
+street: North Jackson Highway
+housenumber: "4232"
 phone: ""
 opening_hours: ""
 website: ""

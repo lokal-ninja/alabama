@@ -1,11 +1,11 @@
 id: 1219765885
-type: way
+type: node
 latitude: 34.01743
 longitude: -85.9961
 postcode: "35901"
 city: Gadsden
-street: "North 3rd Street"
-housenumber: 300
-phone: "+1 256 547 2546"
-opening_hours: "Mo-Sa 07:00-21:00; Su 08:30-19:00"
-website: "https://www.autozone.com/locations/al/gadsden/300-n-3rd-st.html"
+street: North 3rd Street
+housenumber: "300"
+phone: +1 256 547 2546
+opening_hours: Mo-Sa 07:00-21:00; Su 08:30-19:00
+website: https://www.autozone.com/locations/al/gadsden/300-n-3rd-st.html

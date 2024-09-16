@@ -1,11 +1,11 @@
 id: 673225672
-type: way
+type: node
 latitude: 34.60535
 longitude: -87.01454
 postcode: "35601"
 city: Decatur
-street: "Moulton Street West"
-housenumber: 1837
-phone: "+1-256-355-4444"
-opening_hours: "Mo-Fr 07:30-17:00"
+street: Moulton Street West
+housenumber: "1837"
+phone: +1-256-355-4444
+opening_hours: Mo-Fr 07:30-17:00
 website: ""

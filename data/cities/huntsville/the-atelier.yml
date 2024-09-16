@@ -4,8 +4,8 @@ latitude: 34.74389
 longitude: -86.67945
 postcode: "35806"
 city: Huntsville
-street: "University Drive Northwest"
-housenumber: 6241
-phone: "+1-256-631-2872"
-opening_hours: "Mo-Th 10:00-19:00; Fr-Sa 10:00-20:00; Su 13:00-17:00"
-website: "https://theatelier.com/"
+street: University Drive Northwest
+housenumber: "6241"
+phone: +1-256-631-2872
+opening_hours: Mo-Th 10:00-19:00; Fr-Sa 10:00-20:00; Su 13:00-17:00
+website: https://theatelier.com/

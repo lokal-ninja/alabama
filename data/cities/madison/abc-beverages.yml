@@ -1,11 +1,11 @@
 id: 384547580
-type: way
+type: node
 latitude: 34.68219
 longitude: -86.73667
 postcode: "35758"
 city: Madison
-street: "Madison Boulevard"
-housenumber: 8505
+street: Madison Boulevard
+housenumber: "8505"
 phone: ""
 opening_hours: ""
 website: ""

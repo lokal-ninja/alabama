@@ -1,11 +1,11 @@
 id: 968339833
-type: way
+type: node
 latitude: 33.42198
 longitude: -86.68502
 postcode: "35242"
 city: Birmingham
-street: "Highway 280 South"
-housenumber: 5269
-phone: "+1 205-995-1013"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/al/birmingham/pet-supplies-birmingham-al-1835.html"
+street: Highway 280 South
+housenumber: "5269"
+phone: +1 205-995-1013
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/al/birmingham/pet-supplies-birmingham-al-1835.html

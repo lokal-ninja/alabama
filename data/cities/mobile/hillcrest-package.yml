@@ -1,11 +1,11 @@
 id: 347311022
-type: way
+type: node
 latitude: 30.66263
 longitude: -88.19124
 postcode: "36695"
 city: Mobile
-street: "Hillcrest Road"
-housenumber: 1222
-phone: "+1 251 639 1787"
+street: Hillcrest Road
+housenumber: "1222"
+phone: +1 251 639 1787
 opening_hours: ""
 website: ""

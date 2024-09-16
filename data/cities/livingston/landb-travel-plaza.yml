@@ -1,11 +1,11 @@
 id: 461631901
-type: way
+type: node
 latitude: 32.62323
 longitude: -88.20719
 postcode: "35470"
 city: Livingston
-street: "AL 28"
-housenumber: 651
-phone: "+1 (205) 652-6460"
-opening_hours: "24/7"
+street: AL 28
+housenumber: "651"
+phone: +1 (205) 652-6460
+opening_hours: 24/7
 website: ""

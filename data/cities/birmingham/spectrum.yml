@@ -4,8 +4,8 @@ latitude: 33.52786
 longitude: -86.7175
 postcode: "35210"
 city: Birmingham
-street: "Montclair Road"
-housenumber: 1680
-phone: "+1-866-874-2389"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su closed"
-website: "https://www.spectrum.com/locations/al/birmingham/1680-montclair-rd"
+street: Montclair Road
+housenumber: "1680"
+phone: +1-866-874-2389
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su closed
+website: https://www.spectrum.com/locations/al/birmingham/1680-montclair-rd

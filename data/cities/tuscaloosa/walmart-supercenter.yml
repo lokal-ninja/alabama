@@ -1,11 +1,11 @@
 id: 124669222
-type: way
+type: node
 latitude: 33.16466
 longitude: -87.5196
 postcode: "35405"
 city: Tuscaloosa
-street: "Skyland Boulevard East"
-housenumber: 1501
-phone: "+1 205-750-0823"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/715/tuscaloosa-al/whats-new"
+street: Skyland Boulevard East
+housenumber: "1501"
+phone: +1 205-750-0823
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/715/tuscaloosa-al/whats-new

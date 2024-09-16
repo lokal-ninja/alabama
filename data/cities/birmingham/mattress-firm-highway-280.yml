@@ -1,11 +1,11 @@
 id: 819609617
-type: way
+type: node
 latitude: 33.41898
 longitude: -86.66943
 postcode: "35242"
 city: Birmingham
-street: "Highway 280"
-housenumber: 5407
-phone: "+1 205-995-2697"
+street: Highway 280
+housenumber: "5407"
+phone: +1 205-995-2697
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/al/birmingham/055019/"
+website: https://www.mattressfirm.com/en-us/stores/al/birmingham/055019/

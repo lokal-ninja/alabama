@@ -1,11 +1,11 @@
 id: 810541055
-type: way
+type: node
 latitude: 33.33439
 longitude: -86.98651
-postcode: "35022-7305"
+postcode: 35022-7305
 city: Bessemer
-street: "Promenade Parkway"
-housenumber: 4817
-phone: "+1 205-425-1098"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/al/bessemer/1079"
+street: Promenade Parkway
+housenumber: "4817"
+phone: +1 205-425-1098
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/al/bessemer/1079

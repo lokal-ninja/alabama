@@ -1,11 +1,11 @@
 id: 289565971
-type: way
+type: node
 latitude: 33.61049
 longitude: -86.2778
 postcode: "35125"
 city: Pell City
-street: "Vaughan Lane"
-housenumber: 81
-phone: "+1 205 338 0097"
-opening_hours: "Mo-Sa 10:00-21:00; Su 13:00-18:00"
-website: "https://www.shoeshow.com"
+street: Vaughan Lane
+housenumber: "81"
+phone: +1 205 338 0097
+opening_hours: Mo-Sa 10:00-21:00; Su 13:00-18:00
+website: https://www.shoeshow.com

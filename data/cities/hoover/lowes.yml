@@ -1,11 +1,11 @@
 id: 823920507
-type: way
+type: node
 latitude: 33.3591
 longitude: -86.77438
 postcode: "35244"
 city: Hoover
-street: "Valleydale Road"
-housenumber: 2100
-phone: "+1 205-402-9880"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/al-hoover/0620"
+street: Valleydale Road
+housenumber: "2100"
+phone: +1 205-402-9880
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/al-hoover/0620

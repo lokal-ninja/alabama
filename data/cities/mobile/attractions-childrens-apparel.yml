@@ -1,11 +1,11 @@
 id: 362999938
-type: way
+type: node
 latitude: 30.69138
 longitude: -88.04316
 postcode: "36602"
 city: Mobile
-street: "Dauphin Street"
-housenumber: 207
+street: Dauphin Street
+housenumber: "207"
 phone: ""
 opening_hours: ""
 website: ""

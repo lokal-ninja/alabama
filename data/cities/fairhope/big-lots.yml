@@ -4,8 +4,8 @@ latitude: 30.52309
 longitude: -87.88481
 postcode: "36532"
 city: Fairhope
-street: "Eastern Shore Shopping Center"
-housenumber: 150
-phone: "+1 251-929-3640"
-opening_hours: "Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/al/fairhope/150-eastern-shore-shopping-ctr"
+street: Eastern Shore Shopping Center
+housenumber: "150"
+phone: +1 251-929-3640
+opening_hours: Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/al/fairhope/150-eastern-shore-shopping-ctr

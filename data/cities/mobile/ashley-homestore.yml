@@ -1,11 +1,11 @@
 id: 342127441
-type: way
+type: node
 latitude: 30.67345
 longitude: -88.17232
 postcode: "36608"
 city: Mobile
-street: "University Boulevard South"
-housenumber: 314
+street: University Boulevard South
+housenumber: "314"
 phone: ""
 opening_hours: ""
 website: ""

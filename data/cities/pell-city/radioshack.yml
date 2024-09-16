@@ -1,11 +1,11 @@
 id: 289565966
-type: way
+type: node
 latitude: 33.61029
 longitude: -86.2778
 postcode: "35125"
 city: Pell City
-street: "Vaughan Lane"
-housenumber: 89
-phone: "+1 205 338 2329"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-19:00"
-website: "https://www.radioshack.com/"
+street: Vaughan Lane
+housenumber: "89"
+phone: +1 205 338 2329
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-19:00
+website: https://www.radioshack.com/

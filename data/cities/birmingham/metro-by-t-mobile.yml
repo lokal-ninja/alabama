@@ -1,11 +1,11 @@
 id: 756761762
-type: way
+type: node
 latitude: 33.63464
 longitude: -86.6839
-postcode: "35215-4509"
+postcode: 35215-4509
 city: Birmingham
-street: "Center Point Parkway"
-housenumber: 1837
-phone: "+1-205-847-9575"
-opening_hours: "Mo-Sa 09:00-20:00; Su 11:00-17:00"
-website: "https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-birmingham-al-10205410/"
+street: Center Point Parkway
+housenumber: "1837"
+phone: +1-205-847-9575
+opening_hours: Mo-Sa 09:00-20:00; Su 11:00-17:00
+website: https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-birmingham-al-10205410/

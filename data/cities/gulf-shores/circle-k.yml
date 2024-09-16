@@ -1,11 +1,11 @@
 id: 727077058
-type: way
+type: node
 latitude: 30.27314
 longitude: -87.68829
 postcode: "36542"
 city: Gulf Shores
-street: "Gulf Shores Parkway"
-housenumber: 2011
-phone: "+1-251-968-7781"
-opening_hours: "24/7"
+street: Gulf Shores Parkway
+housenumber: "2011"
+phone: +1-251-968-7781
+opening_hours: 24/7
 website: ""

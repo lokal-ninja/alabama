@@ -1,11 +1,11 @@
 id: 766044589
-type: way
+type: node
 latitude: 32.50883
 longitude: -86.21748
 postcode: "36092"
 city: Wetumpka
-street: "US Highway 231"
-housenumber: 4501
-phone: "+1 334-731-9009"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/al-wetumpka/2885"
+street: US Highway 231
+housenumber: "4501"
+phone: +1 334-731-9009
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/al-wetumpka/2885

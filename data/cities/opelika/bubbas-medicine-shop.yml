@@ -1,11 +1,11 @@
 id: 916457621
-type: way
+type: node
 latitude: 32.65227
 longitude: -85.37914
 postcode: "36801"
 city: Opelika
-street: "2nd Avenue"
-housenumber: 512
+street: 2nd Avenue
+housenumber: "512"
 phone: ""
 opening_hours: ""
-website: "https://www.bubbasonline.com/"
+website: https://www.bubbasonline.com/

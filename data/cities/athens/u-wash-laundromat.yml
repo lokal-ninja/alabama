@@ -1,11 +1,11 @@
 id: 566742253
-type: way
+type: node
 latitude: 34.79754
 longitude: -86.96965
 postcode: "35611"
 city: Athens
-street: "South Clinton Street"
-housenumber: 520
+street: South Clinton Street
+housenumber: "520"
 phone: ""
-opening_hours: "Mo-Su 06:00-23:55"
+opening_hours: Mo-Su 06:00-23:55
 website: ""

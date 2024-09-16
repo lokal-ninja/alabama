@@ -1,11 +1,11 @@
 id: 443263753
-type: way
+type: node
 latitude: 34.79093
 longitude: -86.97958
 postcode: "35611"
 city: Athens
-street: "US Highway 72 West"
-housenumber: 804
-phone: "+1-256-232-2622"
+street: US Highway 72 West
+housenumber: "804"
+phone: +1-256-232-2622
 opening_hours: ""
-website: "http://www.spryfuneralhome.com/"
+website: http://www.spryfuneralhome.com/

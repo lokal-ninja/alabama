@@ -4,8 +4,8 @@ latitude: 34.79581
 longitude: -86.97375
 postcode: "35611"
 city: Athens
-street: "South Jefferson Street"
-housenumber: 600
-phone: "+1-256-230-6288"
-opening_hours: "Tu-Fr 09:00-17:00, Sa 09:00-04:00, Su-Mo closed"
+street: South Jefferson Street
+housenumber: "600"
+phone: +1-256-230-6288
+opening_hours: Tu-Fr 09:00-17:00, Sa 09:00-04:00, Su-Mo closed
 website: ""

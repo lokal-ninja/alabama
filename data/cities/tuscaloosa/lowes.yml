@@ -1,11 +1,11 @@
 id: 647940911
-type: way
+type: node
 latitude: 33.16686
 longitude: -87.55529
 postcode: "35403"
 city: Tuscaloosa
-street: "Oscar Baxter Drive"
-housenumber: 4900
-phone: "+1 205-759-4403"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20::00"
-website: "https://www.lowes.com/store/AL-Tuscaloosa/0423"
+street: Oscar Baxter Drive
+housenumber: "4900"
+phone: +1 205-759-4403
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20::00
+website: https://www.lowes.com/store/AL-Tuscaloosa/0423

@@ -1,11 +1,11 @@
 id: 545062148
-type: way
+type: node
 latitude: 34.79071
 longitude: -86.96783
 postcode: "35611"
 city: Athens
-street: "US Highway 72 East"
-housenumber: 115
-phone: "+1 833-470-7086"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/al/athens/115-us-72"
+street: US Highway 72 East
+housenumber: "115"
+phone: +1 833-470-7086
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/al/athens/115-us-72

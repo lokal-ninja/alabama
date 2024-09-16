@@ -1,11 +1,11 @@
 id: 560592777
-type: way
+type: node
 latitude: 33.95564
 longitude: -86.04405
-postcode: "35906-3238"
+postcode: 35906-3238
 city: Rainbow City
-street: "West Grand Avenue"
-housenumber: 128
-phone: "+1 256-442-2509"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1476"
+street: West Grand Avenue
+housenumber: "128"
+phone: +1 256-442-2509
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1476

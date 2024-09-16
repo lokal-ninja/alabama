@@ -1,11 +1,11 @@
 id: 689364343
-type: way
+type: node
 latitude: 33.5237
 longitude: -86.66946
 postcode: "35210"
 city: Irondale
-street: "Mercedes Way"
-housenumber: 750
-phone: "+1-205-848-7000"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su closed"
-website: "https://www.mbbhm.com/"
+street: Mercedes Way
+housenumber: "750"
+phone: +1-205-848-7000
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su closed
+website: https://www.mbbhm.com/

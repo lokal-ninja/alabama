@@ -1,11 +1,11 @@
 id: 1062464073
-type: way
+type: node
 latitude: 34.77275
 longitude: -87.66974
 postcode: "35660"
 city: Sheffield
-street: "North Jackson Highway"
-housenumber: 4109
+street: North Jackson Highway
+housenumber: "4109"
 phone: ""
-opening_hours: "Mo-Sa 08:45-19:00; Su 11:00-17:00"
-website: "https://www.greenwaykiashoals.com/"
+opening_hours: Mo-Sa 08:45-19:00; Su 11:00-17:00
+website: https://www.greenwaykiashoals.com/

@@ -1,11 +1,11 @@
 id: 289388319
-type: way
+type: node
 latitude: 33.58648
 longitude: -86.28569
 postcode: "35125"
 city: Pell City
-street: "Cogswell Avenue"
-housenumber: 1905
-phone: "+1 205 525 0523"
+street: Cogswell Avenue
+housenumber: "1905"
+phone: +1 205 525 0523
 opening_hours: ""
-website: "https://creditcentralllc.com/"
+website: https://creditcentralllc.com/

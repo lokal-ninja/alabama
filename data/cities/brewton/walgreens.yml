@@ -1,11 +1,11 @@
 id: 1017592305
-type: way
+type: node
 latitude: 31.13902
 longitude: -87.06807
 postcode: "36426"
 city: Brewton
-street: "Douglas Avenue"
-housenumber: 2040
+street: Douglas Avenue
+housenumber: "2040"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1230470871
-type: way
+type: node
 latitude: 33.94563
 longitude: -86.47477
 postcode: ""
 city: Oneonta
-street: "1st Avenue East"
-housenumber: 239
-phone: "+1 205-237-9696"
+street: 1st Avenue East
+housenumber: "239"
+phone: +1 205-237-9696
 opening_hours: ""
-website: "https://otownco.com"
+website: https://otownco.com

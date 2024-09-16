@@ -1,11 +1,11 @@
 id: 1277655657
-type: way
+type: node
 latitude: 33.70028
 longitude: -86.51287
 postcode: "35173"
 city: Trussville
-street: "Argo-Margaret Road"
-housenumber: 425
-phone: "+1-205-533-8595"
+street: Argo-Margaret Road
+housenumber: "425"
+phone: +1-205-533-8595
 opening_hours: ""
-website: "https://oldsouthfirearms.com"
+website: https://oldsouthfirearms.com

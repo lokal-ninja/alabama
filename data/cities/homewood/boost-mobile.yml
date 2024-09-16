@@ -1,11 +1,11 @@
 id: 1071065104
-type: way
+type: node
 latitude: 33.46544
 longitude: -86.82074
 postcode: "35209"
 city: Homewood
-street: "Green Springs Highway"
-housenumber: 339
+street: Green Springs Highway
+housenumber: "339"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 684449133
-type: way
+type: node
 latitude: 34.67089
 longitude: -86.75111
 postcode: "35758"
 city: Madison
-street: "Graphics Drive"
-housenumber: 115
+street: Graphics Drive
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

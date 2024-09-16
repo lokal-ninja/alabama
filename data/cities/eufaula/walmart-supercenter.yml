@@ -1,11 +1,11 @@
 id: 422322460
-type: way
+type: node
 latitude: 31.84292
 longitude: -85.17099
 postcode: "36027"
 city: Eufaula
-street: "South Eufaula Avenue"
-housenumber: 3176
-phone: "+1 334-687-2218"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1638-eufaula-al"
+street: South Eufaula Avenue
+housenumber: "3176"
+phone: +1 334-687-2218
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1638-eufaula-al

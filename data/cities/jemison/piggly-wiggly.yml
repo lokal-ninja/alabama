@@ -1,11 +1,11 @@
 id: 1069806466
-type: way
+type: node
 latitude: 32.95939
 longitude: -86.74227
 postcode: "35085"
 city: Jemison
-street: "US-31"
-housenumber: 24716
-phone: "+1 205-688-2477"
+street: US-31
+housenumber: "24716"
+phone: +1 205-688-2477
 opening_hours: ""
 website: ""

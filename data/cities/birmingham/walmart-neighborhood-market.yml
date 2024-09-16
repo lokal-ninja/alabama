@@ -4,8 +4,8 @@ latitude: 33.63737
 longitude: -86.6845
 postcode: "35215"
 city: Birmingham
-street: "Center Point Parkway"
-housenumber: 1916
-phone: "+1 205-520-0269"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/5100/birmingham-al/whats-new"
+street: Center Point Parkway
+housenumber: "1916"
+phone: +1 205-520-0269
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/5100/birmingham-al/whats-new

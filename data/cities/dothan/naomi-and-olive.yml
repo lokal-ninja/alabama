@@ -1,11 +1,11 @@
 id: 674584584
-type: way
+type: node
 latitude: 31.22426
 longitude: -85.39206
 postcode: "36303"
 city: Dothan
-street: "North Foster Street"
-housenumber: 140
+street: North Foster Street
+housenumber: "140"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 895743832
-type: way
+type: node
 latitude: 31.80114
 longitude: -85.95605
 postcode: "36082"
 city: Troy
-street: "College Drive"
-housenumber: 7
+street: College Drive
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

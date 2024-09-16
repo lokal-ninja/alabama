@@ -1,11 +1,11 @@
 id: 480970117
-type: way
+type: node
 latitude: 34.55888
 longitude: -86.96951
 postcode: "35601"
 city: Decatur
-street: "Point Malard Parkway"
-housenumber: 1241
-phone: "+1 256-301-4519"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/al/decatur-store1590.html"
+street: Point Malard Parkway
+housenumber: "1241"
+phone: +1 256-301-4519
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/al/decatur-store1590.html

@@ -1,11 +1,11 @@
 id: 1231172111
-type: way
+type: node
 latitude: 33.94092
 longitude: -86.48638
 postcode: ""
 city: Oneonta
-street: "State Highway 75"
-housenumber: 28339
-phone: "205-625-3122"
+street: State Highway 75
+housenumber: "28339"
+phone: 205-625-3122
 opening_hours: ""
-website: "https://www.allamericancdjr.com/"
+website: https://www.allamericancdjr.com/

@@ -1,11 +1,11 @@
 id: 454060249
-type: way
+type: node
 latitude: 34.80374
 longitude: -87.65795
 postcode: "35630"
 city: Florence
-street: "Huntsville Road"
-housenumber: 1408
+street: Huntsville Road
+housenumber: "1408"
 phone: ""
 opening_hours: ""
 website: ""

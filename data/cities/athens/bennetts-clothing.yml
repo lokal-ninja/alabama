@@ -1,11 +1,11 @@
 id: 442602372
-type: way
+type: node
 latitude: 34.80203
 longitude: -86.97211
 postcode: "35611"
 city: Athens
-street: "Washington Street West"
-housenumber: 215
+street: Washington Street West
+housenumber: "215"
 phone: ""
 opening_hours: ""
-website: "https://www.bennettsclothing.com/"
+website: https://www.bennettsclothing.com/

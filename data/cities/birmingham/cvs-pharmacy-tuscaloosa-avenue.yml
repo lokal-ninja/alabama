@@ -1,11 +1,11 @@
 id: 966069784
-type: way
+type: node
 latitude: 33.50033
 longitude: -86.84311
 postcode: "35211"
 city: Birmingham
-street: "Tuscaloosa Avenue"
-housenumber: 632
-phone: "205-781-8495"
+street: Tuscaloosa Avenue
+housenumber: "632"
+phone: 205-781-8495
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/birmingham-al-pharmacies/632-tuscaloosa-avenue-birmingham-al-35211/storeid=4871"
+website: https://www.cvs.com/store-locator/birmingham-al-pharmacies/632-tuscaloosa-avenue-birmingham-al-35211/storeid=4871

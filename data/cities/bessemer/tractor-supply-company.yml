@@ -1,11 +1,11 @@
 id: 814648303
-type: way
+type: node
 latitude: 33.35921
 longitude: -86.99707
 postcode: "35022"
 city: Bessemer
-street: "Academy Drive"
-housenumber: 690
-phone: "+1 205-426-9905"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Academy Drive
+housenumber: "690"
+phone: +1 205-426-9905
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

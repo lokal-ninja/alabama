@@ -1,11 +1,11 @@
 id: 870236304
-type: way
+type: node
 latitude: 33.23644
 longitude: -86.80137
 postcode: "35007"
 city: Alabaster
-street: "Colonial Promenade Parkway"
-housenumber: 630
-phone: "+1 205-620-0360"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/423/alabaster-al/whats-new"
+street: Colonial Promenade Parkway
+housenumber: "630"
+phone: +1 205-620-0360
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/423/alabaster-al/whats-new

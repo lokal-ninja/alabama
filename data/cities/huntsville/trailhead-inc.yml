@@ -1,11 +1,11 @@
 id: 613509769
-type: way
+type: node
 latitude: 34.71558
 longitude: -86.59807
 postcode: "35806"
 city: Huntsville
-street: "Seminole Drive Southwest"
-housenumber: 2211
+street: Seminole Drive Southwest
+housenumber: "2211"
 phone: ""
-opening_hours: "10:00-18:30; Sa 09:00-17:30; Su closed"
-website: "https://www.trailheadinc.net/"
+opening_hours: 10:00-18:30; Sa 09:00-17:30; Su closed
+website: https://www.trailheadinc.net/

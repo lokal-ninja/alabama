@@ -4,8 +4,8 @@ latitude: 33.48456
 longitude: -86.79226
 postcode: "35209"
 city: Birmingham
-street: "18th Street South"
-housenumber: 2544
-phone: "+1-205-870-4444"
-opening_hours: "Mo-Sa 10:00-16:00; Su closed"
-website: "https://www.nilipour.com/"
+street: 18th Street South
+housenumber: "2544"
+phone: +1-205-870-4444
+opening_hours: Mo-Sa 10:00-16:00; Su closed
+website: https://www.nilipour.com/

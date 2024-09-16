@@ -1,11 +1,11 @@
 id: 87770909
-type: way
+type: node
 latitude: 34.73828
 longitude: -86.58519
 postcode: "35801"
 city: Huntsville
-street: "Meridian Street"
-housenumber: 628
+street: Meridian Street
+housenumber: "628"
 phone: ""
 opening_hours: ""
 website: ""

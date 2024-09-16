@@ -1,11 +1,11 @@
 id: 589352161
-type: way
+type: node
 latitude: 34.75287
 longitude: -86.75102
 postcode: "35758"
 city: Madison
-street: "Hwy 72 W"
-housenumber: 8042
-phone: "+1-256-716-6777"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
-website: "https://www.discounttire.com/"
+street: Hwy 72 W
+housenumber: "8042"
+phone: +1-256-716-6777
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
+website: https://www.discounttire.com/

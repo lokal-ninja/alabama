@@ -4,8 +4,8 @@ latitude: 33.6892
 longitude: -85.8249
 postcode: "36201"
 city: Anniston
-street: "McClellan Boulevard"
-housenumber: 3124
-phone: "+1 256-236-9480"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/al/anniston/3124-mcclellan-blvd"
+street: McClellan Boulevard
+housenumber: "3124"
+phone: +1 256-236-9480
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/al/anniston/3124-mcclellan-blvd

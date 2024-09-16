@@ -1,11 +1,11 @@
 id: 651824634
-type: way
+type: node
 latitude: 34.75404
 longitude: -86.7118
 postcode: "35806"
 city: Huntsville
-street: "University Drive NW"
-housenumber: 7061
-phone: "+1-256-801-8990"
+street: University Drive NW
+housenumber: "7061"
+phone: +1-256-801-8990
 opening_hours: ""
-website: "https://liquorexpress.net/"
+website: https://liquorexpress.net/

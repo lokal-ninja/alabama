@@ -1,11 +1,11 @@
 id: 588829472
-type: way
+type: node
 latitude: 34.84677
 longitude: -86.70995
 postcode: "35749"
 city: Harvest
-street: "Alabama 58"
-housenumber: 5850
-phone: "+1 256-851-5958"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1218"
+street: Alabama 58
+housenumber: "5850"
+phone: +1 256-851-5958
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1218

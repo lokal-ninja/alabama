@@ -1,11 +1,11 @@
 id: 1239242816
-type: way
+type: node
 latitude: 33.70681
 longitude: -86.51907
 postcode: "35173"
 city: Trussville
-street: "Main Street"
-housenumber: 933
-phone: "+1-205-661-8445"
+street: Main Street
+housenumber: "933"
+phone: +1-205-661-8445
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/al/trussville/16473"
+website: https://www.dollargeneral.com/store-directory/al/trussville/16473

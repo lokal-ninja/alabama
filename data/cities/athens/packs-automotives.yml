@@ -1,11 +1,11 @@
 id: 479918433
-type: way
+type: node
 latitude: 34.84984
 longitude: -86.97282
 postcode: "35614"
 city: Athens
-street: "Alabama Highway 127"
-housenumber: 20094
+street: Alabama Highway 127
+housenumber: "20094"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 33.40794
 longitude: -86.6314
 postcode: "35242"
 city: Birmingham
-street: "Carlow Lane"
-housenumber: 300
-phone: "+1 205-980-7221"
-opening_hours: "Mo-Sa 08:00-18:00; Su 11:00-17:00"
+street: Carlow Lane
+housenumber: "300"
+phone: +1 205-980-7221
+opening_hours: Mo-Sa 08:00-18:00; Su 11:00-17:00
 website: ""

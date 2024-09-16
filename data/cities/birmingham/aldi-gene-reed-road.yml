@@ -1,11 +1,11 @@
 id: 889018368
-type: way
+type: node
 latitude: 33.59795
 longitude: -86.69468
 postcode: "35215"
 city: Birmingham
-street: "Gene Reed Road"
-housenumber: 520
-phone: "+1 833-470-7034"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/al/birmingham/520-gene-reed-rd"
+street: Gene Reed Road
+housenumber: "520"
+phone: +1 833-470-7034
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/al/birmingham/520-gene-reed-rd

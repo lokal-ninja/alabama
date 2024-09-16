@@ -1,11 +1,11 @@
 id: 619028345
-type: way
+type: node
 latitude: 30.29244
 longitude: -87.58299
 postcode: "36561"
 city: Orange Beach
-street: "Canal Road"
-housenumber: 25907
-phone: "+1 251-981-0954"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 08:00-16:30"
+street: Canal Road
+housenumber: "25907"
+phone: +1 251-981-0954
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 08:00-16:30
 website: ""

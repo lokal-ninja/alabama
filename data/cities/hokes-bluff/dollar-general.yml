@@ -1,11 +1,11 @@
 id: 845879897
-type: way
+type: node
 latitude: 33.98716
 longitude: -85.86639
 postcode: "35903"
 city: Hokes Bluff
-street: "US 278"
-housenumber: 5698
+street: US 278
+housenumber: "5698"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/al/hokes-bluff/4172"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.dollargeneral.com/store-directory/al/hokes-bluff/4172

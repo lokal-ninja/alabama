@@ -1,11 +1,11 @@
 id: 1254222103
-type: way
+type: node
 latitude: 34.17652
 longitude: -85.75774
 postcode: "35983"
 city: Leesburg
-street: "Weiss Lake Boulevard"
-housenumber: 5880
-phone: "+1 256 526 8900"
-opening_hours: "Tu-Fr 08:00-17:00; Sa 08:00-15:00"
+street: Weiss Lake Boulevard
+housenumber: "5880"
+phone: +1 256 526 8900
+opening_hours: Tu-Fr 08:00-17:00; Sa 08:00-15:00
 website: ""

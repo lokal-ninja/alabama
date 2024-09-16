@@ -1,11 +1,11 @@
 id: 243303960
-type: way
+type: node
 latitude: 33.37635
 longitude: -86.81226
 postcode: "35244"
 city: Hoover
-street: "Galleria Circle"
-housenumber: 3670
+street: Galleria Circle
+housenumber: "3670"
 phone: ""
 opening_hours: ""
 website: ""

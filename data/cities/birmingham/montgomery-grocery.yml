@@ -1,11 +1,11 @@
 id: 761483028
-type: way
+type: node
 latitude: 33.55729
 longitude: -86.80385
 postcode: "35207"
 city: Birmingham
-street: "33rd Terrace North"
-housenumber: 3148
-phone: "+1-205-849-7911"
-opening_hours: "Mo-Sa 09:00-20:00; Su closed"
+street: 33rd Terrace North
+housenumber: "3148"
+phone: +1-205-849-7911
+opening_hours: Mo-Sa 09:00-20:00; Su closed
 website: ""

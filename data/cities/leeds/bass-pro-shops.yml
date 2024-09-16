@@ -1,11 +1,11 @@
 id: 220168657
-type: way
+type: node
 latitude: 33.54371
 longitude: -86.59222
 postcode: "35094"
 city: Leeds
-street: "Bass Pro Boulevard"
-housenumber: 5000
-phone: "+1-205-720-7500"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.basspro.com/us/al/leeds/5000-bass-pro-blvd.html"
+street: Bass Pro Boulevard
+housenumber: "5000"
+phone: +1-205-720-7500
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.basspro.com/us/al/leeds/5000-bass-pro-blvd.html

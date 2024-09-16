@@ -1,11 +1,11 @@
 id: 779451017
-type: way
+type: node
 latitude: 31.41419
 longitude: -86.06499
 postcode: "36323"
 city: Elba
-street: "Factory Street"
-housenumber: 224
+street: Factory Street
+housenumber: "224"
 phone: ""
 opening_hours: ""
 website: ""

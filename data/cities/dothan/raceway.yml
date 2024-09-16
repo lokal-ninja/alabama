@@ -1,11 +1,11 @@
 id: 1180760028
-type: way
+type: node
 latitude: 31.2716
 longitude: -85.37728
 postcode: "36303"
 city: Dothan
-street: "Reeves Street"
-housenumber: 3605
+street: Reeves Street
+housenumber: "3605"
 phone: ""
 opening_hours: ""
 website: ""

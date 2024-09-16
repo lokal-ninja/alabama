@@ -1,11 +1,11 @@
 id: 103826811
-type: way
+type: node
 latitude: 34.62729
 longitude: -86.88121
 postcode: "35758"
 city: Mooresville
-street: "Alabama Highway 20"
-housenumber: 24950
+street: Alabama Highway 20
+housenumber: "24950"
 phone: ""
-opening_hours: "Tu-Sa 10:00-18:00"
-website: "http://www.southerncarnage.com/"
+opening_hours: Tu-Sa 10:00-18:00
+website: http://www.southerncarnage.com/

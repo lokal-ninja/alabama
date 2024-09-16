@@ -1,11 +1,11 @@
 id: 116077801
-type: way
+type: node
 latitude: 33.71906
 longitude: -85.82001
 postcode: "36206"
 city: Anniston
-street: "McClellan Boulevard"
-housenumber: 5560
-phone: "+1 256-820-3326"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/329/anniston-al/whats-new"
+street: McClellan Boulevard
+housenumber: "5560"
+phone: +1 256-820-3326
+opening_hours: 24/7
+website: https://www.walmart.com/store/329/anniston-al/whats-new

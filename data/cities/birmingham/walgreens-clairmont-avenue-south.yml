@@ -1,11 +1,11 @@
 id: 723913685
-type: way
+type: node
 latitude: 33.51189
 longitude: -86.78377
 postcode: "35205"
 city: Birmingham
-street: "Clairmont Avenue South"
-housenumber: 3020
+street: Clairmont Avenue South
+housenumber: "3020"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-3020+clairmont+ave+s-birmingham-al-35205/id=15144"
+website: https://www.walgreens.com/locator/walgreens-3020+clairmont+ave+s-birmingham-al-35205/id=15144

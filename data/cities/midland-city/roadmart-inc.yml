@@ -1,11 +1,11 @@
 id: 556060674
-type: way
+type: node
 latitude: 31.31858
 longitude: -85.49529
 postcode: "36350"
 city: Midland City
-street: "Hinton Waters Avenue"
-housenumber: 1323
-phone: "+1-334-983-4511"
-opening_hours: "Mo-Fr 07:00-17:00"
+street: Hinton Waters Avenue
+housenumber: "1323"
+phone: +1-334-983-4511
+opening_hours: Mo-Fr 07:00-17:00
 website: ""

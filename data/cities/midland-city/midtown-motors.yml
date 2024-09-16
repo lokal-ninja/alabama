@@ -1,11 +1,11 @@
 id: 556587214
-type: way
+type: node
 latitude: 31.30676
 longitude: -85.49543
 postcode: "36350"
 city: Midland City
-street: "US Highway 231"
-housenumber: 15016
-phone: "+1-334-983-3001"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:30-15:00"
-website: "https://www.midtownmotorsal.com/"
+street: US Highway 231
+housenumber: "15016"
+phone: +1-334-983-3001
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:30-15:00
+website: https://www.midtownmotorsal.com/

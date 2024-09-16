@@ -1,11 +1,11 @@
 id: 837963215
-type: way
+type: node
 latitude: 33.56263
 longitude: -86.51806
 postcode: "35094"
 city: Leeds
-street: "Whitfield Avenue"
-housenumber: 8551
-phone: "+1 205-699-0701"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/562/leeds-al/whats-new"
+street: Whitfield Avenue
+housenumber: "8551"
+phone: +1 205-699-0701
+opening_hours: 24/7
+website: https://www.walmart.com/store/562/leeds-al/whats-new

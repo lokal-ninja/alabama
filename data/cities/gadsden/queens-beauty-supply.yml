@@ -1,11 +1,11 @@
 id: 1219761374
-type: way
+type: node
 latitude: 34.00271
 longitude: -85.96836
 postcode: ""
 city: Gadsden
-street: "East Meighan Boulevard"
-housenumber: 1300
-phone: "+1 256 646 6194"
+street: East Meighan Boulevard
+housenumber: "1300"
+phone: +1 256 646 6194
 opening_hours: ""
 website: ""

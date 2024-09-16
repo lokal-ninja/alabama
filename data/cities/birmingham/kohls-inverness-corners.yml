@@ -1,11 +1,11 @@
 id: 364002425
-type: way
+type: node
 latitude: 33.41617
 longitude: -86.69737
 postcode: "35242"
 city: Birmingham
-street: "Inverness Corners"
-housenumber: 1100
-phone: "+1 205-980-4770"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/al/birmingham-657.shtml"
+street: Inverness Corners
+housenumber: "1100"
+phone: +1 205-980-4770
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/al/birmingham-657.shtml

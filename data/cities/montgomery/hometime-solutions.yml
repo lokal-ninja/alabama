@@ -1,11 +1,11 @@
 id: 1267964322
-type: way
+type: node
 latitude: 32.38345
 longitude: -86.25266
 postcode: "36109"
 city: Montgomery
-street: "Atlanta Highway"
-housenumber: 3620
+street: Atlanta Highway
+housenumber: "3620"
 phone: ""
 opening_hours: ""
 website: ""

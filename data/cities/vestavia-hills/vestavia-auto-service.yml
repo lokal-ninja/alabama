@@ -1,11 +1,11 @@
 id: 827093767
-type: way
+type: node
 latitude: 33.41633
 longitude: -86.8022
 postcode: "35216"
 city: Vestavia Hills
-street: "Buena Vista Drive"
-housenumber: 2000
+street: Buena Vista Drive
+housenumber: "2000"
 phone: "+12059793661"
-opening_hours: "Mo-Sa 07:00-16:00"
+opening_hours: Mo-Sa 07:00-16:00
 website: ""

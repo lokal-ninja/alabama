@@ -1,11 +1,11 @@
 id: 288955477
-type: way
+type: node
 latitude: 33.58645
 longitude: -86.28507
 postcode: "35125"
 city: Pell City
-street: "Cogswell Avenue"
-housenumber: 1916
-phone: "+1 205 884 2230"
-opening_hours: "Tu-Fr 11:00-17:00;Sa 11:00-15:00"
+street: Cogswell Avenue
+housenumber: "1916"
+phone: +1 205 884 2230
+opening_hours: Tu-Fr 11:00-17:00;Sa 11:00-15:00
 website: ""

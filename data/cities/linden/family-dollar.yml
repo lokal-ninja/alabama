@@ -1,11 +1,11 @@
 id: 508173489
-type: way
+type: node
 latitude: 32.30382
 longitude: -87.79775
 postcode: "36748"
 city: Linden
-street: "South Main Street"
-housenumber: 303
+street: South Main Street
+housenumber: "303"
 phone: ""
 opening_hours: ""
 website: ""

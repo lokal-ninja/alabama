@@ -1,11 +1,11 @@
 id: 527357214
-type: way
+type: node
 latitude: 30.37008
 longitude: -87.68482
 postcode: "36535"
 city: Foley
-street: "South McKenzie Street"
-housenumber: 3044
-phone: "+1 251-943-2718"
-opening_hours: "Mo-Th 08:00-20:00; Fr 08:00-21:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/al/foley/office-depot-2154"
+street: South McKenzie Street
+housenumber: "3044"
+phone: +1 251-943-2718
+opening_hours: Mo-Th 08:00-20:00; Fr 08:00-21:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/al/foley/office-depot-2154

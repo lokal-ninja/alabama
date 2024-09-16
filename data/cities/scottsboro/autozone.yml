@@ -1,11 +1,11 @@
 id: 665720402
-type: way
+type: node
 latitude: 34.65557
 longitude: -86.03468
 postcode: ""
 city: Scottsboro
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/al/scottsboro/1305-s-broad-st.html"
+website: https://www.autozone.com/locations/al/scottsboro/1305-s-broad-st.html

@@ -4,8 +4,8 @@ latitude: 33.514
 longitude: -86.8098
 postcode: "35203"
 city: Birmingham
-street: "2nd Avenue North"
-housenumber: 1716
-phone: "+1-205-434-3549"
-opening_hours: "Mo-Sa 09:00-18:00; Su off"
-website: "https://www.jeffersonstorage.com/"
+street: 2nd Avenue North
+housenumber: "1716"
+phone: +1-205-434-3549
+opening_hours: Mo-Sa 09:00-18:00; Su off
+website: https://www.jeffersonstorage.com/

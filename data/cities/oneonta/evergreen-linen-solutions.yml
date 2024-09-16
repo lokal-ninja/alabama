@@ -4,8 +4,8 @@ latitude: 33.94123
 longitude: -86.46958
 postcode: "35121"
 city: Oneonta
-street: "Blue Bell Street"
-housenumber: 402
+street: Blue Bell Street
+housenumber: "402"
 phone: ""
 opening_hours: ""
-website: "https://evergreenlinen.com/"
+website: https://evergreenlinen.com/

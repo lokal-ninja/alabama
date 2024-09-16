@@ -1,11 +1,11 @@
 id: 289387540
-type: way
+type: node
 latitude: 33.58645
 longitude: -86.28576
 postcode: "35125"
 city: Pell City
-street: "Cogswell Avenue"
-housenumber: 1903
-phone: "+1 205 884 2031"
+street: Cogswell Avenue
+housenumber: "1903"
+phone: +1 205 884 2031
 opening_hours: ""
-website: "https://www.griffinsjewelers.org/default.aspx"
+website: https://www.griffinsjewelers.org/default.aspx

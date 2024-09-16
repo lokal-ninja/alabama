@@ -1,11 +1,11 @@
 id: 404006383
-type: way
+type: node
 latitude: 33.65719
 longitude: -85.82916
 postcode: "36201"
 city: Anniston
-street: "East 10th Street"
-housenumber: 15
+street: East 10th Street
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

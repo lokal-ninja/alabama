@@ -2,10 +2,10 @@ id: 1378944237
 type: node
 latitude: 33.26299
 longitude: -87.51359
-postcode: "35406-3571"
+postcode: 35406-3571
 city: Tuscaloosa
-street: "Rice Mine Road Northeast"
-housenumber: 4851
-phone: "+1 205-247-7666"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/75"
+street: Rice Mine Road Northeast
+housenumber: "4851"
+phone: +1 205-247-7666
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/75

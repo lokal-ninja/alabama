@@ -4,8 +4,8 @@ latitude: 33.44795
 longitude: -86.84179
 postcode: "35209"
 city: Birmingham
-street: "West Oxmoor Road"
-housenumber: 130
-phone: "+1-205-942-2180"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-19:00; Su 09:00-18:00"
-website: "https://www.ntb.com/store/8624/birmingham-al-35209-6303"
+street: West Oxmoor Road
+housenumber: "130"
+phone: +1-205-942-2180
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-19:00; Su 09:00-18:00
+website: https://www.ntb.com/store/8624/birmingham-al-35209-6303

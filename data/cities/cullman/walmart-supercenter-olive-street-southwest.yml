@@ -1,11 +1,11 @@
 id: 511599556
-type: way
+type: node
 latitude: 34.14863
 longitude: -86.84123
 postcode: "35055"
 city: Cullman
-street: "Olive Street Southwest"
-housenumber: 626
-phone: "+1 256-739-1664"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/670/cullman-al/whats-new"
+street: Olive Street Southwest
+housenumber: "626"
+phone: +1 256-739-1664
+opening_hours: 24/7
+website: https://www.walmart.com/store/670/cullman-al/whats-new

@@ -1,11 +1,11 @@
 id: 471864488
-type: way
+type: node
 latitude: 34.80511
 longitude: -86.98309
 postcode: "35611"
 city: Athens
-street: "Market Street West"
-housenumber: 1113
+street: Market Street West
+housenumber: "1113"
 phone: ""
 opening_hours: ""
 website: ""

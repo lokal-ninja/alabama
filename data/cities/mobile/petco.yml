@@ -1,11 +1,11 @@
 id: 435224283
-type: way
+type: node
 latitude: 30.65333
 longitude: -88.11637
-postcode: "36606-2630"
+postcode: 36606-2630
 city: Mobile
-street: "Tingle Circle East"
-housenumber: 1310
-phone: "+1 251-509-0273"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/al/mobile/pet-supplies-mobile-al-1594.html"
+street: Tingle Circle East
+housenumber: "1310"
+phone: +1 251-509-0273
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/al/mobile/pet-supplies-mobile-al-1594.html

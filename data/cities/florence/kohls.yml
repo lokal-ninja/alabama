@@ -1,11 +1,11 @@
 id: 220970109
-type: way
+type: node
 latitude: 34.83868
 longitude: -87.62716
 postcode: "35630"
 city: Florence
-street: "Seville Street"
-housenumber: 350
-phone: "+1 256-767-5377"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/al/florence-1027.shtml"
+street: Seville Street
+housenumber: "350"
+phone: +1 256-767-5377
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/al/florence-1027.shtml

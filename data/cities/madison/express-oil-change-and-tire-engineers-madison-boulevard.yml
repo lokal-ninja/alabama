@@ -1,11 +1,11 @@
 id: 384775023
-type: way
+type: node
 latitude: 34.67704
 longitude: -86.74951
 postcode: "35758"
 city: Madison
-street: "Madison Boulevard"
-housenumber: 8861
-phone: "+1-256-772-4455"
-opening_hours: "Mo-Fr 08:00-18:00;Sa 08:00-17:00"
-website: "https://www.expressoil.com/stores/madison/al/0017/"
+street: Madison Boulevard
+housenumber: "8861"
+phone: +1-256-772-4455
+opening_hours: Mo-Fr 08:00-18:00;Sa 08:00-17:00
+website: https://www.expressoil.com/stores/madison/al/0017/

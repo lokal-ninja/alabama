@@ -1,11 +1,11 @@
 id: 89118901
-type: way
+type: node
 latitude: 34.6833
 longitude: -86.74226
 postcode: "35758"
 city: Madison
-street: "Madison Boulevard"
-housenumber: 8650
-phone: "+1-256-461-7403"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2690/madison-al/whats-new"
+street: Madison Boulevard
+housenumber: "8650"
+phone: +1-256-461-7403
+opening_hours: 24/7
+website: https://www.walmart.com/store/2690/madison-al/whats-new

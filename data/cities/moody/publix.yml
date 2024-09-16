@@ -1,11 +1,11 @@
 id: 659591301
-type: way
+type: node
 latitude: 33.57039
 longitude: -86.51782
-postcode: "35004-3241"
+postcode: 35004-3241
 city: Moody
-street: "Village Drive"
-housenumber: 2200
-phone: "+1 205-640-3230"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1508"
+street: Village Drive
+housenumber: "2200"
+phone: +1 205-640-3230
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1508

@@ -1,11 +1,11 @@
 id: 728254451
-type: way
+type: node
 latitude: 34.74142
 longitude: -86.68043
 postcode: "35806"
 city: Huntsville
-street: "University Drive Northwest"
-housenumber: 6275
-phone: "+1-938-227-6900"
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://www.lowes.com/store/AL-Huntsville/3645"
+street: University Drive Northwest
+housenumber: "6275"
+phone: +1-938-227-6900
+opening_hours: Mo-Su 10:00-20:00
+website: https://www.lowes.com/store/AL-Huntsville/3645

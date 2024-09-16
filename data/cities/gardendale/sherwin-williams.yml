@@ -1,11 +1,11 @@
 id: 839764365
-type: way
+type: node
 latitude: 33.65161
 longitude: -86.81472
 postcode: "35071"
 city: Gardendale
-street: "Fieldstown Road"
-housenumber: 317
-phone: "+1-205-631-6751"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-17:00; Su 10:00-16:00"
-website: "https://www.sherwin-williams.com/store-locator/paint-store/gardendale/al/2057"
+street: Fieldstown Road
+housenumber: "317"
+phone: +1-205-631-6751
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-17:00; Su 10:00-16:00
+website: https://www.sherwin-williams.com/store-locator/paint-store/gardendale/al/2057

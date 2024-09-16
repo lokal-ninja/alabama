@@ -1,11 +1,11 @@
 id: 1267964320
-type: way
+type: node
 latitude: 32.38501
 longitude: -86.25657
 postcode: "36109"
 city: Montgomery
-street: "Atlanta Highway"
-housenumber: 3502
-phone: "+1-334-396-5480"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
-website: "https://www.expressoil.com/stores/montgomery/al/1607/"
+street: Atlanta Highway
+housenumber: "3502"
+phone: +1-334-396-5480
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
+website: https://www.expressoil.com/stores/montgomery/al/1607/

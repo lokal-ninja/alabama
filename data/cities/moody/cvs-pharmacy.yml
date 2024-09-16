@@ -1,11 +1,11 @@
 id: 1054972114
-type: way
+type: node
 latitude: 33.59057
 longitude: -86.49555
 postcode: "35004"
 city: Moody
-street: "Moody Parkway"
-housenumber: 2828
+street: Moody Parkway
+housenumber: "2828"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/moody-al-pharmacies/2828-moody-parkway-moody-al-35004/storeid=4967"
+website: https://www.cvs.com/store-locator/moody-al-pharmacies/2828-moody-parkway-moody-al-35004/storeid=4967

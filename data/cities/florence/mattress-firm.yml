@@ -1,11 +1,11 @@
 id: 456833991
-type: way
+type: node
 latitude: 34.83722
 longitude: -87.63282
 postcode: "35630"
 city: Florence
-street: "Cox Creek Parkway"
-housenumber: 319
-phone: "+1 256-767-4296"
+street: Cox Creek Parkway
+housenumber: "319"
+phone: +1 256-767-4296
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/al/florence/035006/"
+website: https://www.mattressfirm.com/en-us/stores/al/florence/035006/

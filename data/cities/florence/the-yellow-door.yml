@@ -1,11 +1,11 @@
 id: 449265458
-type: way
+type: node
 latitude: 34.82084
 longitude: -87.65698
 postcode: "35630"
 city: Florence
-street: "Darby Drive"
-housenumber: 1617
-phone: "+1-256-766-6950"
+street: Darby Drive
+housenumber: "1617"
+phone: +1-256-766-6950
 opening_hours: ""
 website: ""

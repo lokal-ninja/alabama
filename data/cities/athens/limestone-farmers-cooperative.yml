@@ -1,11 +1,11 @@
 id: 527636184
-type: way
+type: node
 latitude: 34.77351
 longitude: -86.95863
 postcode: "35611"
 city: Athens
-street: "US Highway 31 South"
-housenumber: 1910
+street: US Highway 31 South
+housenumber: "1910"
 phone: ""
 opening_hours: ""
 website: ""

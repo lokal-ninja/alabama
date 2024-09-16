@@ -1,11 +1,11 @@
 id: 222719381
-type: way
+type: node
 latitude: 34.83791
 longitude: -87.68704
 postcode: "35630"
 city: Florence
-street: "North Wood Avenue"
-housenumber: 2503
-phone: "+1-256-766-0456"
+street: North Wood Avenue
+housenumber: "2503"
+phone: +1-256-766-0456
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 756761764
-type: way
+type: node
 latitude: 33.63648
 longitude: -86.6836
 postcode: "35215"
 city: Center Point
-street: "Center Point Parkway"
-housenumber: 1901
-phone: "+1-205-856-1155"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-17:00; Su off"
+street: Center Point Parkway
+housenumber: "1901"
+phone: +1-205-856-1155
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-17:00; Su off
 website: ""

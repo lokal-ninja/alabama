@@ -1,11 +1,11 @@
 id: 758811296
-type: way
+type: node
 latitude: 31.33131
 longitude: -85.84063
 postcode: "36330"
 city: Enterprise
-street: "East Lee Street"
-housenumber: 903
+street: East Lee Street
+housenumber: "903"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

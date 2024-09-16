@@ -1,11 +1,11 @@
 id: 967347385
-type: way
+type: node
 latitude: 32.38279
 longitude: -86.19959
 postcode: "36117"
 city: Montgomery
-street: "Atlanta Highway"
-housenumber: 5771
-phone: "+1 334 271 6220"
-opening_hours: "24/7"
+street: Atlanta Highway
+housenumber: "5771"
+phone: +1 334 271 6220
+opening_hours: 24/7
 website: ""

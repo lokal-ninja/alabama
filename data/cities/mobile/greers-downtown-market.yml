@@ -1,11 +1,11 @@
 id: 354671019
-type: way
+type: node
 latitude: 30.68607
 longitude: -88.05273
 postcode: "36602"
 city: Mobile
-street: "Government Street"
-housenumber: 851
+street: Government Street
+housenumber: "851"
 phone: ""
 opening_hours: ""
 website: ""

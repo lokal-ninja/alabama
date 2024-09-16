@@ -1,11 +1,11 @@
 id: 938611044
-type: way
+type: node
 latitude: 33.85481
 longitude: -86.28016
 postcode: "35953"
 city: North Ashville
-street: "US Highway 231"
-housenumber: 36640
-phone: "+1-205-594-7042"
+street: US Highway 231
+housenumber: "36640"
+phone: +1-205-594-7042
 opening_hours: ""
-website: "https://www.alafarm.com/business/st-clair-farmers-cooperative"
+website: https://www.alafarm.com/business/st-clair-farmers-cooperative

@@ -1,11 +1,11 @@
 id: 834824306
-type: way
+type: node
 latitude: 30.25472
 longitude: -88.11295
 postcode: "36528"
 city: Dauphin Island
-street: "Bienville Boulevard"
-housenumber: 1000
+street: Bienville Boulevard
+housenumber: "1000"
 phone: ""
 opening_hours: ""
 website: ""

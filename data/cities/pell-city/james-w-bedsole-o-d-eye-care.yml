@@ -1,11 +1,12 @@
 id: 288860342
-type: way
+type: node
 latitude: 33.58629
 longitude: -86.28727
 postcode: "35125"
 city: Pell City
-street: "Cogswell Avenue"
-housenumber: 1723
-phone: "+1 205 884 2020"
-opening_hours: "Mo 08:00-12:00,13:00-18:00;Tu 08:00-12:00,13:00-17:00;We 08:00-12:00,13:30-17:00;Th 08:00-12:00,13:00-17:00;Fr 08:00-12:00"
-website: "https://www.drbedsole.com/"
+street: Cogswell Avenue
+housenumber: "1723"
+phone: +1 205 884 2020
+opening_hours: Mo 08:00-12:00,13:00-18:00;Tu 08:00-12:00,13:00-17:00;We 08:00-12:00,13:30-17:00;Th
+    08:00-12:00,13:00-17:00;Fr 08:00-12:00
+website: https://www.drbedsole.com/

@@ -1,11 +1,11 @@
 id: 713100743
-type: way
+type: node
 latitude: 34.92526
 longitude: -86.57151
 postcode: "35750"
 city: Hazel Green
-street: "US-231"
-housenumber: 14006
+street: US-231
+housenumber: "14006"
 phone: ""
 opening_hours: ""
 website: ""

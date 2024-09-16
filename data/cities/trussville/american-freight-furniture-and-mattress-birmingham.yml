@@ -1,11 +1,11 @@
 id: 204284312
-type: way
+type: node
 latitude: 33.59762
 longitude: -86.64681
 postcode: "35235"
 city: Trussville
-street: "Morrow Road"
-housenumber: 3260
-phone: "+1-205-661-2229"
-opening_hours: "Mo-Sa 11:00-19:00; Su 11:00-17:00"
-website: "https://www.americanfreight.com/br/store/al/trussville/83"
+street: Morrow Road
+housenumber: "3260"
+phone: +1-205-661-2229
+opening_hours: Mo-Sa 11:00-19:00; Su 11:00-17:00
+website: https://www.americanfreight.com/br/store/al/trussville/83

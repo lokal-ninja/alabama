@@ -1,11 +1,11 @@
 id: 566745142
-type: way
+type: node
 latitude: 34.8043
 longitude: -86.96973
 postcode: "35611"
 city: Athens
-street: "Hobbs Street East"
-housenumber: 100
+street: Hobbs Street East
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

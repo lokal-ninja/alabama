@@ -1,11 +1,11 @@
 id: 426237190
-type: way
+type: node
 latitude: 33.36375
 longitude: -86.85132
 postcode: "35226"
 city: Hoover
-street: "Grove Boulevard"
-housenumber: 5513
-phone: "+1 205-403-4549"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/al/hoover-1331.shtml"
+street: Grove Boulevard
+housenumber: "5513"
+phone: +1 205-403-4549
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/al/hoover-1331.shtml

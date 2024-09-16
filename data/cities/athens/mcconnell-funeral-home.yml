@@ -1,11 +1,11 @@
 id: 443634089
-type: way
+type: node
 latitude: 34.79633
 longitude: -86.95364
 postcode: "35611"
 city: Athens
-street: "East Forrest Street"
-housenumber: 1200
-phone: "+1-256-232-1515"
+street: East Forrest Street
+housenumber: "1200"
+phone: +1-256-232-1515
 opening_hours: ""
-website: "https://www.dignitymemorial.com/mcconnell-funeral-home-athens/en-us/index.page"
+website: https://www.dignitymemorial.com/mcconnell-funeral-home-athens/en-us/index.page

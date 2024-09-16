@@ -1,11 +1,11 @@
 id: 436606537
-type: way
+type: node
 latitude: 34.71258
 longitude: -86.62605
 postcode: "35805"
 city: Huntsville
-street: "Patton Road Southwest"
-housenumber: 2701
-phone: "+1-256-533-1967"
-opening_hours: "Mo-Th 08:00-20:00; Fr-Sa 08:00-21:00; Su closed"
+street: Patton Road Southwest
+housenumber: "2701"
+phone: +1-256-533-1967
+opening_hours: Mo-Th 08:00-20:00; Fr-Sa 08:00-21:00; Su closed
 website: ""

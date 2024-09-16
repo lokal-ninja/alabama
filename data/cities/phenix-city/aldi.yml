@@ -1,11 +1,11 @@
 id: 812741540
-type: way
+type: node
 latitude: 32.49686
 longitude: -85.04423
 postcode: "36867"
 city: Phenix City
-street: "Marketplace Drive"
-housenumber: 3670
-phone: "+1 844-476-1106"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/al/phenix-city/3670-marketplace-drive"
+street: Marketplace Drive
+housenumber: "3670"
+phone: +1 844-476-1106
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/al/phenix-city/3670-marketplace-drive

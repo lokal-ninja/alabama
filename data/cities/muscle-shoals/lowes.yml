@@ -1,11 +1,11 @@
 id: 223224521
-type: way
+type: node
 latitude: 34.72701
 longitude: -87.66605
 postcode: "35661"
 city: Muscle Shoals
-street: "Woodward Avenue"
-housenumber: 3415
-phone: "+1 256-314-0334"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/al-muscle-shoals/1093"
+street: Woodward Avenue
+housenumber: "3415"
+phone: +1 256-314-0334
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/al-muscle-shoals/1093

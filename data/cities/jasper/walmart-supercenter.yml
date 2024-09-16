@@ -1,11 +1,11 @@
 id: 498085819
-type: way
+type: node
 latitude: 33.84326
 longitude: -87.25523
 postcode: "35501"
 city: Jasper
-street: "Highway 78 East"
-housenumber: 1801
-phone: "+1 205-384-1100"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/287/jasper-al/whats-new"
+street: Highway 78 East
+housenumber: "1801"
+phone: +1 205-384-1100
+opening_hours: 24/7
+website: https://www.walmart.com/store/287/jasper-al/whats-new

@@ -1,11 +1,11 @@
 id: 1215344674
-type: way
+type: node
 latitude: 30.6345
 longitude: -87.67669
 postcode: "36567"
 city: Robertsdale
-street: "County Road 68"
-housenumber: 20403
-phone: "+1-979-238-6390"
-opening_hours: "24/7"
+street: County Road 68
+housenumber: "20403"
+phone: +1-979-238-6390
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 435224279
-type: way
+type: node
 latitude: 30.65214
 longitude: -88.11572
 postcode: "36606"
 city: Mobile
-street: "Tingle Circle East"
-housenumber: 1310
-phone: "+1 251-472-0964"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
+street: Tingle Circle East
+housenumber: "1310"
+phone: +1 251-472-0964
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
 website: ""

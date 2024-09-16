@@ -1,11 +1,11 @@
 id: 203026332
-type: way
+type: node
 latitude: 32.33654
 longitude: -86.18319
-postcode: "36116-1337"
+postcode: 36116-1337
 city: Montgomery
-street: "Vaughn Road"
-housenumber: 7700
-phone: "+1 334-290-4920"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1026"
+street: Vaughn Road
+housenumber: "7700"
+phone: +1 334-290-4920
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1026

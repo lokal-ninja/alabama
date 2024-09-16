@@ -1,11 +1,11 @@
 id: 752003309
-type: way
+type: node
 latitude: 33.44841
 longitude: -86.23673
 postcode: "35160"
 city: Talladega
-street: "Stemley Road"
-housenumber: 45
-phone: "+1 256 474 4580"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/al/talladega/15731"
+street: Stemley Road
+housenumber: "45"
+phone: +1 256 474 4580
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/al/talladega/15731

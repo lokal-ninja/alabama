@@ -1,11 +1,11 @@
 id: 1161456923
-type: way
+type: node
 latitude: 33.60015
 longitude: -86.48027
 postcode: "35004"
 city: Moody
-street: "Moody Parkway"
-housenumber: 3400
-phone: "+1 205-640-8000"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Moody Parkway
+housenumber: "3400"
+phone: +1 205-640-8000
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 204306668
-type: way
+type: node
 latitude: 33.59678
 longitude: -86.6465
 postcode: "35235"
 city: Birmingham
-street: "Morrow Road"
-housenumber: 3250
-phone: "+1-205-655-0162"
-opening_hours: "Mo-Fr 08:00-18:00;Sa 08:00-17:00"
-website: "https://www.expressoil.com/stores/birmingham/al/0138/"
+street: Morrow Road
+housenumber: "3250"
+phone: +1-205-655-0162
+opening_hours: Mo-Fr 08:00-18:00;Sa 08:00-17:00
+website: https://www.expressoil.com/stores/birmingham/al/0138/

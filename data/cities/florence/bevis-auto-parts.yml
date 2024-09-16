@@ -1,11 +1,11 @@
 id: 454369681
-type: way
+type: node
 latitude: 34.86491
 longitude: -87.68469
 postcode: "35633"
 city: Florence
-street: "Smith Road"
-housenumber: 350
-phone: "+1-256-766-2149"
+street: Smith Road
+housenumber: "350"
+phone: +1-256-766-2149
 opening_hours: ""
-website: "http://www.bevisautoparts.com/"
+website: http://www.bevisautoparts.com/

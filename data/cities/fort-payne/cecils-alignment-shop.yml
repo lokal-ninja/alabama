@@ -1,11 +1,11 @@
 id: 1254203760
-type: way
+type: node
 latitude: 34.41556
 longitude: -85.7465
-postcode: "35967-4636"
+postcode: 35967-4636
 city: Fort Payne
-street: "Gault Avenue South"
-housenumber: 2514
-phone: "+1 256 845 4455"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Gault Avenue South
+housenumber: "2514"
+phone: +1 256 845 4455
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

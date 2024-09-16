@@ -1,11 +1,11 @@
 id: 753563011
-type: way
+type: node
 latitude: 33.74745
 longitude: -86.81004
 postcode: "35116"
 city: Morris
-street: "Morris Majestic Road"
-housenumber: 585
+street: Morris Majestic Road
+housenumber: "585"
 phone: ""
 opening_hours: ""
 website: ""

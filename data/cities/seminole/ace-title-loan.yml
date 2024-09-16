@@ -1,11 +1,11 @@
 id: 825543248
-type: way
+type: node
 latitude: 30.51541
 longitude: -87.47379
 postcode: "36574"
 city: Seminole
-street: "US-90"
-housenumber: 32413
+street: US-90
+housenumber: "32413"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
 website: ""

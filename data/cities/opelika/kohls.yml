@@ -1,11 +1,11 @@
 id: 962534920
-type: way
+type: node
 latitude: 32.6159
 longitude: -85.40973
 postcode: "36801"
 city: Opelika
-street: "Enterprise Drive"
-housenumber: 2774
-phone: "+1 334-745-2259"
-opening_hours: "Mo-Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/al/opelika-1284.shtml"
+street: Enterprise Drive
+housenumber: "2774"
+phone: +1 334-745-2259
+opening_hours: Mo-Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/al/opelika-1284.shtml

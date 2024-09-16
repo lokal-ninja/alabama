@@ -1,11 +1,11 @@
 id: 1314998953
-type: way
+type: node
 latitude: 34.74343
 longitude: -86.68386
 postcode: "35806"
 city: Huntsville
-street: "University Drive Northwest"
-housenumber: 6275
+street: University Drive Northwest
+housenumber: "6275"
 phone: ""
 opening_hours: ""
-website: "https://www.ofurniture.com/?___store=s22"
+website: https://www.ofurniture.com/?___store=s22

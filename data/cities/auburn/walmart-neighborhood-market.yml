@@ -1,11 +1,11 @@
 id: 470667301
-type: way
+type: node
 latitude: 32.62514
 longitude: -85.45008
 postcode: "36830"
 city: Auburn
-street: "East University Drive"
-housenumber: 2047
-phone: "+1 334-539-6214"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/5062/auburn-al/whats-new"
+street: East University Drive
+housenumber: "2047"
+phone: +1 334-539-6214
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/5062/auburn-al/whats-new

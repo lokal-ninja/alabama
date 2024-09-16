@@ -1,11 +1,11 @@
 id: 354663546
-type: way
+type: node
 latitude: 30.6955
 longitude: -88.05372
 postcode: "36603"
 city: Mobile
-street: "Dr. Martin Luther King Jr. Avenue"
-housenumber: 701
+street: Dr. Martin Luther King Jr. Avenue
+housenumber: "701"
 phone: ""
 opening_hours: ""
 website: ""

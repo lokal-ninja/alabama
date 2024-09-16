@@ -1,11 +1,11 @@
 id: 1234908091
-type: way
+type: node
 latitude: 30.83949
 longitude: -87.77401
 postcode: ""
 city: Bay Minette
-street: "Old Daphne Road"
-housenumber: 101
+street: Old Daphne Road
+housenumber: "101"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/al/bay-minette/10518"
+website: https://www.dollargeneral.com/store-directory/al/bay-minette/10518

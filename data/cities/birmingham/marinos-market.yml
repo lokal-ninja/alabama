@@ -1,11 +1,11 @@
 id: 649730632
-type: way
+type: node
 latitude: 33.50868
 longitude: -86.90023
 postcode: "35218"
 city: Birmingham
-street: "Avenue E"
-housenumber: 2415
-phone: "(205) 780-0685"
+street: Avenue E
+housenumber: "2415"
+phone: (205) 780-0685
 opening_hours: ""
-website: "https://www.marinosmarket.com/stores/marinos-ensley"
+website: https://www.marinosmarket.com/stores/marinos-ensley

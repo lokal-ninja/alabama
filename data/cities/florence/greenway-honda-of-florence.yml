@@ -1,11 +1,11 @@
 id: 220970198
-type: way
+type: node
 latitude: 34.83582
 longitude: -87.62893
 postcode: "35630"
 city: Florence
-street: "Cox Creek Parkway"
-housenumber: 250
-phone: "+1-256-980-3743"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-19:00"
-website: "https://www.greenwayhondaflorence.com/"
+street: Cox Creek Parkway
+housenumber: "250"
+phone: +1-256-980-3743
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-19:00
+website: https://www.greenwayhondaflorence.com/

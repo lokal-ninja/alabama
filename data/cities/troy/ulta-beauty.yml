@@ -1,11 +1,11 @@
 id: 1020582631
-type: way
+type: node
 latitude: 31.77792
 longitude: -85.94472
 postcode: "36081"
 city: Troy
-street: "Highway 231 South"
-housenumber: 1307
-phone: "+1 334-635-3824"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/troy-al-1598"
+street: Highway 231 South
+housenumber: "1307"
+phone: +1 334-635-3824
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/troy-al-1598

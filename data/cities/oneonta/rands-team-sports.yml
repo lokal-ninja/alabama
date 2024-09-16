@@ -1,11 +1,11 @@
 id: 1231453490
-type: way
+type: node
 latitude: 33.96665
 longitude: -86.45546
 postcode: ""
 city: Oneonta
-street: "2nd Avenue East"
-housenumber: 1907
-phone: "+1 205-274-4304"
+street: 2nd Avenue East
+housenumber: "1907"
+phone: +1 205-274-4304
 opening_hours: ""
 website: ""

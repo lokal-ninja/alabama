@@ -1,11 +1,11 @@
 id: 250404880
-type: way
+type: node
 latitude: 31.48105
 longitude: -87.32757
 postcode: "36460"
 city: Monroeville
-street: "South Alabama Avenue"
-housenumber: 3371
-phone: "+1 251-575-3333"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/1493/monroeville-al/whats-new"
+street: South Alabama Avenue
+housenumber: "3371"
+phone: +1 251-575-3333
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/1493/monroeville-al/whats-new

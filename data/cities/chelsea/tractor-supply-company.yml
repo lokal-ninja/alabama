@@ -1,11 +1,11 @@
 id: 659696467
-type: way
+type: node
 latitude: 33.34933
 longitude: -86.6373
 postcode: "35043"
 city: Chelsea
-street: "Atchison Drive"
-housenumber: 119
-phone: "+1 205-678-4196"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Atchison Drive
+housenumber: "119"
+phone: +1 205-678-4196
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 34.16814
 longitude: -85.72664
 postcode: "35960"
 city: Centre
-street: "US 411 (AL)"
-housenumber: 2850
-phone: "+1 256 390 7291"
-opening_hours: "Mo-Fr 10:00-17:00; Sa by appointment"
-website: "https://maddoxcountryliving.com/"
+street: US 411 (AL)
+housenumber: "2850"
+phone: +1 256 390 7291
+opening_hours: Mo-Fr 10:00-17:00; Sa "by appointment"
+website: https://maddoxcountryliving.com/

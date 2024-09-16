@@ -1,11 +1,11 @@
 id: 746054628
-type: way
+type: node
 latitude: 33.45644
 longitude: -86.73081
 postcode: ""
 city: Birmingham
-street: "Crosshaven Drive"
-housenumber: 4113
+street: Crosshaven Drive
+housenumber: "4113"
 phone: ""
 opening_hours: ""
-website: "https://leafnpetal.com/"
+website: https://leafnpetal.com/

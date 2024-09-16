@@ -1,11 +1,11 @@
 id: 946992624
-type: way
+type: node
 latitude: 31.24399
 longitude: -85.39336
-postcode: "36301-5889"
+postcode: 36301-5889
 city: Dothan
-street: "Reeves Street"
-housenumber: 1507
-phone: "+1 800 239 8785"
+street: Reeves Street
+housenumber: "1507"
+phone: +1 800 239 8785
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1240878234
-type: way
+type: node
 latitude: 31.1008
 longitude: -85.70095
 postcode: "36344"
 city: Hartford
-street: "West Main Street"
-housenumber: 304
-phone: "+1 334-588-2912"
+street: West Main Street
+housenumber: "304"
+phone: +1 334-588-2912
 opening_hours: ""
 website: ""

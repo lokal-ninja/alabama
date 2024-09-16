@@ -1,11 +1,11 @@
 id: 698771243
-type: way
+type: node
 latitude: 34.78601
 longitude: -86.95377
 postcode: "35611"
 city: Athens
-street: "Us Highway 72 East"
-housenumber: 1049
-phone: "+1-256-232-3006"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
-website: "https://www.expressoil.com/stores/athens/al/0601/"
+street: Us Highway 72 East
+housenumber: "1049"
+phone: +1-256-232-3006
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
+website: https://www.expressoil.com/stores/athens/al/0601/

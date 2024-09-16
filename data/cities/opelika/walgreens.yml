@@ -1,11 +1,11 @@
 id: 485438780
-type: way
+type: node
 latitude: 32.63719
 longitude: -85.40655
 postcode: "36801"
 city: Opelika
-street: "Pepperell Parkway"
-housenumber: 2015
-phone: "+1 334 749 3073"
-opening_hours: "07:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-2015+pepperell+pkwy-opelika-al-36801/id=10947"
+street: Pepperell Parkway
+housenumber: "2015"
+phone: +1 334 749 3073
+opening_hours: 07:00-22:00
+website: https://www.walgreens.com/locator/walgreens-2015+pepperell+pkwy-opelika-al-36801/id=10947

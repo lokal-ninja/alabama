@@ -2,10 +2,10 @@ id: 10765291274
 type: node
 latitude: 33.35323
 longitude: -86.60883
-postcode: "35043-3900"
+postcode: 35043-3900
 city: Chelsea
-street: "Chelsea Crossroads"
-housenumber: 501
-phone: "+1 205-678-5600"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1370"
+street: Chelsea Crossroads
+housenumber: "501"
+phone: +1 205-678-5600
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1370

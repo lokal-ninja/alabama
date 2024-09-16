@@ -1,11 +1,11 @@
 id: 443443214
-type: way
+type: node
 latitude: 34.78595
 longitude: -86.97202
 postcode: "35611"
 city: Athens
-street: "Jefferson Street South"
-housenumber: 1719
+street: Jefferson Street South
+housenumber: "1719"
 phone: ""
 opening_hours: ""
-website: "http://www.lifestylesfamilyhaircare.com/"
+website: http://www.lifestylesfamilyhaircare.com/

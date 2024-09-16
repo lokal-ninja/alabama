@@ -1,11 +1,11 @@
 id: 443452878
-type: way
+type: node
 latitude: 34.79795
 longitude: -86.9791
 postcode: "35611"
 city: Athens
-street: "Browns Ferry Street"
-housenumber: 718
+street: Browns Ferry Street
+housenumber: "718"
 phone: ""
 opening_hours: ""
 website: ""

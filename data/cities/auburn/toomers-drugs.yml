@@ -4,8 +4,8 @@ latitude: 32.6067
 longitude: -85.48154
 postcode: "36830"
 city: Auburn
-street: "North College Street"
-housenumber: 100
-phone: "+1-334-887-3488"
-opening_hours: "Su 12:00-17:00, Mo-Fr 10:00-18:00, Sa 10:00-19:00"
-website: "http://www.toomersdrugs.com/"
+street: North College Street
+housenumber: "100"
+phone: +1-334-887-3488
+opening_hours: Su 12:00-17:00, Mo-Fr 10:00-18:00, Sa 10:00-19:00
+website: http://www.toomersdrugs.com/

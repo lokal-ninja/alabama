@@ -1,11 +1,11 @@
 id: 803452921
-type: way
+type: node
 latitude: 33.34368
 longitude: -86.79533
 postcode: "35124"
 city: Pelham
-street: "Big Mountain Road"
-housenumber: 200
-phone: "+1 833-470-7032"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/al/pelham/200-big-mtn-rd"
+street: Big Mountain Road
+housenumber: "200"
+phone: +1 833-470-7032
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/al/pelham/200-big-mtn-rd

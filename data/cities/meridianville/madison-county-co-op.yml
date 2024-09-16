@@ -1,11 +1,11 @@
 id: 712730326
-type: way
+type: node
 latitude: 34.87252
 longitude: -86.57093
 postcode: "35759"
 city: Meridianville
-street: "Patterson Lane"
-housenumber: 12338
+street: Patterson Lane
+housenumber: "12338"
 phone: ""
 opening_hours: ""
 website: ""

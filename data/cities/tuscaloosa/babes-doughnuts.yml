@@ -1,11 +1,11 @@
 id: 615084324
-type: way
+type: node
 latitude: 33.20961
 longitude: -87.56843
 postcode: "35401"
 city: Tuscaloosa
-street: "Greensboro Avenue"
-housenumber: 500
+street: Greensboro Avenue
+housenumber: "500"
 phone: ""
 opening_hours: ""
-website: "https://www.facebook.com/pages/category/Cafe/Babes-Doughnuts-in-Tuscaloosa-110334523721861/"
+website: https://www.facebook.com/pages/category/Cafe/Babes-Doughnuts-in-Tuscaloosa-110334523721861/

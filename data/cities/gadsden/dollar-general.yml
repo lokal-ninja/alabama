@@ -1,11 +1,11 @@
 id: 593263852
-type: way
+type: node
 latitude: 33.99706
 longitude: -86.02799
 postcode: "35904"
 city: Gadsden
-street: "South 11th Street"
-housenumber: 1407
-phone: "(256) 546-1135"
+street: South 11th Street
+housenumber: "1407"
+phone: (256) 546-1135
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/al/gadsden/7417"
+website: https://www.dollargeneral.com/store-directory/al/gadsden/7417

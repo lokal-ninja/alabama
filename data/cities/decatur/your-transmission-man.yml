@@ -1,11 +1,11 @@
 id: 673225670
-type: way
+type: node
 latitude: 34.60559
 longitude: -86.97969
 postcode: "35601"
 city: Decatur
-street: "6th Avenue Northeast"
-housenumber: 302
-phone: "+1-256-353-7982"
+street: 6th Avenue Northeast
+housenumber: "302"
+phone: +1-256-353-7982
 opening_hours: ""
 website: ""

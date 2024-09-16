@@ -4,8 +4,8 @@ latitude: 33.59635
 longitude: -86.69626
 postcode: "35215"
 city: Birmingham
-street: "Parkway E"
-housenumber: 9530
-phone: "+1-205-855-2506"
-opening_hours: "Mo-Fr 10:00-21:30; Sa 09:00-21:30; Su 10:00-20:00"
-website: "https://www.conns.com/store-locator/alabama/birmingham-35215"
+street: Parkway E
+housenumber: "9530"
+phone: +1-205-855-2506
+opening_hours: Mo-Fr 10:00-21:30; Sa 09:00-21:30; Su 10:00-20:00
+website: https://www.conns.com/store-locator/alabama/birmingham-35215

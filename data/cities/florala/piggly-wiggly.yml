@@ -1,11 +1,11 @@
 id: 1193192881
-type: way
+type: node
 latitude: 31.00291
 longitude: -86.32482
 postcode: "36442"
 city: Florala
-street: "Second Street"
-housenumber: 981
-phone: "+1 334-858-3444"
+street: Second Street
+housenumber: "981"
+phone: +1 334-858-3444
 opening_hours: ""
 website: ""

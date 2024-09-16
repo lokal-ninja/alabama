@@ -4,8 +4,9 @@ latitude: 32.35564
 longitude: -86.26441
 postcode: "36106"
 city: Montgomery
-street: "3011 Zelda Rd"
-housenumber: 
-phone: "334-279-0947"
-opening_hours: "Mo 10:00-18:00,Tu 9:00-20:00, We 9:00-18:00, Th 9:00-20:00, Fr 9:00-18:00, Sa 8:00-14:00"
-website: "https://hairmontgomery.com"
+street: 3011 Zelda Rd
+housenumber: ""
+phone: 334-279-0947
+opening_hours: Mo 10:00-18:00,Tu 9:00-20:00, We 9:00-18:00, Th 9:00-20:00, Fr 9:00-18:00,
+    Sa 8:00-14:00
+website: https://hairmontgomery.com

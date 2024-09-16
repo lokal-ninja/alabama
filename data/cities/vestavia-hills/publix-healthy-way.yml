@@ -1,11 +1,11 @@
 id: 824652102
-type: way
+type: node
 latitude: 33.42943
 longitude: -86.73705
 postcode: "35243"
 city: Vestavia Hills
-street: "Healthy Way"
-housenumber: 3040
-phone: "+1 205-970-7501"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1545"
+street: Healthy Way
+housenumber: "3040"
+phone: +1 205-970-7501
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1545

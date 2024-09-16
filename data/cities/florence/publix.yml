@@ -1,11 +1,11 @@
 id: 456216105
-type: way
+type: node
 latitude: 34.83764
 longitude: -87.62974
 postcode: "35630"
 city: Florence
-street: "Cox Creek Parkway"
-housenumber: 322
-phone: "+1 256-718-1790"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1409"
+street: Cox Creek Parkway
+housenumber: "322"
+phone: +1 256-718-1790
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1409

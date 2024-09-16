@@ -4,8 +4,8 @@ latitude: 32.92728
 longitude: -85.96522
 postcode: "35010"
 city: Alexander City
-street: "U.S. 280"
-housenumber: 3690
-phone: "+1-256-234-6559"
-opening_hours: "Mo-Fr 08:00-18:00;Sa 08:00-17:00"
-website: "https://www.expressoil.com/stores/alexander-city/al/0036/"
+street: U.S. 280
+housenumber: "3690"
+phone: +1-256-234-6559
+opening_hours: Mo-Fr 08:00-18:00;Sa 08:00-17:00
+website: https://www.expressoil.com/stores/alexander-city/al/0036/

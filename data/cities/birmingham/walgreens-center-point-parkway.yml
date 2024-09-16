@@ -1,11 +1,11 @@
 id: 888787417
-type: way
+type: node
 latitude: 33.64668
 longitude: -86.68357
 postcode: "35215"
 city: Birmingham
-street: "Center Point Parkway"
-housenumber: 2301
-phone: "205-853-8360"
+street: Center Point Parkway
+housenumber: "2301"
+phone: 205-853-8360
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2301+center+point+pkwy-center+point-al-35215/id=4846"
+website: https://www.walgreens.com/locator/walgreens-2301+center+point+pkwy-center+point-al-35215/id=4846

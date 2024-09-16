@@ -1,11 +1,11 @@
 id: 452305788
-type: way
+type: node
 latitude: 34.80157
 longitude: -87.6723
 postcode: "35630"
 city: Florence
-street: "East Tennessee Street"
-housenumber: 326
+street: East Tennessee Street
+housenumber: "326"
 phone: ""
 opening_hours: ""
 website: ""

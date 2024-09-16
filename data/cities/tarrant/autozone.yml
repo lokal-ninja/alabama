@@ -1,11 +1,11 @@
 id: 124672302
-type: way
+type: node
 latitude: 33.58587
 longitude: -86.77169
 postcode: "35217"
 city: Tarrant
-street: "Pinson Valley Parkway"
-housenumber: 1720
-phone: "+1-205-841-3237"
-opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-20:00"
-website: "https://www.autozone.com/locations/al/birmingham/1720-pinson-valley-pkwy.html?cmpid=LOC:US:EN:AD:NL:1000000:GEN:143"
+street: Pinson Valley Parkway
+housenumber: "1720"
+phone: +1-205-841-3237
+opening_hours: Mo-Sa 07:00-21:00; Su 08:00-20:00
+website: https://www.autozone.com/locations/al/birmingham/1720-pinson-valley-pkwy.html?cmpid=LOC:US:EN:AD:NL:1000000:GEN:143

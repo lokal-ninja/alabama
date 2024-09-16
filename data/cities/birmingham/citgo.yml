@@ -1,11 +1,11 @@
 id: 1150174268
-type: way
+type: node
 latitude: 33.57504
 longitude: -86.88604
 postcode: "35214"
 city: Birmingham
-street: "Heflin Avenue East"
-housenumber: 760
+street: Heflin Avenue East
+housenumber: "760"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 301960795
-type: way
+type: node
 latitude: 34.49462
 longitude: -87.72953
 postcode: "35653"
 city: Russellville
-street: "US Highway 43"
-housenumber: 13675
-phone: "+1 256-332-7382"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/403/russellville-al/whats-new"
+street: US Highway 43
+housenumber: "13675"
+phone: +1 256-332-7382
+opening_hours: 24/7
+website: https://www.walmart.com/store/403/russellville-al/whats-new

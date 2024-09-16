@@ -1,11 +1,11 @@
 id: 965101121
-type: way
+type: node
 latitude: 34.63
 longitude: -86.56808
 postcode: "35803"
 city: Huntsville
-street: "Memorial Parkway Southwest"
-housenumber: 11030
+street: Memorial Parkway Southwest
+housenumber: "11030"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/huntsville-al-pharmacies/11030-south-memorial-pkwy-huntsville-al-35803/storeid=10037"
+website: https://www.cvs.com/store-locator/huntsville-al-pharmacies/11030-south-memorial-pkwy-huntsville-al-35803/storeid=10037

@@ -1,11 +1,11 @@
 id: 379449119
-type: way
+type: node
 latitude: 32.37466
 longitude: -86.20997
 postcode: "36117"
 city: Montgomery
-street: "Eastern Boulevard"
-housenumber: 300
-phone: "+1 334 279 0174"
+street: Eastern Boulevard
+housenumber: "300"
+phone: +1 334 279 0174
 opening_hours: ""
-website: "https://www.brewbakerdodgechryslerjeep.com/"
+website: https://www.brewbakerdodgechryslerjeep.com/

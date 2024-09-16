@@ -1,11 +1,11 @@
 id: 822006037
-type: way
+type: node
 latitude: 33.30338
 longitude: -86.80898
 postcode: "35124"
 city: Pelham
-street: "Pelham Parkway"
-housenumber: 2878
-phone: "+1-205-664-4999"
-opening_hours: "Tu-Fr 09:00-17:00; Sa 09:00-16:00"
-website: "https://www.hallsbham.com/"
+street: Pelham Parkway
+housenumber: "2878"
+phone: +1-205-664-4999
+opening_hours: Tu-Fr 09:00-17:00; Sa 09:00-16:00
+website: https://www.hallsbham.com/

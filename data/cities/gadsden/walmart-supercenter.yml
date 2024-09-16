@@ -1,11 +1,11 @@
 id: 112548097
-type: way
+type: node
 latitude: 34.0134
 longitude: -85.98819
 postcode: "35903"
 city: Gadsden
-street: "East Meighan Boulevard"
-housenumber: 340
-phone: "+1 256-547-2637"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/301/gadsden-al/whats-new"
+street: East Meighan Boulevard
+housenumber: "340"
+phone: +1 256-547-2637
+opening_hours: 24/7
+website: https://www.walmart.com/store/301/gadsden-al/whats-new

@@ -1,11 +1,11 @@
 id: 468884571
-type: way
+type: node
 latitude: 34.2252
 longitude: -87.62166
 postcode: "35565"
 city: Haleyville
-street: "19th Street"
-housenumber: 1009
-phone: "+1 205-486-3233"
+street: 19th Street
+housenumber: "1009"
+phone: +1 205-486-3233
 opening_hours: ""
 website: ""

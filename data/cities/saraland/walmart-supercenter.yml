@@ -1,11 +1,11 @@
 id: 1204972308
-type: way
+type: node
 latitude: 30.79994
 longitude: -88.09751
 postcode: "36571"
 city: Saraland
-street: "Industrial Parkway"
-housenumber: 1095
-phone: "+1 251-675-8000"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1212/saraland-al/whats-new"
+street: Industrial Parkway
+housenumber: "1095"
+phone: +1 251-675-8000
+opening_hours: 24/7
+website: https://www.walmart.com/store/1212/saraland-al/whats-new

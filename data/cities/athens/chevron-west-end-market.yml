@@ -1,11 +1,11 @@
 id: 443788581
-type: way
+type: node
 latitude: 34.79169
 longitude: -87.01525
 postcode: "35611"
 city: Athens
-street: "US Highway 72"
-housenumber: 17171
+street: US Highway 72
+housenumber: "17171"
 phone: ""
 opening_hours: ""
-website: "https://www.chevron.com/"
+website: https://www.chevron.com/

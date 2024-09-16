@@ -1,11 +1,11 @@
 id: 968339827
-type: way
+type: node
 latitude: 33.42021
 longitude: -86.68025
 postcode: "35242"
 city: Birmingham
-street: "Highway 280"
-housenumber: 5291
-phone: "+1 205-981-4100"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/al-birmingham/1726"
+street: Highway 280
+housenumber: "5291"
+phone: +1 205-981-4100
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/al-birmingham/1726

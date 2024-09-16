@@ -1,11 +1,11 @@
 id: 442455646
-type: way
+type: node
 latitude: 34.78415
 longitude: -86.93013
 postcode: "35611"
 city: Athens
-street: "US Highway 72"
-housenumber: 22031
-phone: "+1 256-230-2076"
-opening_hours: "07:00-22:00"
-website: "https://www.publix.com/locations/1203-eastside-junction"
+street: US Highway 72
+housenumber: "22031"
+phone: +1 256-230-2076
+opening_hours: 07:00-22:00
+website: https://www.publix.com/locations/1203-eastside-junction

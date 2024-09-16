@@ -1,11 +1,11 @@
 id: 124673294
-type: way
+type: node
 latitude: 33.36313
 longitude: -87.00646
 postcode: "35022"
 city: Bessemer
-street: "Academy Lane"
-housenumber: 5080
-phone: "+1-205-432-7995"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su closed"
-website: "https://www.bradykilmury.com/"
+street: Academy Lane
+housenumber: "5080"
+phone: +1-205-432-7995
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su closed
+website: https://www.bradykilmury.com/

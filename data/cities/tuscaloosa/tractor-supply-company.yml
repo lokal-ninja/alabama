@@ -1,11 +1,11 @@
 id: 511191214
-type: way
+type: node
 latitude: 33.12697
 longitude: -87.54707
 postcode: "35405"
 city: Tuscaloosa
-street: "Patriot Parkway"
-housenumber: 601
-phone: "+1 205-344-6118"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Patriot Parkway
+housenumber: "601"
+phone: +1 205-344-6118
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

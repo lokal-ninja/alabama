@@ -1,11 +1,11 @@
 id: 172462046
-type: way
+type: node
 latitude: 32.60693
 longitude: -85.48125
 postcode: "36830"
 city: Auburn
-street: "East Magnolia Avenue"
-housenumber: 117
+street: East Magnolia Avenue
+housenumber: "117"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1305844841
-type: way
+type: node
 latitude: 33.57528
 longitude: -86.7819
 postcode: "35217"
 city: Tarrant
-street: "Overton Avenue"
-housenumber: 820
+street: Overton Avenue
+housenumber: "820"
 phone: ""
 opening_hours: ""
 website: ""

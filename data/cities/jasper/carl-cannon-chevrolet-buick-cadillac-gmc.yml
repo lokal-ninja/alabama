@@ -1,11 +1,11 @@
 id: 501331569
-type: way
+type: node
 latitude: 33.79447
 longitude: -87.24468
 postcode: "35501"
 city: Jasper
-street: "Carl Cannon Boulevard"
-housenumber: 299
+street: Carl Cannon Boulevard
+housenumber: "299"
 phone: ""
 opening_hours: ""
 website: ""

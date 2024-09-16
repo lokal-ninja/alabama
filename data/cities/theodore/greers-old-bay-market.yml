@@ -1,11 +1,11 @@
 id: 572773733
-type: way
+type: node
 latitude: 30.46568
 longitude: -88.11429
 postcode: "36582"
 city: Theodore
-street: "Dauphin Island Parkway"
-housenumber: 10835
+street: Dauphin Island Parkway
+housenumber: "10835"
 phone: ""
 opening_hours: ""
 website: ""

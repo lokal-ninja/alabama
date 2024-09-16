@@ -1,11 +1,11 @@
 id: 556555794
-type: way
+type: node
 latitude: 31.30835
 longitude: -85.49445
 postcode: "36350"
 city: Midland City
-street: "US Highway 231"
-housenumber: 14930
-phone: "+1-334-983-4101"
-opening_hours: "Mo-Su 09:00-17:00"
+street: US Highway 231
+housenumber: "14930"
+phone: +1-334-983-4101
+opening_hours: Mo-Su 09:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 449561621
-type: way
+type: node
 latitude: 34.82381
 longitude: -87.64643
 postcode: "35630"
 city: Florence
-street: "Florence Boulevard"
-housenumber: 1954
-phone: "+1-256-767-4414"
+street: Florence Boulevard
+housenumber: "1954"
+phone: +1-256-767-4414
 opening_hours: ""
 website: ""

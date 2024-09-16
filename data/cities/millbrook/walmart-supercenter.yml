@@ -1,11 +1,11 @@
 id: 534204092
-type: way
+type: node
 latitude: 32.49405
 longitude: -86.39738
 postcode: "36054"
 city: Millbrook
-street: "Kelley Boulevard"
-housenumber: 145
-phone: "+1 334-285-0311"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/4318/millbrook-al/whats-new"
+street: Kelley Boulevard
+housenumber: "145"
+phone: +1 334-285-0311
+opening_hours: 24/7
+website: https://www.walmart.com/store/4318/millbrook-al/whats-new

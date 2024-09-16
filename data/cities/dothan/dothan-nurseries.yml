@@ -1,11 +1,11 @@
 id: 1058701712
-type: way
+type: node
 latitude: 31.24036
 longitude: -85.40268
 postcode: "36303"
 city: Dothan
-street: "Montgomery Highway"
-housenumber: 1300
-phone: "+1-334-794-6774"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-16:00"
-website: "https://www.dothannurseries.com/"
+street: Montgomery Highway
+housenumber: "1300"
+phone: +1-334-794-6774
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-16:00
+website: https://www.dothannurseries.com/

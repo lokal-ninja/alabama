@@ -1,11 +1,11 @@
 id: 1013644811
-type: way
+type: node
 latitude: 31.26906
 longitude: -85.4479
 postcode: "36303"
 city: Dothan
-street: "Montgomery Highway"
-housenumber: 4863
+street: Montgomery Highway
+housenumber: "4863"
 phone: ""
 opening_hours: ""
 website: ""

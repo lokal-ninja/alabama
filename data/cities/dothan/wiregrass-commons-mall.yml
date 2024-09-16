@@ -1,11 +1,11 @@
 id: 213505293
-type: way
+type: node
 latitude: 31.25181
 longitude: -85.42423
 postcode: "36303"
 city: dothan
-street: "Commons Drive"
-housenumber: 900
-phone: "+1-334-792-7734"
-opening_hours: "Mo-Sa 10:00-20:00, Su 12:00-18:00"
-website: "https://www.shopwiregrasscommonsmall.com/"
+street: Commons Drive
+housenumber: "900"
+phone: +1-334-792-7734
+opening_hours: Mo-Sa 10:00-20:00, Su 12:00-18:00
+website: https://www.shopwiregrasscommonsmall.com/

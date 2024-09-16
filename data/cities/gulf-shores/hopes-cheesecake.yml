@@ -1,11 +1,11 @@
 id: 568517561
-type: way
+type: node
 latitude: 30.27392
 longitude: -87.68514
 postcode: "36542"
 city: Gulf Shores
-street: "East 20th Avenue"
-housenumber: 210
+street: East 20th Avenue
+housenumber: "210"
 phone: ""
 opening_hours: ""
 website: ""

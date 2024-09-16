@@ -1,11 +1,11 @@
 id: 1219738670
-type: way
+type: node
 latitude: 34.15603
 longitude: -85.70032
 postcode: "35960"
 city: Centre
-street: "West Main Street"
-housenumber: 1096
+street: West Main Street
+housenumber: "1096"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1184780597
-type: way
+type: node
 latitude: 33.93686
 longitude: -87.83668
 postcode: "35594"
 city: Winfield
-street: "US Hwy 43"
-housenumber: 2344
-phone: "+1-205-487-4837"
+street: US Hwy 43
+housenumber: "2344"
+phone: +1-205-487-4837
 opening_hours: ""
 website: ""

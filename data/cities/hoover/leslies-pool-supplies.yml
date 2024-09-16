@@ -1,11 +1,11 @@
 id: 651202267
-type: way
+type: node
 latitude: 33.40351
 longitude: -86.80691
 postcode: "35216"
 city: Hoover
-street: "Montgomery Highway"
-housenumber: 1588
+street: Montgomery Highway
+housenumber: "1588"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 443407499
-type: way
+type: node
 latitude: 34.80925
 longitude: -86.94773
 postcode: "35611"
 city: Athens
-street: "US Highway 31 North"
-housenumber: 322
-phone: "+1-256-232-1051"
+street: US Highway 31 North
+housenumber: "322"
+phone: +1-256-232-1051
 opening_hours: ""
-website: "https://www.limestonechapel.com/"
+website: https://www.limestonechapel.com/

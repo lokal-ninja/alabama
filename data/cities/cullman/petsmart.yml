@@ -1,11 +1,11 @@
 id: 601345819
-type: way
+type: node
 latitude: 34.1845
 longitude: -86.8519
 postcode: "35055"
 city: Cullman
-street: "Cullman Shopping Center North"
-housenumber: 1244
-phone: "+1 256-841-3536"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/al/cullman-store2462.html"
+street: Cullman Shopping Center North
+housenumber: "1244"
+phone: +1 256-841-3536
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/al/cullman-store2462.html

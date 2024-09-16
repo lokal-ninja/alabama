@@ -4,8 +4,8 @@ latitude: 32.63582
 longitude: -86.03517
 postcode: "36024"
 city: Eclectic
-street: "Main Street"
-housenumber: 10
-phone: "1 334 639 0125"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://originalgraceboutique.com/store"
+street: Main Street
+housenumber: "10"
+phone: 1 334 639 0125
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://originalgraceboutique.com/store

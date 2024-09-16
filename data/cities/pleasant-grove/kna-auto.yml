@@ -1,11 +1,11 @@
 id: 1172607202
-type: way
+type: node
 latitude: 33.49023
 longitude: -86.97895
 postcode: "35127"
 city: Pleasant Grove
-street: "9th Avenue"
-housenumber: 716
-phone: "205-744-1401"
+street: 9th Avenue
+housenumber: "716"
+phone: 205-744-1401
 opening_hours: ""
 website: ""

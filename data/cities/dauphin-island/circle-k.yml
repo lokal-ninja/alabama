@@ -1,11 +1,11 @@
 id: 834824299
-type: way
+type: node
 latitude: 30.25692
 longitude: -88.11295
 postcode: "36528"
 city: Dauphin Island
-street: "De Soto Avenue"
-housenumber: 1001
+street: De Soto Avenue
+housenumber: "1001"
 phone: ""
 opening_hours: ""
 website: ""

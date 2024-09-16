@@ -1,11 +1,11 @@
 id: 574217598
-type: way
+type: node
 latitude: 32.61936
 longitude: -85.46415
 postcode: "36830"
 city: Auburn
-street: "North Dean Road"
-housenumber: 590
-phone: "+1-334-821-9940"
-opening_hours: "Mo-Fr 10:00-18:00, Sa 10:00-17:00"
+street: North Dean Road
+housenumber: "590"
+phone: +1-334-821-9940
+opening_hours: Mo-Fr 10:00-18:00, Sa 10:00-17:00
 website: ""

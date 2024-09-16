@@ -1,11 +1,11 @@
 id: 479915704
-type: way
+type: node
 latitude: 34.92556
 longitude: -86.98751
 postcode: "35620"
 city: Elkmont
-street: "Highway 127"
-housenumber: 25460
-phone: "+1 256-732-4116"
+street: Highway 127
+housenumber: "25460"
+phone: +1 256-732-4116
 opening_hours: ""
 website: ""

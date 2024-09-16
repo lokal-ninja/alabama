@@ -1,11 +1,11 @@
 id: 616030315
-type: way
+type: node
 latitude: 33.19815
 longitude: -87.48143
 postcode: "35404"
 city: Tuscaloosa
-street: "University Boulevard East"
-housenumber: 4205
-phone: "+1 205-553-3360"
+street: University Boulevard East
+housenumber: "4205"
+phone: +1 205-553-3360
 opening_hours: ""
-website: "https://www.winndixie.com/storedetails/tuscaloosa/al?search=407"
+website: https://www.winndixie.com/storedetails/tuscaloosa/al?search=407

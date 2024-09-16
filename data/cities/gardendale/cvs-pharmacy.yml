@@ -1,11 +1,11 @@
 id: 910077695
-type: way
+type: node
 latitude: 33.65147
 longitude: -86.81183
 postcode: "35071"
 city: Gardendale
-street: "Fieldstown Road"
-housenumber: 205
-phone: "+1-205-631-5638"
+street: Fieldstown Road
+housenumber: "205"
+phone: +1-205-631-5638
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/gardendale-al-pharmacies/205-fieldstown-rd-gardendale-al-35071/storeid=4833"
+website: https://www.cvs.com/store-locator/gardendale-al-pharmacies/205-fieldstown-rd-gardendale-al-35071/storeid=4833

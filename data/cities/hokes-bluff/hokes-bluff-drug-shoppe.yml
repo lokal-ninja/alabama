@@ -1,11 +1,11 @@
 id: 845879896
-type: way
+type: node
 latitude: 33.98688
 longitude: -85.86554
 postcode: "35903"
 city: Hokes Bluff
-street: "US 2278"
-housenumber: 5702
+street: US 2278
+housenumber: "5702"
 phone: ""
-opening_hours: "Mo-Sa 08:30-18:00"
+opening_hours: Mo-Sa 08:30-18:00
 website: ""

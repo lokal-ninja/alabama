@@ -4,8 +4,8 @@ latitude: 33.51599
 longitude: -86.79194
 postcode: "35233"
 city: Birmingham
-street: "2nd Ave S"
-housenumber: 2801
-phone: "+1 205-264-9991"
-opening_hours: "Mo 09:00-18:00; Tu 10:00-19:00; We-Fr 09:00-18:00; Sa 09:00-15:00"
-website: "https://thecollectivebham.com/"
+street: 2nd Ave S
+housenumber: "2801"
+phone: +1 205-264-9991
+opening_hours: Mo 09:00-18:00; Tu 10:00-19:00; We-Fr 09:00-18:00; Sa 09:00-15:00
+website: https://thecollectivebham.com/

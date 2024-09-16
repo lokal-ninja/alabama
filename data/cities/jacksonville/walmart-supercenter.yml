@@ -1,11 +1,11 @@
 id: 109361420
-type: way
+type: node
 latitude: 33.78769
 longitude: -85.76462
 postcode: "36265"
 city: Jacksonville
-street: "Pelham Road South"
-housenumber: 1625
-phone: "+1 256-435-8100"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/300/jacksonville-al/whats-new"
+street: Pelham Road South
+housenumber: "1625"
+phone: +1 256-435-8100
+opening_hours: 24/7
+website: https://www.walmart.com/store/300/jacksonville-al/whats-new

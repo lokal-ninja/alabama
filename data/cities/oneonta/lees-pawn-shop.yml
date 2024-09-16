@@ -1,11 +1,11 @@
 id: 1230237685
-type: way
+type: node
 latitude: 33.94196
 longitude: -86.48114
 postcode: ""
 city: Oneonta
-street: "2nd Avenue West"
-housenumber: 315
-phone: "205-274-1007"
+street: 2nd Avenue West
+housenumber: "315"
+phone: 205-274-1007
 opening_hours: ""
-website: "https://leespawn.com/"
+website: https://leespawn.com/

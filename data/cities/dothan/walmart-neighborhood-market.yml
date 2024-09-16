@@ -1,11 +1,11 @@
 id: 1230983569
-type: way
+type: node
 latitude: 31.23216
 longitude: -85.4513
 postcode: "36305"
 city: Dothan
-street: "West Main Street"
-housenumber: 3871
-phone: "+1 334-547-6508"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/5769/dothan-al/whats-new"
+street: West Main Street
+housenumber: "3871"
+phone: +1 334-547-6508
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/5769/dothan-al/whats-new

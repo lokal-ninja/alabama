@@ -1,11 +1,11 @@
 id: 1226364449
-type: way
+type: node
 latitude: 33.96376
 longitude: -86.46082
 postcode: "35121"
 city: Oneonta
-street: "2nd Avenue East"
-housenumber: 1608
-phone: "+1 205-625-5110"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: 2nd Avenue East
+housenumber: "1608"
+phone: +1 205-625-5110
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

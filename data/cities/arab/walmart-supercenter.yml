@@ -1,11 +1,11 @@
 id: 963041127
-type: way
+type: node
 latitude: 34.34238
 longitude: -86.49954
 postcode: "35016"
 city: Arab
-street: "North Brindlee Mountain"
-housenumber: 1450
-phone: "+1 256-586-8168"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/306/arab-al/whats-new"
+street: North Brindlee Mountain
+housenumber: "1450"
+phone: +1 256-586-8168
+opening_hours: 24/7
+website: https://www.walmart.com/store/306/arab-al/whats-new

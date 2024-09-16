@@ -1,11 +1,11 @@
 id: 449265450
-type: way
+type: node
 latitude: 34.8214
 longitude: -87.65727
 postcode: "35630"
 city: Florence
-street: "Darby Drive"
-housenumber: 1633
-phone: "+1-256-767-2056"
+street: Darby Drive
+housenumber: "1633"
+phone: +1-256-767-2056
 opening_hours: ""
-website: "https://www.kaleidoscopeflorist.com/"
+website: https://www.kaleidoscopeflorist.com/

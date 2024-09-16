@@ -1,11 +1,11 @@
 id: 1215118435
-type: way
+type: node
 latitude: 33.74493
 longitude: -87.04192
 postcode: "35148"
 city: Sumiton
-street: "Highway 78"
-housenumber: 690
-phone: "+1 205-648-4100"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2723/sumiton-al/whats-new"
+street: Highway 78
+housenumber: "690"
+phone: +1 205-648-4100
+opening_hours: 24/7
+website: https://www.walmart.com/store/2723/sumiton-al/whats-new

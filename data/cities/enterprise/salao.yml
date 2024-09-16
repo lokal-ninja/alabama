@@ -4,8 +4,8 @@ latitude: 31.3158
 longitude: -85.85541
 postcode: "36330"
 city: Enterprise
-street: "North Main Street"
-housenumber: 205
-phone: "+1-334-393-4944"
+street: North Main Street
+housenumber: "205"
+phone: +1-334-393-4944
 opening_hours: ""
-website: "http://salaosalon.com"
+website: http://salaosalon.com

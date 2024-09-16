@@ -1,11 +1,11 @@
 id: 927369119
-type: way
+type: node
 latitude: 34.02457
 longitude: -87.75995
 postcode: "35548"
 city: Brilliant
-street: "Main Street"
-housenumber: 1104
+street: Main Street
+housenumber: "1104"
 phone: ""
 opening_hours: ""
 website: ""

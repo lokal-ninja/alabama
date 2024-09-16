@@ -1,11 +1,11 @@
 id: 1017629680
-type: way
+type: node
 latitude: 33.57972
 longitude: -86.92387
 postcode: "35214"
 city: Birmingham
-street: "Hackworth Road"
-housenumber: 2473
-phone: "+1 205-798-9721"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1158-birmingham-al"
+street: Hackworth Road
+housenumber: "2473"
+phone: +1 205-798-9721
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1158-birmingham-al

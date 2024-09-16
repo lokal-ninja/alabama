@@ -1,11 +1,11 @@
 id: 650672269
-type: way
+type: node
 latitude: 33.15113
 longitude: -87.54732
 postcode: "35405"
 city: Tuscaloosa
-street: "Highway 69 South"
-housenumber: 6322
-phone: "+1-205-343-0403"
-opening_hours: "Mo-Fr 08:00-18:00;Sa 08:00-17:00"
-website: "https://www.expressoil.com/stores/tuscaloosa/al/5003/"
+street: Highway 69 South
+housenumber: "6322"
+phone: +1-205-343-0403
+opening_hours: Mo-Fr 08:00-18:00;Sa 08:00-17:00
+website: https://www.expressoil.com/stores/tuscaloosa/al/5003/

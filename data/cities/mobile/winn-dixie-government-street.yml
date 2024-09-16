@@ -1,11 +1,11 @@
 id: 362829504
-type: way
+type: node
 latitude: 30.68085
 longitude: -88.07518
 postcode: "36604"
 city: Mobile
-street: "Government Street"
-housenumber: 1550
-phone: "+1 251-471-3115"
+street: Government Street
+housenumber: "1550"
+phone: +1 251-471-3115
 opening_hours: ""
-website: "https://www.winndixie.com/storedetails/mobile/al?search=1333"
+website: https://www.winndixie.com/storedetails/mobile/al?search=1333

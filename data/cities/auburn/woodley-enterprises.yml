@@ -1,11 +1,11 @@
 id: 351536101
-type: way
+type: node
 latitude: 32.61627
 longitude: -85.47026
 postcode: "36830"
 city: Auburn
-street: "Temple Street"
-housenumber: 557
+street: Temple Street
+housenumber: "557"
 phone: ""
 opening_hours: ""
 website: ""

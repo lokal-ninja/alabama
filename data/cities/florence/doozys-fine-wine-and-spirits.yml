@@ -1,11 +1,11 @@
 id: 563654761
-type: way
+type: node
 latitude: 34.87375
 longitude: -87.62203
 postcode: "35634"
 city: Florence
 street: ""
-housenumber: 3201
+housenumber: "3201"
 phone: ""
 opening_hours: ""
-website: "http://doozysfinespirits.com/"
+website: http://doozysfinespirits.com/

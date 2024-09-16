@@ -1,11 +1,11 @@
 id: 955514509
-type: way
+type: node
 latitude: 31.23022
 longitude: -85.43412
 postcode: "36303"
 city: Dothan
-street: "Westgate Parkway"
-housenumber: 158
+street: Westgate Parkway
+housenumber: "158"
 phone: ""
 opening_hours: ""
 website: ""

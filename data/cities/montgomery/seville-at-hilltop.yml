@@ -4,8 +4,9 @@ latitude: 32.37374
 longitude: -86.31532
 postcode: "36104"
 city: Montgomery
-street: "Goldthwaite Street"
-housenumber: 5
-phone: "(334) 498-4022"
-opening_hours: "Tu 10:00-20:15; We 09:30-19:45; Th 09:30-19:15, Fr 09:30-19:45; Sa 09:30-15:45"
+street: Goldthwaite Street
+housenumber: "5"
+phone: (334) 498-4022
+opening_hours: Tu 10:00-20:15; We 09:30-19:45; Th 09:30-19:15, Fr 09:30-19:45; Sa
+    09:30-15:45
 website: ""

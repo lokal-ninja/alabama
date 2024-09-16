@@ -1,11 +1,11 @@
 id: 880363808
-type: way
+type: node
 latitude: 30.7194
 longitude: -88.08283
 postcode: "36617"
 city: Mobile
-street: "Saint Stephens Road"
-housenumber: 2306
-phone: "+1 251-243-7574"
+street: Saint Stephens Road
+housenumber: "2306"
+phone: +1 251-243-7574
 opening_hours: ""
 website: ""

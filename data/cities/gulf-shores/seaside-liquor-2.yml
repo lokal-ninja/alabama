@@ -1,11 +1,11 @@
 id: 565536331
-type: way
+type: node
 latitude: 30.24935
 longitude: -87.68502
 postcode: "36542"
 city: Gulf Shores
-street: "East Beach Boulevard"
-housenumber: 316
+street: East Beach Boulevard
+housenumber: "316"
 phone: ""
 opening_hours: ""
 website: ""

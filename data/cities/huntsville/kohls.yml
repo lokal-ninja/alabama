@@ -1,11 +1,11 @@
 id: 392186560
-type: way
+type: node
 latitude: 34.67551
 longitude: -86.53887
 postcode: "35802"
 city: Huntsville
-street: "Carl T Jones Drive Southeast"
-housenumber: 2775
-phone: "+1 256-883-8809"
-opening_hours: "Mo-Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/al/huntsville-1438.shtml"
+street: Carl T Jones Drive Southeast
+housenumber: "2775"
+phone: +1 256-883-8809
+opening_hours: Mo-Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/al/huntsville-1438.shtml

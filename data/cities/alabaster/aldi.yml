@@ -1,11 +1,11 @@
 id: 940866324
-type: way
+type: node
 latitude: 33.23999
 longitude: -86.81577
 postcode: "35007"
 city: Alabaster
-street: "Simmsville Road"
-housenumber: 113
-phone: "+1 833-470-7038"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/al/alabaster/113-simmsville-rd"
+street: Simmsville Road
+housenumber: "113"
+phone: +1 833-470-7038
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/al/alabaster/113-simmsville-rd

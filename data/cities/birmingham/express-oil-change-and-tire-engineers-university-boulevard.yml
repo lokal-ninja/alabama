@@ -1,11 +1,11 @@
 id: 606536860
-type: way
+type: node
 latitude: 33.50711
 longitude: -86.79507
 postcode: "35233"
 city: Birmingham
-street: "University Boulevard"
-housenumber: 2300
-phone: "+1-205-250-5735"
-opening_hours: "Mo-Fr 07:30-17:30;Sa 07:30-16:30"
-website: "https://www.expressoil.com/stores/birmingham/al/0137/"
+street: University Boulevard
+housenumber: "2300"
+phone: +1-205-250-5735
+opening_hours: Mo-Fr 07:30-17:30;Sa 07:30-16:30
+website: https://www.expressoil.com/stores/birmingham/al/0137/

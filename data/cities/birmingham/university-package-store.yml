@@ -4,8 +4,8 @@ latitude: 33.4952
 longitude: -86.80884
 postcode: "35205"
 city: Birmingham
-street: "11th Avenue South"
-housenumber: 1150
-phone: "+1-205-251-6622"
-opening_hours: "Mo-Th 09:00-24:00, Fr 09:00-01:00, Sa 10:00-01:00, Su 12:00-23:00"
+street: 11th Avenue South
+housenumber: "1150"
+phone: +1-205-251-6622
+opening_hours: Mo-Th 09:00-24:00, Fr 09:00-01:00, Sa 10:00-01:00, Su 12:00-23:00
 website: ""

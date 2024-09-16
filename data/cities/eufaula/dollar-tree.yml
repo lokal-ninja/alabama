@@ -1,11 +1,11 @@
 id: 422550662
-type: way
+type: node
 latitude: 31.87261
 longitude: -85.15289
 postcode: "36027"
 city: Eufaula
-street: "South Eufaula Avenue"
-housenumber: 1571
+street: South Eufaula Avenue
+housenumber: "1571"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00;Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/al/eufaula/1939/"
+opening_hours: Mo-Sa 09:00-21:00;Su 09:00-20:00
+website: https://www.dollartree.com/locations/al/eufaula/1939/

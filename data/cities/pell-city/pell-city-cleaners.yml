@@ -1,11 +1,11 @@
 id: 289480462
-type: way
+type: node
 latitude: 33.58765
 longitude: -86.28456
 postcode: "35125"
 city: Pell City
-street: "1st Avenue North"
-housenumber: 2012
+street: 1st Avenue North
+housenumber: "2012"
 phone: ""
-opening_hours: "Mo-Tu,Th-Fr 07:00-17:30;We 07:00-16:30;Sa 08:00-12:00"
+opening_hours: Mo-Tu,Th-Fr 07:00-17:30;We 07:00-16:30;Sa 08:00-12:00
 website: ""

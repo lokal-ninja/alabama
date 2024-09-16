@@ -1,11 +1,11 @@
 id: 1238157953
-type: way
+type: node
 latitude: 31.10213
 longitude: -85.69715
 postcode: "36344"
 city: Hartford
-street: "Mill Street"
-housenumber: 105
-phone: "+1-334-588-2600"
+street: Mill Street
+housenumber: "105"
+phone: +1-334-588-2600
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 626785374
-type: way
+type: node
 latitude: 33.52948
 longitude: -86.72109
 postcode: "35210"
 city: Irondale
-street: "Montclair Road"
-housenumber: 1600
-phone: "+1 205-956-0416"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1711-birmingham-al"
+street: Montclair Road
+housenumber: "1600"
+phone: +1 205-956-0416
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1711-birmingham-al

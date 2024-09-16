@@ -1,11 +1,11 @@
 id: 870513410
-type: way
+type: node
 latitude: 33.23011
 longitude: -86.80516
 postcode: "35007"
 city: Alabaster
-street: "Colonial Promenade Parkway"
-housenumber: 235
-phone: "+1 205-685-4060"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/al-alabaster/2525"
+street: Colonial Promenade Parkway
+housenumber: "235"
+phone: +1 205-685-4060
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/al-alabaster/2525

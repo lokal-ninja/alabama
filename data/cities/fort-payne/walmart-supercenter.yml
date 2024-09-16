@@ -1,11 +1,11 @@
 id: 1311903531
-type: way
+type: node
 latitude: 34.44093
 longitude: -85.76212
 postcode: "35968"
 city: Fort Payne
-street: "Glenn Boulevard Southwest"
-housenumber: 2001
-phone: "+1 256-845-3163"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/691/fort-payne-al/whats-new"
+street: Glenn Boulevard Southwest
+housenumber: "2001"
+phone: +1 256-845-3163
+opening_hours: 24/7
+website: https://www.walmart.com/store/691/fort-payne-al/whats-new

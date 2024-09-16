@@ -1,11 +1,11 @@
 id: 729951451
-type: way
+type: node
 latitude: 34.73632
 longitude: -87.70394
 postcode: "35674"
 city: Tuscumbia
-street: "West 1st Street"
-housenumber: 103
+street: West 1st Street
+housenumber: "103"
 phone: ""
 opening_hours: ""
-website: "https://foodlandgrocery.com/"
+website: https://foodlandgrocery.com/

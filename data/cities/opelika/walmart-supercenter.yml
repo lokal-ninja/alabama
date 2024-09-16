@@ -1,11 +1,11 @@
 id: 482510756
-type: way
+type: node
 latitude: 32.63828
 longitude: -85.42291
 postcode: "36801"
 city: Opelika
-street: "Pepperell Parkway"
-housenumber: 2900
-phone: "+1 334-745-9333"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/355/opelika-al/whats-new"
+street: Pepperell Parkway
+housenumber: "2900"
+phone: +1 334-745-9333
+opening_hours: 24/7
+website: https://www.walmart.com/store/355/opelika-al/whats-new

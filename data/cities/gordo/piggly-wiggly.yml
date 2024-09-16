@@ -1,11 +1,11 @@
 id: 764329413
-type: way
+type: node
 latitude: 33.32135
 longitude: -87.91068
 postcode: "35466"
 city: Gordo
-street: "Industrial Park Boulevard"
-housenumber: 841
-phone: "+1 205-364-7800"
+street: Industrial Park Boulevard
+housenumber: "841"
+phone: +1 205-364-7800
 opening_hours: ""
 website: ""

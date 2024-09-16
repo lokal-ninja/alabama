@@ -1,11 +1,11 @@
 id: 1226366855
-type: way
+type: node
 latitude: 33.94546
 longitude: -86.47502
 postcode: ""
 city: Oneonta
-street: "1st Avenue East"
-housenumber: 235
-phone: "+1 205-625-5058"
+street: 1st Avenue East
+housenumber: "235"
+phone: +1 205-625-5058
 opening_hours: ""
-website: "https://simplystunningal.com"
+website: https://simplystunningal.com

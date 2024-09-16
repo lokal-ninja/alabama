@@ -1,11 +1,11 @@
 id: 1231267619
-type: way
+type: node
 latitude: 33.9451
 longitude: -86.46748
 postcode: ""
 city: Oneonta
-street: "6th Street South"
-housenumber: 208
-phone: "(205) 274-2357"
+street: 6th Street South
+housenumber: "208"
+phone: (205) 274-2357
 opening_hours: ""
-website: "https://www.peteshirleytire.com/Contact-Us"
+website: https://www.peteshirleytire.com/Contact-Us

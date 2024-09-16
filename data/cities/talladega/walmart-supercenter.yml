@@ -1,11 +1,11 @@
 id: 1311916002
-type: way
+type: node
 latitude: 33.43778
 longitude: -86.08035
 postcode: "35160"
 city: Talladega
-street: "Haynes Street"
-housenumber: 214
-phone: "+1 256-761-1681"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/432/talladega-al/whats-new"
+street: Haynes Street
+housenumber: "214"
+phone: +1 256-761-1681
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/432/talladega-al/whats-new

@@ -1,11 +1,11 @@
 id: 1235491184
-type: way
+type: node
 latitude: 30.60457
 longitude: -87.8963
 postcode: "36526"
 city: Daphne
-street: "US Highway 98"
-housenumber: 1802
+street: US Highway 98
+housenumber: "1802"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1304933659
-type: way
+type: node
 latitude: 33.82042
 longitude: -86.67693
 postcode: ""
 city: Trafford
-street: "Smith Road"
-housenumber: 500
+street: Smith Road
+housenumber: "500"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 730328598
-type: way
+type: node
 latitude: 33.65245
 longitude: -86.81177
 postcode: "35071"
 city: Gardendale
-street: "Fieldstown Road"
-housenumber: 204
-phone: "+1-205-631-6036"
+street: Fieldstown Road
+housenumber: "204"
+phone: +1-205-631-6036
 opening_hours: ""
-website: "https://www.autozone.com/locations/al/gardendale/204-fieldstown-rd.html"
+website: https://www.autozone.com/locations/al/gardendale/204-fieldstown-rd.html

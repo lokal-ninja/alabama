@@ -4,8 +4,8 @@ latitude: 34.73126
 longitude: -86.58679
 postcode: "35801"
 city: Huntsville
-street: "Jefferson Street North"
-housenumber: 103
-phone: "+1-256-539-1636"
-opening_hours: "Sa 10:00-15:00; Su,Mo off; Tu-Th 09:00-16:00; Fr 09:00-19:00"
-website: "https://www.kaffeeklatsch.com/"
+street: Jefferson Street North
+housenumber: "103"
+phone: +1-256-539-1636
+opening_hours: Sa 10:00-15:00; Su,Mo off; Tu-Th 09:00-16:00; Fr 09:00-19:00
+website: https://www.kaffeeklatsch.com/

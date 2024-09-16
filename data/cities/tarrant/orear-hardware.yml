@@ -1,11 +1,11 @@
 id: 1254202252
-type: way
+type: node
 latitude: 33.58586
 longitude: -86.76868
 postcode: "35217"
 city: Tarrant
-street: "Pinson Street"
-housenumber: 1840
-phone: "+1-205-841-4646"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 07:00-12:00"
-website: "https://orearhardware.com/"
+street: Pinson Street
+housenumber: "1840"
+phone: +1-205-841-4646
+opening_hours: Mo-Fr 07:00-17:00; Sa 07:00-12:00
+website: https://orearhardware.com/

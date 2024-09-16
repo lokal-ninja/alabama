@@ -1,11 +1,11 @@
 id: 222583995
-type: way
+type: node
 latitude: 30.66268
 longitude: -87.90616
 postcode: "36527"
 city: Spanish Fort
-street: "Town Center Avenue"
-housenumber: 21000
-phone: "+1 251-626-2114"
-opening_hours: "Mo-Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/al/spanishfort-1200.shtml"
+street: Town Center Avenue
+housenumber: "21000"
+phone: +1 251-626-2114
+opening_hours: Mo-Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/al/spanishfort-1200.shtml

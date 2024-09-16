@@ -1,11 +1,11 @@
 id: 444776369
-type: way
+type: node
 latitude: 34.80603
 longitude: -86.98365
 postcode: "35611"
 city: Athens
-street: "Market Street West"
-housenumber: 1202
+street: Market Street West
+housenumber: "1202"
 phone: ""
 opening_hours: ""
-website: "https://locations.valero.com/en-us/LocationDetails/Index/1202-W-MARKET-ST/0000026329"
+website: https://locations.valero.com/en-us/LocationDetails/Index/1202-W-MARKET-ST/0000026329

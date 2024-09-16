@@ -1,11 +1,11 @@
 id: 955462017
-type: way
+type: node
 latitude: 31.19607
 longitude: -85.41262
 postcode: "36301"
 city: Dothan
-street: "Ross Clark Circle"
-housenumber: 2391
-phone: "+1 334 6359 307"
+street: Ross Clark Circle
+housenumber: "2391"
+phone: +1 334 6359 307
 opening_hours: ""
-website: "https://bondyssouth.com/"
+website: https://bondyssouth.com/

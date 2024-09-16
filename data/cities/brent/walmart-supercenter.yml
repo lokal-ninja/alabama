@@ -1,11 +1,11 @@
 id: 218678215
-type: way
+type: node
 latitude: 32.96456
 longitude: -87.17234
 postcode: "35034"
 city: Brent
-street: "Highway 5"
-housenumber: 10675
-phone: "+1 205-926-4878"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/425/brent-al/whats-new"
+street: Highway 5
+housenumber: "10675"
+phone: +1 205-926-4878
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/425/brent-al/whats-new

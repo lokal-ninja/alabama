@@ -1,11 +1,11 @@
 id: 1161544401
-type: way
+type: node
 latitude: 32.77367
 longitude: -86.876
 postcode: "36750"
 city: Maplesville
-street: "Alabama Highway 22"
-housenumber: 8331
+street: Alabama Highway 22
+housenumber: "8331"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 967412372
-type: way
+type: node
 latitude: 33.40365
 longitude: -86.95105
 postcode: "35020"
 city: Bessemer
-street: "2nd Avenue North"
-housenumber: 2001
+street: 2nd Avenue North
+housenumber: "2001"
 phone: "+12054254720"
 opening_hours: ""
 website: ""

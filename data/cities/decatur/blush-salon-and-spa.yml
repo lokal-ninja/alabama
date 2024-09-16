@@ -4,8 +4,8 @@ latitude: 34.60323
 longitude: -86.98527
 postcode: "35601"
 city: Decatur
-street: "2nd Avenue Southeast"
-housenumber: 117
-phone: "+1 256-227-9332"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: 2nd Avenue Southeast
+housenumber: "117"
+phone: +1 256-227-9332
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

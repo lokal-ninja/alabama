@@ -1,11 +1,11 @@
 id: 619895770
-type: way
+type: node
 latitude: 34.56159
 longitude: -87.2754
 postcode: "35650"
 city: Moulton
-street: "AL-33"
-housenumber: 20331
+street: AL-33
+housenumber: "20331"
 phone: ""
 opening_hours: ""
 website: ""

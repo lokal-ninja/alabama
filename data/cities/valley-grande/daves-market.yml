@@ -1,11 +1,11 @@
 id: 1161544398
-type: way
+type: node
 latitude: 32.48288
 longitude: -87.00071
 postcode: "36701"
 city: Valley Grande
-street: "Citizens Parkway"
-housenumber: 5514
+street: Citizens Parkway
+housenumber: "5514"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 33.6101
 longitude: -86.62386
 postcode: "35235"
 city: Birmingham
-street: "Patrick Way"
-housenumber: 5479
-phone: "+1 205-655-1607"
-opening_hours: "09:00-22:00"
+street: Patrick Way
+housenumber: "5479"
+phone: +1 205-655-1607
+opening_hours: 09:00-22:00
 website: ""

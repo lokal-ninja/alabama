@@ -1,11 +1,11 @@
 id: 222555912
-type: way
+type: node
 latitude: 33.65581
 longitude: -86.64753
-postcode: "35126-3635"
+postcode: 35126-3635
 city: Pinson
-street: "Old Springville Road"
-housenumber: 5150
-phone: "+1 205-815-5224"
-opening_hours: "Mo-Su 06:30-06:30"
-website: "https://www.publix.com/locations/1069"
+street: Old Springville Road
+housenumber: "5150"
+phone: +1 205-815-5224
+opening_hours: Mo-Su 06:30-06:30
+website: https://www.publix.com/locations/1069

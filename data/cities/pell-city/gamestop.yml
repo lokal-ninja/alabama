@@ -1,11 +1,11 @@
 id: 289570191
-type: way
+type: node
 latitude: 33.61115
 longitude: -86.27893
 postcode: "35125"
 city: Pell City
-street: "Vaughan Lane"
-housenumber: 41
-phone: "+1 205 338 4030"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.gamestop.com/store/us/al/pell-city/2589/pell-city-station-gamestop"
+street: Vaughan Lane
+housenumber: "41"
+phone: +1 205 338 4030
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.gamestop.com/store/us/al/pell-city/2589/pell-city-station-gamestop

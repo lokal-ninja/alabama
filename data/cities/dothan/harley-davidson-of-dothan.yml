@@ -1,11 +1,11 @@
 id: 955462024
-type: way
+type: node
 latitude: 31.19821
 longitude: -85.41304
 postcode: "36301"
 city: Dothan
-street: "Ross Clark Circle"
-housenumber: 2418
+street: Ross Clark Circle
+housenumber: "2418"
 phone: ""
 opening_hours: ""
-website: "https://harleyofdothan.com/"
+website: https://harleyofdothan.com/

@@ -1,11 +1,11 @@
 id: 712903732
-type: way
+type: node
 latitude: 34.92449
 longitude: -86.57173
 postcode: "35750"
 city: Hazel Green
-street: "HWY 231 431 N"
-housenumber: 13974
+street: HWY 231 431 N
+housenumber: "13974"
 phone: ""
 opening_hours: ""
 website: ""

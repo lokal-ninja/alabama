@@ -1,11 +1,11 @@
 id: 824652114
-type: way
+type: node
 latitude: 33.42933
 longitude: -86.74021
 postcode: "35243"
 city: Birmingham
-street: "Acton Road"
-housenumber: 2867
-phone: "205-874-9683"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.fourroux.com"
+street: Acton Road
+housenumber: "2867"
+phone: 205-874-9683
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.fourroux.com

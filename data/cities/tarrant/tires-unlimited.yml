@@ -1,11 +1,11 @@
 id: 124672319
-type: way
+type: node
 latitude: 33.5831
 longitude: -86.77493
 postcode: "35217"
 city: Tarrant
-street: "Pinson Valley Parkway"
-housenumber: 1408
-phone: "+1-205-725-3214"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-15:00"
+street: Pinson Valley Parkway
+housenumber: "1408"
+phone: +1-205-725-3214
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-15:00
 website: ""

@@ -1,11 +1,11 @@
 id: 453577202
-type: way
+type: node
 latitude: 34.8038
 longitude: -86.95396
 postcode: "35611"
 city: Athens
-street: "Hobbs Street East"
-housenumber: 703
-phone: "+1-256-230-0100"
-opening_hours: "10:00-18:00, Su closed"
+street: Hobbs Street East
+housenumber: "703"
+phone: +1-256-230-0100
+opening_hours: 10:00-18:00, Su closed
 website: ""

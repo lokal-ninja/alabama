@@ -1,11 +1,11 @@
 id: 1245896363
-type: way
+type: node
 latitude: 33.50824
 longitude: -86.88473
 postcode: "35218"
 city: Birmingham
-street: "Ensley Avenue"
-housenumber: 1813
-phone: "+1-205-668-5416"
-opening_hours: "Mo-Sa 09:00-19:00; Su closed"
-website: "https://www.freewayhondaal.com/"
+street: Ensley Avenue
+housenumber: "1813"
+phone: +1-205-668-5416
+opening_hours: Mo-Sa 09:00-19:00; Su closed
+website: https://www.freewayhondaal.com/

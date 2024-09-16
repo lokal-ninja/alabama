@@ -1,11 +1,11 @@
 id: 351676259
-type: way
+type: node
 latitude: 33.46603
 longitude: -86.73316
 postcode: "35223"
 city: Mountain Brook
-street: "Overton Road"
-housenumber: 3141
-phone: "+1 205-967-2188"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1085-publix-on-overton"
+street: Overton Road
+housenumber: "3141"
+phone: +1 205-967-2188
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1085-publix-on-overton

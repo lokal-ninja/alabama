@@ -1,11 +1,11 @@
 id: 289570195
-type: way
+type: node
 latitude: 33.61095
 longitude: -86.27848
 postcode: "35125"
 city: Pell City
-street: "Vaughan Lane"
-housenumber: 57
-phone: "+1 205 338 0833"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.dollartree.com/locations/al/pell-city/2398/"
+street: Vaughan Lane
+housenumber: "57"
+phone: +1 205 338 0833
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.dollartree.com/locations/al/pell-city/2398/

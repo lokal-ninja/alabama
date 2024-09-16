@@ -1,11 +1,11 @@
 id: 823711488
-type: way
+type: node
 latitude: 31.55038
 longitude: -85.28563
 postcode: "36310"
 city: Abbeville
-street: "Highway 431"
-housenumber: 2714
-phone: "+1-334-585-1264"
-opening_hours: "Su 08:00-20:00; Mo-Sa 07:30-21:00"
-website: "https://www.autozone.com/locations/al/abbeville/2714-hwy-431-s.html"
+street: Highway 431
+housenumber: "2714"
+phone: +1-334-585-1264
+opening_hours: Su 08:00-20:00; Mo-Sa 07:30-21:00
+website: https://www.autozone.com/locations/al/abbeville/2714-hwy-431-s.html

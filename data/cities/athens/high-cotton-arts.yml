@@ -1,11 +1,11 @@
 id: 442449793
-type: way
+type: node
 latitude: 34.80222
 longitude: -86.97036
 postcode: "35611"
 city: Athens
-street: "ashington Street West"
-housenumber: 103
+street: ashington Street West
+housenumber: "103"
 phone: ""
-opening_hours: "We-Th 10:30-14:30, Fr-Sa 10:00-16:00, Su-Tu closed"
-website: "https://www.highcottonarts.com/"
+opening_hours: We-Th 10:30-14:30, Fr-Sa 10:00-16:00, Su-Tu closed
+website: https://www.highcottonarts.com/

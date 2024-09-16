@@ -1,11 +1,11 @@
 id: 1253824378
-type: way
+type: node
 latitude: 33.47851
 longitude: -86.92035
 postcode: "35064"
 city: Fairfield
-street: "Flintridge Drive"
-housenumber: 6405
-phone: "+1-205-781-0110"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Fairfield/AL/Fairfield/35064/882"
+street: Flintridge Drive
+housenumber: "6405"
+phone: +1-205-781-0110
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Fairfield/AL/Fairfield/35064/882

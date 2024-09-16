@@ -1,11 +1,11 @@
 id: 803517662
-type: way
+type: node
 latitude: 33.33538
 longitude: -86.99222
 postcode: "35022"
 city: Bessemer
-street: "Promenade Parkway"
-housenumber: 4925
-phone: "+1 205-428-3437"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/al/bessemer-store2193.html"
+street: Promenade Parkway
+housenumber: "4925"
+phone: +1 205-428-3437
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/al/bessemer-store2193.html

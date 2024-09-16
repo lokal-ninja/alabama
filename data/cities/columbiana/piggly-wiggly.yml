@@ -1,11 +1,11 @@
 id: 569166397
-type: way
+type: node
 latitude: 33.17923
 longitude: -86.61279
 postcode: "35051"
 city: Columbiana
-street: "West College Street"
-housenumber: 211
-phone: "+1 205-669-9916"
+street: West College Street
+housenumber: "211"
+phone: +1 205-669-9916
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 885665735
-type: way
+type: node
 latitude: 33.6084
 longitude: -86.80184
 postcode: "35068"
 city: Fultondale
-street: "Morris Avenue"
-housenumber: 1601
-phone: "+1 833-470-7037"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/al/fultondale/1601-morris-ave"
+street: Morris Avenue
+housenumber: "1601"
+phone: +1 833-470-7037
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/al/fultondale/1601-morris-ave

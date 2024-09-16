@@ -1,11 +1,11 @@
 id: 621547404
-type: way
+type: node
 latitude: 33.40895
 longitude: -86.66552
 postcode: "35242"
 city: Birmingham
-street: "Doug Baker Boulevard"
-housenumber: 101
+street: Doug Baker Boulevard
+housenumber: "101"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-101+doug+baker+blvd-hoover-al-35242/id=7791"
+website: https://www.walgreens.com/locator/walgreens-101+doug+baker+blvd-hoover-al-35242/id=7791

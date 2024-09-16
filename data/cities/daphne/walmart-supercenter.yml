@@ -1,11 +1,11 @@
 id: 513821507
-type: way
+type: node
 latitude: 30.62582
 longitude: -87.90508
 postcode: "36526"
 city: Daphne
-street: "US-98"
-housenumber: 27520
-phone: "+1 251-626-0923"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/934/daphne-al/whats-new"
+street: US-98
+housenumber: "27520"
+phone: +1 251-626-0923
+opening_hours: 24/7
+website: https://www.walmart.com/store/934/daphne-al/whats-new

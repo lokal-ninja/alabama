@@ -1,11 +1,11 @@
 id: 621546648
-type: way
+type: node
 latitude: 33.40935
 longitude: -86.66831
-postcode: "35242-2682"
+postcode: 35242-2682
 city: Hoover
-street: "Doug Baker Boulevard"
-housenumber: 410
-phone: "+1 205-981-7415"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/882"
+street: Doug Baker Boulevard
+housenumber: "410"
+phone: +1 205-981-7415
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/882

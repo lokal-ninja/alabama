@@ -1,11 +1,11 @@
 id: 1193663400
-type: way
+type: node
 latitude: 31.05107
 longitude: -85.8992
 postcode: "36340"
 city: Geneva
-street: "West Magnolia Avenue"
-housenumber: 1608
-phone: "+1 334-684-3681"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/1063-geneva-al"
+street: West Magnolia Avenue
+housenumber: "1608"
+phone: +1 334-684-3681
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/1063-geneva-al

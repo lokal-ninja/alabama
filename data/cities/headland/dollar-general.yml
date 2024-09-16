@@ -1,11 +1,11 @@
 id: 823711517
-type: way
+type: node
 latitude: 31.33403
 longitude: -85.33422
 postcode: "36345"
 city: Headland
-street: "Henry County 22"
-housenumber: 156
-phone: "+1-334-245-4979"
-opening_hours: "Su-Sa 07:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/al/headland/1368"
+street: Henry County 22
+housenumber: "156"
+phone: +1-334-245-4979
+opening_hours: Su-Sa 07:00-22:00
+website: https://www.dollargeneral.com/store-directory/al/headland/1368

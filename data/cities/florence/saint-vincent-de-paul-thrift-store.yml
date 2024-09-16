@@ -1,11 +1,11 @@
 id: 453823985
-type: way
+type: node
 latitude: 34.79676
 longitude: -87.66675
 postcode: "35630"
 city: Florence
-street: "South Poplar Street"
-housenumber: 659
+street: South Poplar Street
+housenumber: "659"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 33.57309
 longitude: -86.72187
 postcode: "35206"
 city: Birmingham
-street: "1st Avenue North"
-housenumber: 8400
-phone: "+1-205-838-2640"
-opening_hours: "Mo-Fr 07:30-17:30;Sa 07:30-16:30"
-website: "https://www.expressoil.com/stores/birmingham/al/0103/"
+street: 1st Avenue North
+housenumber: "8400"
+phone: +1-205-838-2640
+opening_hours: Mo-Fr 07:30-17:30;Sa 07:30-16:30
+website: https://www.expressoil.com/stores/birmingham/al/0103/

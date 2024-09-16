@@ -1,11 +1,11 @@
 id: 444645753
-type: way
+type: node
 latitude: 34.78573
 longitude: -86.95903
 postcode: "35611"
 city: Athens
-street: "French Farms Boulevard"
-housenumber: 229
-phone: "+1-256-233-3167"
-opening_hours: "10:00-21:00, Su 11:00-18:00"
-website: "https://www.gamestop.com/store/us/al/athens/3915/french-farm-pavilion-gamestop"
+street: French Farms Boulevard
+housenumber: "229"
+phone: +1-256-233-3167
+opening_hours: 10:00-21:00, Su 11:00-18:00
+website: https://www.gamestop.com/store/us/al/athens/3915/french-farm-pavilion-gamestop

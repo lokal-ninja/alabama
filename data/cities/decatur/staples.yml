@@ -1,11 +1,11 @@
 id: 588823966
-type: way
+type: node
 latitude: 34.55884
 longitude: -86.9978
 postcode: "35601"
 city: Decatur
-street: "Beltline Road Southwest"
-housenumber: 817
+street: Beltline Road Southwest
+housenumber: "817"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://stores.staples.com/al/decatur/817-beltline-road"
+opening_hours: Mo-Fr 09:00-20:00; Sa 10:00-19:00; Su 11:00-18:00
+website: https://stores.staples.com/al/decatur/817-beltline-road

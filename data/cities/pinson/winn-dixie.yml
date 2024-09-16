@@ -1,11 +1,11 @@
 id: 364002427
-type: way
+type: node
 latitude: 33.69535
 longitude: -86.6801
 postcode: "35126"
 city: Pinson
-street: "Center Point Road"
-housenumber: 4701
-phone: "+1 205-680-2550"
+street: Center Point Road
+housenumber: "4701"
+phone: +1 205-680-2550
 opening_hours: ""
-website: "https://www.winndixie.com/storedetails/pinson/al?search=500"
+website: https://www.winndixie.com/storedetails/pinson/al?search=500

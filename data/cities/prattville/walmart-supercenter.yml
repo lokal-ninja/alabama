@@ -1,11 +1,11 @@
 id: 854328981
-type: way
+type: node
 latitude: 32.46362
 longitude: -86.41713
 postcode: "36066"
 city: Prattville
-street: "Cobbs Ford Road"
-housenumber: 1903
-phone: "+1 334-361-2135"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/483/prattville-al/whats-new"
+street: Cobbs Ford Road
+housenumber: "1903"
+phone: +1 334-361-2135
+opening_hours: 24/7
+website: https://www.walmart.com/store/483/prattville-al/whats-new

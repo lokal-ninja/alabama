@@ -1,11 +1,11 @@
 id: 124672322
-type: way
+type: node
 latitude: 33.58498
 longitude: -86.77137
 postcode: "35217"
 city: Birmingham
-street: "Pinson Valley Parkway"
-housenumber: 1701
-phone: "+1-205-808-0161"
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-20:00"
-website: "https://stores.advanceautoparts.com/al/birmingham/1701-pinson-valley-pkwy"
+street: Pinson Valley Parkway
+housenumber: "1701"
+phone: +1-205-808-0161
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-20:00
+website: https://stores.advanceautoparts.com/al/birmingham/1701-pinson-valley-pkwy

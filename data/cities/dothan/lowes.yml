@@ -1,11 +1,11 @@
 id: 544051927
-type: way
+type: node
 latitude: 31.26625
 longitude: -85.44914
 postcode: "36303"
 city: Dothan
-street: "Montgomery Highway"
-housenumber: 4801
-phone: "+1 334-340-2560"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/al-dothan/2884"
+street: Montgomery Highway
+housenumber: "4801"
+phone: +1 334-340-2560
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/al-dothan/2884

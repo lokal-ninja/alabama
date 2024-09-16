@@ -1,11 +1,11 @@
 id: 1017695808
-type: way
+type: node
 latitude: 31.43224
 longitude: -86.95726
 postcode: "36401"
 city: Evergreen
-street: "West Front Street"
-housenumber: 210
+street: West Front Street
+housenumber: "210"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/evergreen-al-pharmacies/210-w-front-st-evergreen-al-36401/storeid=4847"
+website: https://www.cvs.com/store-locator/evergreen-al-pharmacies/210-w-front-st-evergreen-al-36401/storeid=4847

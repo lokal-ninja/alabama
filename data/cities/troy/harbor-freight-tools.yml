@@ -1,11 +1,11 @@
 id: 1020582659
-type: way
+type: node
 latitude: 31.77982
 longitude: -85.94942
 postcode: "36081"
 city: Troy
-street: "Highway 231 South"
-housenumber: 1261
-phone: "+1 334-807-9997"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/1261-highway-231-s-troy-36081?number=763"
+street: Highway 231 South
+housenumber: "1261"
+phone: +1 334-807-9997
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/1261-highway-231-s-troy-36081?number=763

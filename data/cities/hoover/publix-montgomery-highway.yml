@@ -1,11 +1,11 @@
 id: 651201182
-type: way
+type: node
 latitude: 33.40386
 longitude: -86.80804
 postcode: "35216"
 city: Hoover
-street: "Montgomery Highway"
-housenumber: 1584
-phone: "+1 205-824-7218"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1207"
+street: Montgomery Highway
+housenumber: "1584"
+phone: +1 205-824-7218
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1207

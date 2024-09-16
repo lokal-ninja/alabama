@@ -1,11 +1,11 @@
 id: 352843034
-type: way
+type: node
 latitude: 30.74441
 longitude: -88.07865
 postcode: ""
 city: Prichard
-street: "North Wilson Avenue"
-housenumber: 1010
+street: North Wilson Avenue
+housenumber: "1010"
 phone: ""
 opening_hours: ""
 website: ""

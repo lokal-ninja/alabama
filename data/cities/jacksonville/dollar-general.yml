@@ -1,11 +1,11 @@
 id: 391144460
-type: way
+type: node
 latitude: 33.80905
 longitude: -85.76205
 postcode: "36265"
 city: Jacksonville
-street: "Pelham Road South"
-housenumber: 619
+street: Pelham Road South
+housenumber: "619"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/al/jacksonville/3681"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.dollargeneral.com/store-directory/al/jacksonville/3681

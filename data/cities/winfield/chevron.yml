@@ -1,11 +1,11 @@
 id: 682845464
-type: way
+type: node
 latitude: 33.98767
 longitude: -87.77574
 postcode: "35594"
 city: Winfield
-street: "SR 129"
-housenumber: 7016
-phone: "+1-205-487-0113"
-opening_hours: "24/7"
+street: SR 129
+housenumber: "7016"
+phone: +1-205-487-0113
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 224440422
-type: way
+type: node
 latitude: 34.74838
 longitude: -87.67457
 postcode: "35661"
 city: Muscle Shoals
-street: "Avalon Avenue"
-housenumber: 517
-phone: "+1 256-381-0987"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/660-muscle-shoals-al"
+street: Avalon Avenue
+housenumber: "517"
+phone: +1 256-381-0987
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/660-muscle-shoals-al

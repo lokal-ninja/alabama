@@ -1,11 +1,11 @@
 id: 1184780593
-type: way
+type: node
 latitude: 33.93581
 longitude: -87.83496
 postcode: "35594"
 city: Winfield
-street: "US Hwy 43"
-housenumber: 2246
-phone: "+1-205-487-0930"
+street: US Hwy 43
+housenumber: "2246"
+phone: +1-205-487-0930
 opening_hours: ""
-website: "https://www.autozone.com/locations/al/winfield/2246-us-highway-43.html"
+website: https://www.autozone.com/locations/al/winfield/2246-us-highway-43.html

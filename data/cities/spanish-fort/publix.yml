@@ -1,11 +1,11 @@
 id: 613927666
-type: way
+type: node
 latitude: 30.67433
 longitude: -87.84817
-postcode: "36527-5801"
+postcode: 36527-5801
 city: Spanish Fort
-street: "Eastern Shore Drive"
-housenumber: 10179
-phone: "+1 251-621-9065"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1400"
+street: Eastern Shore Drive
+housenumber: "10179"
+phone: +1 251-621-9065
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1400

@@ -1,11 +1,11 @@
 id: 1254203755
-type: way
+type: node
 latitude: 34.42624
 longitude: -85.73706
 postcode: "35967"
 city: Fort Payne
-street: "17th Street"
-housenumber: 105
-phone: "+1 256 418 5155"
-opening_hours: "Mo-Sa 08:30-17:30; Su by appointment"
-website: "https://www.jesusaaautosales.com/"
+street: 17th Street
+housenumber: "105"
+phone: +1 256 418 5155
+opening_hours: Mo-Sa 08:30-17:30; Su "by appointment"
+website: https://www.jesusaaautosales.com/

@@ -1,11 +1,11 @@
 id: 87654681
-type: way
+type: node
 latitude: 34.75094
 longitude: -86.60125
 postcode: "35810"
 city: Huntsville
 street: ""
-housenumber: 
-phone: "+1 256-539-5136"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.kroger.com/stores/grocery/al/huntsville/huntsville/026/00508"
+housenumber: ""
+phone: +1 256-539-5136
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.kroger.com/stores/grocery/al/huntsville/huntsville/026/00508

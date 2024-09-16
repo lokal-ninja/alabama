@@ -1,11 +1,11 @@
 id: 1013945902
-type: way
+type: node
 latitude: 33.59352
 longitude: -86.12165
 postcode: "35096"
 city: Lincoln
-street: "Alabama Highway 77"
-housenumber: 75750
-phone: "+1 (205) 763-1531"
+street: Alabama Highway 77
+housenumber: "75750"
+phone: +1 (205) 763-1531
 opening_hours: ""
 website: ""

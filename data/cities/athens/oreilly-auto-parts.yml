@@ -1,11 +1,11 @@
 id: 443631605
-type: way
+type: node
 latitude: 34.7877
 longitude: -86.96293
 postcode: "35611"
 city: Athens
-street: "US Highway 72 East"
-housenumber: 910
-phone: "+1-256-232-0940"
-opening_hours: "07:00-21:00, Su 08:00-20:00"
-website: "https://locations.oreillyauto.com/al/athens/autoparts-914.html"
+street: US Highway 72 East
+housenumber: "910"
+phone: +1-256-232-0940
+opening_hours: 07:00-21:00, Su 08:00-20:00
+website: https://locations.oreillyauto.com/al/athens/autoparts-914.html

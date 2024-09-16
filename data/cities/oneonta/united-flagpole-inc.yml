@@ -1,11 +1,11 @@
 id: 1231267618
-type: way
+type: node
 latitude: 33.98002
 longitude: -86.41738
 postcode: ""
 city: Oneonta
-street: "Hoods Cross Road"
-housenumber: 849
+street: Hoods Cross Road
+housenumber: "849"
 phone: ""
 opening_hours: ""
-website: "https://unitedflagpole.com"
+website: https://unitedflagpole.com

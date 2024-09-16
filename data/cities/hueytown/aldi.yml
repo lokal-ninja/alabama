@@ -1,11 +1,11 @@
 id: 940871310
-type: way
+type: node
 latitude: 33.45238
 longitude: -86.9691
 postcode: "35023"
 city: Hueytown
-street: "Allison-Bonnett Memorial Drive"
-housenumber: 2891
-phone: "+1 833-470-7029"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/al/hueytown/2891-allison-bonnett-memori"
+street: Allison-Bonnett Memorial Drive
+housenumber: "2891"
+phone: +1 833-470-7029
+opening_hours: Mo, We, Fr-Su 09:00-20:00, Tu, Th 08:30-20:00
+website: https://stores.aldi.us/al/hueytown/2891-allison-bonnett-memori

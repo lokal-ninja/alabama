@@ -1,11 +1,11 @@
 id: 642058201
-type: way
+type: node
 latitude: 30.68771
 longitude: -88.21268
 postcode: "36608"
 city: Mobile
-street: "Airport Boulevard"
-housenumber: 7310
+street: Airport Boulevard
+housenumber: "7310"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 678034773
-type: way
+type: node
 latitude: 33.42864
 longitude: -86.79129
 postcode: "35216"
 city: Vestavia Hills
-street: "Montgomery Highway"
-housenumber: 1300
-phone: "+1 205-822-9994"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/4580-vestavia-hills-al"
+street: Montgomery Highway
+housenumber: "1300"
+phone: +1 205-822-9994
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/4580-vestavia-hills-al

@@ -1,11 +1,11 @@
 id: 264009713
-type: way
+type: node
 latitude: 33.33494
 longitude: -86.99379
-postcode: "35022-7304"
+postcode: 35022-7304
 city: Bessemer
-street: "Promenade Parkway"
-housenumber: 4965
-phone: "+1 205-426-7100"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1200"
+street: Promenade Parkway
+housenumber: "4965"
+phone: +1 205-426-7100
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1200

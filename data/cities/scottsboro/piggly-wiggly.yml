@@ -1,11 +1,11 @@
 id: 665672936
-type: way
+type: node
 latitude: 34.65152
 longitude: -86.03527
 postcode: "35768"
 city: Scottsboro
-street: "County Park Road"
-housenumber: 101
-phone: "+1 256-574-4175"
+street: County Park Road
+housenumber: "101"
+phone: +1 256-574-4175
 opening_hours: ""
 website: ""

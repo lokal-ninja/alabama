@@ -1,11 +1,11 @@
 id: 588475746
-type: way
+type: node
 latitude: 34.74747
 longitude: -86.78723
 postcode: "35758"
 city: Madison
-street: "US Highway 72"
-housenumber: 30664
+street: US Highway 72
+housenumber: "30664"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/al/madison/9140"
+website: https://www.dollargeneral.com/store-directory/al/madison/9140

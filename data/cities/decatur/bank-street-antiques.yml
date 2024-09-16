@@ -1,11 +1,11 @@
 id: 775808119
-type: way
+type: node
 latitude: 34.61329
 longitude: -86.98422
 postcode: "35601"
 city: Decatur
-street: "Bank Street Northeast"
-housenumber: 818
+street: Bank Street Northeast
+housenumber: "818"
 phone: ""
 opening_hours: ""
-website: "https://bankstreetantiques.com"
+website: https://bankstreetantiques.com

@@ -1,11 +1,11 @@
 id: 444784003
-type: way
+type: node
 latitude: 34.73229
 longitude: -86.95656
 postcode: "35611"
 city: Athens
-street: "US Highway 31"
-housenumber: 12060
-phone: "+1-256-232-1600"
+street: US Highway 31
+housenumber: "12060"
+phone: +1-256-232-1600
 opening_hours: ""
-website: "https://www.legacy.com/funeral-homes/alabama/athens/peoples-funeral-home---athens/fh-19990"
+website: https://www.legacy.com/funeral-homes/alabama/athens/peoples-funeral-home---athens/fh-19990

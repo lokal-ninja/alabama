@@ -1,11 +1,11 @@
 id: 614625414
-type: way
+type: node
 latitude: 33.21165
 longitude: -87.56331
 postcode: "35401"
 city: Tuscaloosa
-street: "University Boulevard"
-housenumber: 2002
+street: University Boulevard
+housenumber: "2002"
 phone: ""
 opening_hours: ""
 website: ""

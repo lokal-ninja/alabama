@@ -1,11 +1,11 @@
 id: 426038151
-type: way
+type: node
 latitude: 33.37785
 longitude: -86.80093
 postcode: "35244"
 city: Hoover
-street: "Riverchase Village"
-housenumber: 3780
-phone: "+1 205-682-9556"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/al/hoover-store1127.html"
+street: Riverchase Village
+housenumber: "3780"
+phone: +1 205-682-9556
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/al/hoover-store1127.html

@@ -1,11 +1,11 @@
 id: 451783752
-type: way
+type: node
 latitude: 30.69165
 longitude: -88.16088
 postcode: "36608"
 city: Mobile
-street: "Old Shell Road"
-housenumber: 5150
+street: Old Shell Road
+housenumber: "5150"
 phone: ""
 opening_hours: ""
 website: ""

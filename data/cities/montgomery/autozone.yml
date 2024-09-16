@@ -4,8 +4,8 @@ latitude: 32.35234
 longitude: -86.22059
 postcode: ""
 city: Montgomery
-street: "Eastern Boulevard"
-housenumber: 2260
+street: Eastern Boulevard
+housenumber: "2260"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/al/montgomery/2260-eastern-blvd-.html"
+website: https://www.autozone.com/locations/al/montgomery/2260-eastern-blvd-.html

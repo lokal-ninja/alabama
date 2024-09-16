@@ -1,11 +1,11 @@
 id: 480768015
-type: way
+type: node
 latitude: 34.75418
 longitude: -86.74935
 postcode: "35757"
 city: Madison
-street: "Wall Triana Highway"
-housenumber: 5941
-phone: "+1-256-430-3711"
-opening_hours: "7:00-21:00; Su 08:00-20:00"
-website: "https://locations.oreillyauto.com/al/madison/autoparts-1313.html"
+street: Wall Triana Highway
+housenumber: "5941"
+phone: +1-256-430-3711
+opening_hours: 7:00-21:00; Su 08:00-20:00
+website: https://locations.oreillyauto.com/al/madison/autoparts-1313.html

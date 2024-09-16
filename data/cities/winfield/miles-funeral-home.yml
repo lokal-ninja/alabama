@@ -1,11 +1,11 @@
 id: 1007507786
-type: way
+type: node
 latitude: 33.9387
 longitude: -87.82315
 postcode: "35594"
 city: Winfield
-street: "State Highway 253"
-housenumber: 851
+street: State Highway 253
+housenumber: "851"
 phone: ""
 opening_hours: ""
 website: ""

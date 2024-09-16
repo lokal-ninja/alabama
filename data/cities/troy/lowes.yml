@@ -1,11 +1,11 @@
 id: 1020582636
-type: way
+type: node
 latitude: 31.77793
 longitude: -85.94239
 postcode: "36081"
 city: Troy
-street: "US Highway 231 South"
-housenumber: 1421
-phone: "+1 334-670-6336"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/al-troy/2212"
+street: US Highway 231 South
+housenumber: "1421"
+phone: +1 334-670-6336
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/al-troy/2212

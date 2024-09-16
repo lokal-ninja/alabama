@@ -1,11 +1,11 @@
 id: 1290316753
-type: way
+type: node
 latitude: 32.42637
 longitude: -86.27934
 postcode: "36110"
 city: Montgomery
-street: "Johnson Avenue"
-housenumber: 25
+street: Johnson Avenue
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

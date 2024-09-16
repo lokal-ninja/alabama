@@ -1,11 +1,11 @@
 id: 451940433
-type: way
+type: node
 latitude: 34.80127
 longitude: -87.67462
 postcode: "35630"
 city: Florence
-street: "North Seminary Street"
-housenumber: 102
+street: North Seminary Street
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

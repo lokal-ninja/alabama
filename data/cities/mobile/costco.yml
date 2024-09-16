@@ -1,11 +1,11 @@
 id: 435224269
-type: way
+type: node
 latitude: 30.64744
 longitude: -88.11965
-postcode: "36606-2632"
+postcode: 36606-2632
 city: Mobile
-street: "Tingle Circle West"
-housenumber: 1450
-phone: "+1 251-308-7030"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/mobile-al-1192.html"
+street: Tingle Circle West
+housenumber: "1450"
+phone: +1 251-308-7030
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/mobile-al-1192.html

@@ -1,11 +1,11 @@
 id: 243067566
-type: way
+type: node
 latitude: 32.36502
 longitude: -86.14981
-postcode: "36117-7033"
+postcode: 36117-7033
 city: Montgomery
-street: "Eastchase Parkway"
-housenumber: 8251
-phone: "+1 334-270-7452"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/montgomery-al-1009.html"
+street: Eastchase Parkway
+housenumber: "8251"
+phone: +1 334-270-7452
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/montgomery-al-1009.html

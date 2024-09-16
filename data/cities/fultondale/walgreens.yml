@@ -1,11 +1,11 @@
 id: 885665743
-type: way
+type: node
 latitude: 33.61172
 longitude: -86.79646
 postcode: "35068"
 city: Fultondale
-street: "US-31 N"
-housenumber: 1731
-phone: "+1-205-841-3815"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-21:00"
-website: "https://www.walgreens.com/locator/walgreens-1713+us+highway+31+north-fultondale-al-35068/id=19770"
+street: US-31 N
+housenumber: "1731"
+phone: +1-205-841-3815
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-21:00
+website: https://www.walgreens.com/locator/walgreens-1713+us+highway+31+north-fultondale-al-35068/id=19770

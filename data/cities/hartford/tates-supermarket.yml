@@ -1,11 +1,11 @@
 id: 1240293779
-type: way
+type: node
 latitude: 31.10205
 longitude: -85.69369
 postcode: "36344"
 city: Hartford
-street: "East Mill Street"
-housenumber: 300
-phone: "+1-334-588-2933"
+street: East Mill Street
+housenumber: "300"
+phone: +1-334-588-2933
 opening_hours: ""
 website: ""

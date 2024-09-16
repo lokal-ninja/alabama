@@ -1,11 +1,11 @@
 id: 223224757
-type: way
+type: node
 latitude: 34.72859
 longitude: -87.66614
 postcode: "34606"
 city: Muscle Shoals
-street: "Woodward Avenue"
-housenumber: 3401
-phone: "+1 256 389 2794"
-opening_hours: "07:00-21:00"
-website: "https://www.ruralking.com/muscle-shoals-al"
+street: Woodward Avenue
+housenumber: "3401"
+phone: +1 256 389 2794
+opening_hours: 07:00-21:00
+website: https://www.ruralking.com/muscle-shoals-al

@@ -1,11 +1,11 @@
 id: 59538505
-type: way
+type: node
 latitude: 34.74463
 longitude: -86.60307
 postcode: "35801"
 city: Huntsville
-street: "North Memorial Parkway"
-housenumber: 1205
-phone: "+1 256-519-2220"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/huntsville-al-356.html"
+street: North Memorial Parkway
+housenumber: "1205"
+phone: +1 256-519-2220
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/huntsville-al-356.html

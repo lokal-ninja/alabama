@@ -1,11 +1,11 @@
 id: 325519209
-type: way
+type: node
 latitude: 32.60628
 longitude: -85.48144
 postcode: "36830"
 city: Auburn
-street: "South College Street"
-housenumber: 111
+street: South College Street
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

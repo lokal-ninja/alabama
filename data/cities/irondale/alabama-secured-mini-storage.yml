@@ -1,11 +1,11 @@
 id: 1031296466
-type: way
+type: node
 latitude: 33.53986
 longitude: -86.69898
 postcode: "35211"
 city: Irondale
-street: "25th Street"
-housenumber: 509
+street: 25th Street
+housenumber: "509"
 phone: ""
 opening_hours: ""
 website: ""

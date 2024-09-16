@@ -1,11 +1,11 @@
 id: 836104409
-type: way
+type: node
 latitude: 34.7806
 longitude: -86.92846
 postcode: "35613"
 city: Athens
-street: "Greenfield Drive"
-housenumber: 15401
+street: Greenfield Drive
+housenumber: "15401"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1069423390
-type: way
+type: node
 latitude: 33.44675
 longitude: -86.8267
 postcode: "35209"
 city: Homewood
-street: "State Farm Parkway"
-housenumber: 225
+street: State Farm Parkway
+housenumber: "225"
 phone: ""
 opening_hours: ""
 website: ""

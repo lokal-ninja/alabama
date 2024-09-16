@@ -1,11 +1,11 @@
 id: 397647967
-type: way
+type: node
 latitude: 30.88647
 longitude: -87.79092
 postcode: "36507"
 city: Bay Minette
-street: "McMeans Ave;McMeans Avenue"
-housenumber: 701
-phone: "+1 251-937-5558"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2739/bay-minette-al/whats-new"
+street: McMeans Ave;McMeans Avenue
+housenumber: "701"
+phone: +1 251-937-5558
+opening_hours: 24/7
+website: https://www.walmart.com/store/2739/bay-minette-al/whats-new

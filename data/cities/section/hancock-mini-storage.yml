@@ -1,11 +1,11 @@
 id: 1245491212
-type: way
+type: node
 latitude: 34.56343
 longitude: -85.95359
 postcode: ""
 city: Section
-street: "AL Highway 35"
-housenumber: 2817
+street: AL Highway 35
+housenumber: "2817"
 phone: ""
 opening_hours: ""
 website: ""

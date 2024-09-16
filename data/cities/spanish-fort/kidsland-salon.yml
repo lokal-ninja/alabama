@@ -1,11 +1,11 @@
 id: 1308725120
-type: way
+type: node
 latitude: 30.66985
 longitude: -87.84888
 postcode: "36527"
 city: Spanish Fort
-street: "State Highway 181"
-housenumber: 30500
-phone: "+1 251 459 0738"
+street: State Highway 181
+housenumber: "30500"
+phone: +1 251 459 0738
 opening_hours: ""
-website: "https://www.kidslandsalon.com/"
+website: https://www.kidslandsalon.com/

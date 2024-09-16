@@ -1,11 +1,11 @@
 id: 333486280
-type: way
+type: node
 latitude: 30.64144
 longitude: -88.19264
-postcode: "36695-3838"
+postcode: 36695-3838
 city: Mobile
-street: "Hillcrest Road"
-housenumber: 2370
-phone: "+1 251-661-5361"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1436"
+street: Hillcrest Road
+housenumber: "2370"
+phone: +1 251-661-5361
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1436

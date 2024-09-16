@@ -1,11 +1,11 @@
 id: 384891498
-type: way
+type: node
 latitude: 34.68068
 longitude: -86.74614
 postcode: "35758"
 city: Madison
-street: "Madison Boulevard"
-housenumber: 8760
-phone: "+1-256-464-0944"
-opening_hours: "09:30-20:00; Su 09:30-18:00"
-website: "https://www.asianinalabama.com/"
+street: Madison Boulevard
+housenumber: "8760"
+phone: +1-256-464-0944
+opening_hours: 09:30-20:00; Su 09:30-18:00
+website: https://www.asianinalabama.com/

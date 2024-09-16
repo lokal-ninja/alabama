@@ -1,11 +1,11 @@
 id: 857607144
-type: way
+type: node
 latitude: 33.33526
 longitude: -86.91955
 postcode: "35022"
 city: Bessemer
-street: "Morgan Road"
-housenumber: 2910
-phone: "+1 205-425-2121"
+street: Morgan Road
+housenumber: "2910"
+phone: +1 205-425-2121
 opening_hours: ""
-website: "https://www.winndixie.com/storedetails/bessemer/al?search=595"
+website: https://www.winndixie.com/storedetails/bessemer/al?search=595

@@ -4,8 +4,8 @@ latitude: 33.59778
 longitude: -85.92811
 postcode: ""
 city: Oxford
-street: "US 78"
-housenumber: 4920
-phone: "+1 256 770-0100"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://www.johnsonsgiantfood.com/"
+street: US 78
+housenumber: "4920"
+phone: +1 256 770-0100
+opening_hours: Mo-Su 07:00-21:00
+website: https://www.johnsonsgiantfood.com/

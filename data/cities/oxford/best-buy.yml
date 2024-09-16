@@ -1,11 +1,11 @@
 id: 958951284
-type: way
+type: node
 latitude: 33.60917
 longitude: -85.78047
 postcode: "36203"
 city: Oxford
-street: "Oxford Exchange Boulevard"
-housenumber: 1100
-phone: "+1 256-832-0172"
+street: Oxford Exchange Boulevard
+housenumber: "1100"
+phone: +1 256-832-0172
 opening_hours: ""
-website: "https://stores.bestbuy.com/al/oxford/1100-oxford-exchange-blvd-1097.html"
+website: https://stores.bestbuy.com/al/oxford/1100-oxford-exchange-blvd-1097.html

@@ -1,11 +1,11 @@
 id: 1254193358
-type: way
+type: node
 latitude: 33.60242
 longitude: -86.64138
 postcode: "35173"
 city: Trussville
-street: "Gadsden Highway"
-housenumber: 1600
-phone: "+1-205-661-9415"
+street: Gadsden Highway
+housenumber: "1600"
+phone: +1-205-661-9415
 opening_hours: ""
-website: "https://www.homedepot.com/l/Trussville/AL/Trussville/35173/887"
+website: https://www.homedepot.com/l/Trussville/AL/Trussville/35173/887

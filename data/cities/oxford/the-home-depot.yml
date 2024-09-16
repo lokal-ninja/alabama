@@ -1,11 +1,11 @@
 id: 27372228
-type: way
+type: node
 latitude: 33.60604
 longitude: -85.78374
 postcode: "36203"
 city: Oxford
-street: "Crystal Water Drive"
-housenumber: 350
+street: Crystal Water Drive
+housenumber: "350"
 phone: ""
 opening_hours: ""
 website: ""

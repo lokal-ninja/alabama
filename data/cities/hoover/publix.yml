@@ -2,10 +2,10 @@ id: 1225845988
 type: node
 latitude: 33.35593
 longitude: -86.8427
-postcode: "35244-3533"
+postcode: 35244-3533
 city: Hoover
-street: "John Hawkins Parkway"
-housenumber: 2543
-phone: "+1 205-982-8506"
-opening_hours: "Mo-Su 06:30-06:30"
-website: "https://www.publix.com/locations/839"
+street: John Hawkins Parkway
+housenumber: "2543"
+phone: +1 205-982-8506
+opening_hours: Mo-Su 06:30-06:30
+website: https://www.publix.com/locations/839

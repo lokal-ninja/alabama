@@ -4,8 +4,8 @@ latitude: 33.61993
 longitude: -86.60676
 postcode: "35173"
 city: Trussville
-street: "Main Street"
-housenumber: 183
-phone: "+1-205-655-6090"
-opening_hours: "10:00-17:00; Su closed"
-website: "https://www.cahabacycles.com/"
+street: Main Street
+housenumber: "183"
+phone: +1-205-655-6090
+opening_hours: 10:00-17:00; Su closed
+website: https://www.cahabacycles.com/

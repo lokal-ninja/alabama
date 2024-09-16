@@ -4,8 +4,8 @@ latitude: 33.16015
 longitude: -86.27392
 postcode: ""
 city: Sylacauga
-street: "US 280"
-housenumber: 42492
+street: US 280
+housenumber: "42492"
 phone: ""
-opening_hours: "variable_time"
+opening_hours: variable_time
 website: ""

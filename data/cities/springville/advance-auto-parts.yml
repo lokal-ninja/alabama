@@ -1,11 +1,11 @@
 id: 283161282
-type: way
+type: node
 latitude: 33.76798
 longitude: -86.47728
 postcode: "35146"
 city: Springville
-street: "US Highway 11"
-housenumber: 5790
-phone: "+1-205-467-3360"
-opening_hours: "Mo-Sa 07:00-21:00; Su 09:00-20:20"
-website: "https://stores.advanceautoparts.com/al/springville/5790-us-highway-11"
+street: US Highway 11
+housenumber: "5790"
+phone: +1-205-467-3360
+opening_hours: Mo-Sa 07:00-21:00; Su 09:00-20:20
+website: https://stores.advanceautoparts.com/al/springville/5790-us-highway-11

@@ -4,8 +4,9 @@ latitude: 31.324
 longitude: -85.34447
 postcode: "36345"
 city: Headland
-street: "U.S. Highway 431 South"
-housenumber: 19326
-phone: "+1-334-693-2004"
-opening_hours: "Tu-Fr 10:30-14:00; Sa 08:00-14:00 Restaurant || Tu-Sa 09:30-17:00 Store"
+street: U.S. Highway 431 South
+housenumber: "19326"
+phone: +1-334-693-2004
+opening_hours: Tu-Fr 10:30-14:00; Sa 08:00-14:00 "Restaurant" || Tu-Sa 09:30-17:00
+    "Store"
 website: ""

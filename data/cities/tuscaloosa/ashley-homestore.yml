@@ -1,11 +1,11 @@
 id: 105819611
-type: way
+type: node
 latitude: 33.1626
 longitude: -87.5465
 postcode: "35405"
 city: Tuscaloosa
-street: "Skyland Boulevard"
-housenumber: 701
-phone: "+1 205-366-2295"
+street: Skyland Boulevard
+housenumber: "701"
+phone: +1 205-366-2295
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/alabama/tuscaloosa/7710000013/"
+website: https://stores.ashleyfurniture.com/store/us/alabama/tuscaloosa/7710000013/

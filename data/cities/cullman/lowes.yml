@@ -1,11 +1,11 @@
 id: 940798908
-type: way
+type: node
 latitude: 34.15663
 longitude: -86.84152
 postcode: "35055"
 city: Cullman
-street: "Cherokee Avenue, Southwest"
-housenumber: 1717
-phone: "+1 256-775-0075"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/al-cullman/0313"
+street: Cherokee Avenue, Southwest
+housenumber: "1717"
+phone: +1 256-775-0075
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/al-cullman/0313

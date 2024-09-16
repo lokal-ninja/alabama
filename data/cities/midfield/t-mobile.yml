@@ -1,11 +1,11 @@
 id: 740863247
-type: way
+type: node
 latitude: 33.46394
 longitude: -86.91288
 postcode: "35228"
 city: Midfield
-street: "Weibel Dr"
-housenumber: 96
-phone: "+1-205-518-5289"
-opening_hours: "Mo-Sa 09:00-20:00; Su 12:00-18:00"
-website: "https://www.t-mobile.com/store-locator/al/midfield/weibel-dr-bessemer-rd"
+street: Weibel Dr
+housenumber: "96"
+phone: +1-205-518-5289
+opening_hours: Mo-Sa 09:00-20:00; Su 12:00-18:00
+website: https://www.t-mobile.com/store-locator/al/midfield/weibel-dr-bessemer-rd

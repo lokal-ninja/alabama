@@ -1,11 +1,11 @@
 id: 343291781
-type: way
+type: node
 latitude: 34.78918
 longitude: -86.95955
 postcode: "35611"
 city: Athens
-street: "US Highway 72 East"
-housenumber: 1011
-phone: "+1-256-230-2981"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/661/athens-al/whats-new"
+street: US Highway 72 East
+housenumber: "1011"
+phone: +1-256-230-2981
+opening_hours: 24/7
+website: https://www.walmart.com/store/661/athens-al/whats-new

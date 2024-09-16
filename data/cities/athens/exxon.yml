@@ -1,11 +1,11 @@
 id: 444750952
-type: way
+type: node
 latitude: 34.78182
 longitude: -86.9372
 postcode: "35611"
 city: Athens
-street: "US Highway 72 East"
-housenumber: 1510
-phone: "+1-256-216-1734"
-opening_hours: "05:00-22:00, Su 07:00-21:00"
-website: "https://www.exxon.com/en/gas-station/athensexxon-309657"
+street: US Highway 72 East
+housenumber: "1510"
+phone: +1-256-216-1734
+opening_hours: 05:00-22:00, Su 07:00-21:00
+website: https://www.exxon.com/en/gas-station/athensexxon-309657

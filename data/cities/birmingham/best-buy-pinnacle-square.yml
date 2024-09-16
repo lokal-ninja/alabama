@@ -1,11 +1,11 @@
 id: 206133309
-type: way
+type: node
 latitude: 33.60384
 longitude: -86.64299
 postcode: "35235"
 city: Birmingham
-street: "Pinnacle Square"
-housenumber: 5072
-phone: "+1 205-661-5010"
+street: Pinnacle Square
+housenumber: "5072"
+phone: +1 205-661-5010
 opening_hours: ""
-website: "https://stores.bestbuy.com/al/birmingham/5072-pinnacle-square-1004.html"
+website: https://stores.bestbuy.com/al/birmingham/5072-pinnacle-square-1004.html

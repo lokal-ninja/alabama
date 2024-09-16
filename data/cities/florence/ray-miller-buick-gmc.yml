@@ -1,11 +1,11 @@
 id: 220970238
-type: way
+type: node
 latitude: 34.83408
 longitude: -87.62843
 postcode: ""
 city: Florence
-street: "Cox Creek Parkway"
-housenumber: 246
-phone: "(800) 755-3113"
+street: Cox Creek Parkway
+housenumber: "246"
+phone: (800) 755-3113
 opening_hours: ""
-website: "https://www.raymillergm.com/"
+website: https://www.raymillergm.com/

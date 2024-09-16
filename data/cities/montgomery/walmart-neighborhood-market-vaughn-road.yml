@@ -1,11 +1,11 @@
 id: 756033390
-type: way
+type: node
 latitude: 32.34064
 longitude: -86.17565
 postcode: "36116"
 city: Montgomery
-street: "Vaughn Road"
-housenumber: 8035
-phone: "+1 334-777-5881"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/4691/montgomery-al/whats-new"
+street: Vaughn Road
+housenumber: "8035"
+phone: +1 334-777-5881
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/4691/montgomery-al/whats-new

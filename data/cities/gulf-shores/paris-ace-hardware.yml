@@ -1,11 +1,11 @@
 id: 565167020
-type: way
+type: node
 latitude: 30.26601
 longitude: -87.68821
 postcode: "36542"
 city: Gulf Shores
-street: "Gulf Shores Parkway"
-housenumber: 1524
-phone: "+1 251-968-7458"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 08:00-16:30"
+street: Gulf Shores Parkway
+housenumber: "1524"
+phone: +1 251-968-7458
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 08:00-16:30
 website: ""

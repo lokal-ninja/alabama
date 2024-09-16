@@ -1,11 +1,11 @@
 id: 27356504
-type: way
+type: node
 latitude: 33.59883
 longitude: -85.83332
 postcode: "36203"
 city: Oxford
-street: "Plaza Lane"
-housenumber: 92
-phone: "+1 256-835-4701"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/809/oxford-al/whats-new"
+street: Plaza Lane
+housenumber: "92"
+phone: +1 256-835-4701
+opening_hours: 24/7
+website: https://www.walmart.com/store/809/oxford-al/whats-new

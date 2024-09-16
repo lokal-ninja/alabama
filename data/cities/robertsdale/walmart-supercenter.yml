@@ -1,11 +1,11 @@
 id: 1076213707
-type: way
+type: node
 latitude: 30.53214
 longitude: -87.71145
 postcode: "36567"
 city: Robertsdale
-street: "State Highway 59"
-housenumber: 21141
-phone: "+1 251-947-4424"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/6173/robertsdale-al/whats-new"
+street: State Highway 59
+housenumber: "21141"
+phone: +1 251-947-4424
+opening_hours: 24/7
+website: https://www.walmart.com/store/6173/robertsdale-al/whats-new

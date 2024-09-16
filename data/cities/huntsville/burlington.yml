@@ -1,11 +1,11 @@
 id: 728251442
-type: way
+type: node
 latitude: 34.74077
 longitude: -86.67264
 postcode: "35806"
 city: Huntsville
-street: "University Drive Northwest"
-housenumber: 6275
-phone: "+1 256-971-0970"
-opening_hours: "Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-23:00"
-website: "https://stores.burlington.com/al/huntsville/400"
+street: University Drive Northwest
+housenumber: "6275"
+phone: +1 256-971-0970
+opening_hours: Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-23:00
+website: https://stores.burlington.com/al/huntsville/400

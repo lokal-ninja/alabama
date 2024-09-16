@@ -1,11 +1,11 @@
 id: 978412220
-type: way
+type: node
 latitude: 31.23793
 longitude: -85.50923
 postcode: "36305"
 city: Dothan
-street: "West Main Street"
-housenumber: 7329
+street: West Main Street
+housenumber: "7329"
 phone: ""
 opening_hours: ""
 website: ""

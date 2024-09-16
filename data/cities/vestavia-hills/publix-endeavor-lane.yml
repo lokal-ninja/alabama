@@ -1,11 +1,11 @@
 id: 823527411
-type: way
+type: node
 latitude: 33.47301
 longitude: -86.70352
 postcode: "35242"
 city: Vestavia Hills
-street: "Endeavor Lane"
-housenumber: 3201
-phone: "+1 205-967-5998"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.publix.com/locations/1692-the-market-place-at-the-bray"
+street: Endeavor Lane
+housenumber: "3201"
+phone: +1 205-967-5998
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.publix.com/locations/1692-the-market-place-at-the-bray

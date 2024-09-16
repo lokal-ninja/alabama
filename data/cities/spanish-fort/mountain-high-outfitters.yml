@@ -1,11 +1,11 @@
 id: 1308725126
-type: way
+type: node
 latitude: 30.66988
 longitude: -87.84939
 postcode: "36527"
 city: Spanish Fort
-street: "State Highway 181"
-housenumber: 30500
+street: State Highway 181
+housenumber: "30500"
 phone: ""
-opening_hours: "10:00-19:00"
-website: "https://mountainhighoutfitters.com/"
+opening_hours: 10:00-19:00
+website: https://mountainhighoutfitters.com/

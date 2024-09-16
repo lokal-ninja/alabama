@@ -1,11 +1,11 @@
 id: 480962882
-type: way
+type: node
 latitude: 34.58924
 longitude: -86.98208
 postcode: "35601"
 city: Decatur
-street: "6th Avenue Southeast"
-housenumber: 1203
-phone: "+1-256-822-6366"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2488/decatur-al/whats-new"
+street: 6th Avenue Southeast
+housenumber: "1203"
+phone: +1-256-822-6366
+opening_hours: 24/7
+website: https://www.walmart.com/store/2488/decatur-al/whats-new

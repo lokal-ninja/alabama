@@ -1,11 +1,11 @@
 id: 289468588
-type: way
+type: node
 latitude: 33.58544
 longitude: -86.28693
 postcode: "35125"
 city: Pell City
-street: "18th Street South"
-housenumber: 11
-phone: "+1 205 338 9935"
+street: 18th Street South
+housenumber: "11"
+phone: +1 205 338 9935
 opening_hours: ""
 website: ""
