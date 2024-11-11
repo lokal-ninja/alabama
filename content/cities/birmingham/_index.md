@@ -1,6 +1,6 @@
 ---
 title: Birmingham
 url: /birmingham/
-latitude: 33.639
-longitude: -86.629
+latitude: 33.604
+longitude: -86.639
 ---
