@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /birmingham/walmart-supercenter-parkway-east/
+url: /hoover/walmart-supercenter-highway-280/
 shop: supermarket
 ---
