@@ -1,5 +1,5 @@
 ---
 title: "FoodLand"
-url: /albertville/foodland/
+url: /florence/foodland/
 shop: supermarket
 ---
