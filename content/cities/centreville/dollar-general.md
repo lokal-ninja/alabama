@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /athens/dollar-general-us-highway-72-east/
+url: /centreville/dollar-general/
 shop: variety store
 ---
