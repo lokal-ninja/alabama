@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /cullman/walmart-supercenter-highway-157/
+url: /madison/walmart-supercenter-madison-boulevard/
 shop: supermarket
 ---
