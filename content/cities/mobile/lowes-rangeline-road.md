@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
-url: /mobile/lowes-airport-boulevard/
+url: /mobile/lowes-rangeline-road/
 shop: doityourself
 ---
