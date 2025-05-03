@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /athens/dollar-general-pryor-street-east/
+url: /madison/dollar-general-pine-grove-road/
 shop: variety store
 ---
