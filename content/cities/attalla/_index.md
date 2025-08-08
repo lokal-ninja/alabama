@@ -1,6 +1,6 @@
 ---
 title: Attalla
 url: /attalla/
-latitude: 33.994
-longitude: -86.094
+latitude: 33.998
+longitude: -86.097
 ---

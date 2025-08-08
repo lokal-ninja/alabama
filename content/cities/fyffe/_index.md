@@ -1,6 +1,6 @@
 ---
 title: Fyffe
 url: /fyffe/
-latitude: 34.543
-longitude: -85.911
+latitude: 34.445
+longitude: -85.908
 ---
