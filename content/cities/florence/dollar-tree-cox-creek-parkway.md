@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
-url: /florence/dollar-tree-florence-boulevard/
+url: /florence/dollar-tree-cox-creek-parkway/
 shop: variety store
 ---
