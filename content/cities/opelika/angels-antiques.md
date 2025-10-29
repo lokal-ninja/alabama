@@ -1,5 +1,5 @@
 ---
-title: "Angel's Antique's"
+title: "Angel's Antiques"
 url: /opelika/angels-antiques/
 shop: antiques
 ---
