@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /harvest/circle-k-al-53/
+url: /harvest/circle-k-harvest-road/
 shop: convenience
 ---
