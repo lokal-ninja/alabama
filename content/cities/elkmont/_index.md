@@ -1,6 +1,6 @@
 ---
 title: Elkmont
 url: /elkmont/
-latitude: 34.93
-longitude: -86.972
+latitude: 34.929
+longitude: -86.974
 ---
