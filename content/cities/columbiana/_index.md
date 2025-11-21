@@ -1,6 +1,6 @@
 ---
 title: Columbiana
 url: /columbiana/
-latitude: 33.179
-longitude: -86.613
+latitude: 33.178
+longitude: -86.607
 ---
