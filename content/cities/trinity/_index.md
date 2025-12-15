@@ -1,6 +1,6 @@
 ---
 title: Trinity
 url: /trinity/
-latitude: 34.538
-longitude: -87.161
+latitude: 34.589
+longitude: -87.092
 ---
