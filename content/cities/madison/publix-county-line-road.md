@@ -1,5 +1,5 @@
 ---
 title: "Publix"
-url: /madison/publix-madison-boulevard/
+url: /madison/publix-county-line-road/
 shop: supermarket
 ---
