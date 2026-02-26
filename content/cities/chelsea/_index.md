@@ -1,6 +1,6 @@
 ---
 title: Chelsea
 url: /chelsea/
-latitude: 33.346
-longitude: -86.631
+latitude: 33.348
+longitude: -86.619
 ---

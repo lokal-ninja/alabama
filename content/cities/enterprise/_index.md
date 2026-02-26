@@ -1,6 +1,6 @@
 ---
 title: Enterprise
 url: /enterprise/
-latitude: 31.308
-longitude: -85.849
+latitude: 31.316
+longitude: -85.827
 ---
