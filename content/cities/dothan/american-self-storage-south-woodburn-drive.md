@@ -1,5 +1,5 @@
 ---
 title: "American Self Storage"
-url: /dothan/american-self-storage-ross-clark-circle/
+url: /dothan/american-self-storage-south-woodburn-drive/
 shop: storage rental
 ---
