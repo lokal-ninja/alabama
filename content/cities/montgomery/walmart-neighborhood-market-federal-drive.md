@@ -1,5 +1,5 @@
 ---
 title: "Walmart Neighborhood Market"
-url: /montgomery/walmart-neighborhood-market-vaughn-road/
+url: /montgomery/walmart-neighborhood-market-federal-drive/
 shop: supermarket
 ---
