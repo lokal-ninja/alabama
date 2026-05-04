@@ -7,5 +7,6 @@ city: Dothan
 street: North Foster Street
 housenumber: "140"
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: Mo,We 10:00-16:00; Tu,Th 15:00-21:00; Fr 10:00-16:00,18:00-21:00; Sa
+    10:00-18:00; Su 14:00-17:00
+website: https://circlecitymahj.com/
