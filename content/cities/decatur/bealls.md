@@ -1,5 +1,5 @@
 ---
 title: "bealls"
 url: /decatur/bealls/
-shop: clothes
+shop: department store
 ---

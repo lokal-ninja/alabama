@@ -1,6 +1,6 @@
 ---
 title: Haleyville
 url: /haleyville/
-latitude: 34.225
-longitude: -87.622
+latitude: 34.219
+longitude: -87.62
 ---
