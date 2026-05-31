@@ -1,5 +1,5 @@
 ---
-title: "bealls"
+title: "Bealls"
 url: /guntersville/bealls/
-shop: department store
+shop: clothes
 ---
