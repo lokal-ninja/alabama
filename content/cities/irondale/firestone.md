@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
-url: /foley/firestone-mckenzie-street/
+url: /irondale/firestone/
 shop: car repair
 ---

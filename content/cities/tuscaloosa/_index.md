@@ -1,6 +1,6 @@
 ---
 title: Tuscaloosa
 url: /tuscaloosa/
-latitude: 33.193
-longitude: -87.527
+latitude: 33.195
+longitude: -87.523
 ---
