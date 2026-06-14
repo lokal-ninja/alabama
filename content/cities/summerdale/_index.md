@@ -1,6 +1,6 @@
 ---
 title: Summerdale
 url: /summerdale/
-latitude: 30.488
-longitude: -87.708
+latitude: 30.487
+longitude: -87.709
 ---
