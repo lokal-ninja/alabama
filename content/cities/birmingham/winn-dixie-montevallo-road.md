@@ -1,5 +1,5 @@
 ---
 title: "Winn-Dixie"
-url: /tuscaloosa/winn-dixie/
+url: /birmingham/winn-dixie-montevallo-road/
 shop: supermarket
 ---
