@@ -1,5 +1,5 @@
 ---
 title: "Bethel Grocery"
-url: /toney/bethel-grocery/
+url: /elkmont/bethel-grocery/
 shop: convenience
 ---
