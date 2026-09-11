@@ -7,5 +7,5 @@ city: Sylacauga
 street: US 280
 housenumber: "42492"
 phone: ""
-opening_hours: variable_time
+opening_hours: '"variable"'
 website: ""

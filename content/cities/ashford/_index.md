@@ -1,6 +1,6 @@
 ---
 title: Ashford
 url: /ashford/
-latitude: 31.182
-longitude: -85.238
+latitude: 31.184
+longitude: -85.236
 ---

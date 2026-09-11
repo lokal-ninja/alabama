@@ -1,6 +1,6 @@
 ---
 title: Vestavia Hills
 url: /vestavia-hills/
-latitude: 33.454
-longitude: -86.73
+latitude: 33.426
+longitude: -86.774
 ---

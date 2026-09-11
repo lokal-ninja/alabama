@@ -1,5 +1,5 @@
 ---
-title: "Fireflies Salon And Med Spa"
+title: "Fireflies Salon and Med Spa"
 url: /spanish-fort/fireflies-salon-and-med-spa/
-shop: hairdresser
+shop: beauty
 ---

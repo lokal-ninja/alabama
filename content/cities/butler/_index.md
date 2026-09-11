@@ -1,6 +1,6 @@
 ---
 title: Butler
 url: /butler/
-latitude: 32.091
-longitude: -88.219
+latitude: 32.076
+longitude: -88.226
 ---

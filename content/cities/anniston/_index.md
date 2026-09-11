@@ -1,6 +1,6 @@
 ---
 title: Anniston
 url: /anniston/
-latitude: 33.709
-longitude: -85.819
+latitude: 33.631
+longitude: -85.827
 ---
