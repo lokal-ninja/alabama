@@ -1,6 +1,6 @@
 ---
 title: Pinckard
 url: /pinckard/
-latitude: 31.316
-longitude: -85.559
+latitude: 31.312
+longitude: -85.548
 ---
