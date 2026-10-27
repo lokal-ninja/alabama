@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /florence/shell-cloverdale-road/
+url: /florence/shell-cox-creek-parkway/
 shop: convenience
 ---
