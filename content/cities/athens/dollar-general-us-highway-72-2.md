@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /florence/dollar-general-florence-blvd/
+url: /athens/dollar-general-us-highway-72-2/
 shop: variety store
 ---
